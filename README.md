@@ -12,6 +12,8 @@ Most traditional textbooks and learning programs teach FusHa, and students rely 
 
 I am only an introductory beginner at learning Arabic. But I have been learning languages all my life – the most recent one being the most universal and useful language of all — __code.__
 
+# Methodology
+
 This is a project that will start out simple - with a modest .csv spreadsheet that I am using by myself to build and annotate my vocabulary list. It will soon grow to encompass multiple sheets, each for nouns, adjectives, basic expressions, grammar - then verbs - then their conjugations. For each, there is an English infinitive, then an Arabic. Then an English transliteration. Then a FusHa translation. Then a Levantine regional translation. 
 
 Then there will be expressions that vary by region, even sometimes city by city, such as the case of geographically fragmented Palestine. How is this word pronounced in Yemen? Is there a colloquial form in Tunisia? What about Sudan? What phrases are unique to Egypt? Is it Cairo, or just the Upper Nile? There will be annotations and footnotes for these values. From there, entries alternative or equivalent translations will emerge, and values will need to be linked together. At some point, this modest (yet by now, robust) .csv will need to evolve into a __relational database.__ By then, the possibilities for data storage and query will grow exponentially, allowing for interfaces far beyond the navigation of a spreadsheet editor - and this is where the power lies.
