@@ -1,0 +1,39 @@
+Verb_Concept_ID,Dialect_ID,Tense,EN,AR
+1,Beirut,v.i1s,I pay,بِدفَع
+1,Beirut,v.i2ms,you pay,بْتِدْفَع
+1,Beirut,v.i2fs,you pay,بْتِدْفَعي
+1,Beirut,v.i3ms,he pays,بْيِدفَع
+1,Beirut,v.i3fs,she pays,بْتِدْفَع
+1,Beirut,v.i1p,we pay,منِدْفَع
+1,Beirut,v.i2p,you pay,بْتِدْفَعو
+1,Beirut,v.i3p,they pay,بيِدفَعو
+1,Beirut,v.p1s,I paid,دَفَعِت
+1,Beirut,v.p2ms,you paid,دَفَعِت
+1,Beirut,v.p2fs,you paid,دَفَعْتِ
+1,Beirut,v.p3ms,he paid,دَفَعْ
+1,Beirut,v.p3fs,she paid,دَفَعِت
+1,Beirut,v.p1p,we paid,دَفَعْنا
+1,Beirut,v.p2p,you paid,دَفَعْتو
+1,Beirut,v.p3p,they paid,دَفَعو
+1,Beirut,v.c2ms,pay,دْفاع
+1,Beirut,v.c2fs,pay,دْفَعي
+1,Beirut,v.c2p,pay,دْفَعو
+2,Beirut,v.i1s,I leave,بُضْهَر
+2,Beirut,v.i2ms,you leave,بتُضْهَر
+2,Beirut,v.i2fs,you leave,بتُضْهَري
+2,Beirut,v.i3ms,he leaves,بيُضْهَر
+2,Beirut,v.i3fs,she leaves,بتُضْهَر
+2,Beirut,v.i1p,we leave,منُضْهَر
+2,Beirut,v.i2p,you leave,بتُضْهَرو
+2,Beirut,v.i3p,they leave,بيُضْهَرو
+2,Beirut,v.p1s,I left,ضَهَرِت
+2,Beirut,v.p2ms,you left,ضَهَرِت
+2,Beirut,v.p2fs,you left,ضَهَرْتِ
+2,Beirut,v.p3ms,he left,ضَهَر
+2,Beirut,v.p3fs,she left,ضَهَرِت
+2,Beirut,v.p1p,we left,ضَهَرْنا
+2,Beirut,v.p2p,you left,ضَهَرْتو
+2,Beirut,v.p3p,they left,ضَهَرو
+2,Beirut,v.c2ms,leave,ضْهار
+2,Beirut,v.c2fs,leave,ضْهَري
+2,Beirut,v.c2p,leave,ضْهَزو
