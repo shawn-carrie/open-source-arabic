@@ -1,0 +1,4638 @@
+A-01-01,"We have a
+malfunction.",‘indana ‘uTil,عندنا عطل,
+A-01-01,"We have a
+malfunction.",‘indana ‘uTil,عندنا عطل,"military, air crew"
+A-01-02,We have a problem.,‘indana mushkila,عندنا مشكلة,
+A-01-02,We have a problem.,‘indana mushkila,عندنا مشكلة,"military, air crew"
+A-01-03,"We have an in-flight
+emergency.","‘indana Haalat
+Tawaaree ‘ala ar riHla","عندنا حالة طواري على
+الرحلة",
+A-01-03,"We have an in-flight
+emergency.","‘indana Haalat
+Tawaaree ‘ala ar riHla","عندنا حالة طواري على
+الرحلة","military, air crew"
+A-01-04,Go around.,iltaf,التف,
+A-01-04,Go around.,iltaf,التف,"military, air crew"
+A-01-05,Do not land!,laa tahbuT!,لا تهبط!,
+A-01-05,Do not land!,laa tahbuT!,لا تهبط!,"military, air crew"
+A-01-06,Unsafe (Danger),ghayr aamin,غير أمن,
+A-01-06,Unsafe (Danger),ghayr aamin,غير أمن,"military, air crew"
+A-01-07,Stop taxi!,tuwagaf ‘an at tadaruj!,توقف عن التدرج!,
+A-01-07,Stop taxi!,tuwagaf ‘an at tadaruj!,توقف عن التدرج!,"military, air crew"
+A-01-08,Cancel clearance.,ilghaa as samaaH,الغاء السماح,
+A-01-08,Cancel clearance.,ilghaa as samaaH,الغاء السماح,"military, air crew"
+A-01-09,Engine fire!,Hareega fee al muHarik!,حريقة في المحرك!,
+A-01-09,Engine fire!,Hareega fee al muHarik!,حريقة في المحرك!,"military, air crew"
+A-01-10,Aircraft fire!,"Hareega fee aT
+Tayaara!",حريقة في الطيارة!,
+A-01-10,Aircraft fire!,"Hareega fee aT
+Tayaara!",حريقة في الطيارة!,"military, air crew"
+A-01-11,Reserve airfield,iHjiz al majaal al jawee,احجز المجال الجوي,
+A-01-11,Reserve airfield,iHjiz al majaal al jawee,احجز المجال الجوي,"military, air crew"
+A-01-12,Landing gear problem,"mushkila fee ‘ajalaat al
+hubooT",مشكلة في عجلات الهبوط,
+A-01-12,Landing gear problem,"mushkila fee ‘ajalaat al
+hubooT",مشكلة في عجلات الهبوط,"military, air crew"
+A-02-01,Contact ___.,iteSil ___,اتصل ___,
+A-02-01,Contact ___.,iteSil ___,اتصل ___,"military, air crew"
+A-02-02,"Frequency ___ Point
+___",taradud ___ faaSila ___,تردد ___ فاصلة ___,
+A-02-02,"Frequency ___ Point
+___",taradud ___ faaSila ___,تردد ___ فاصلة ___,"military, air crew"
+A-02-03,"Switch to frequency
+___.",Hawil ‘ala taradud ___,حوَل على تردد ___,
+A-02-03,"Switch to frequency
+___.",Hawil ‘ala taradud ___,حوَل على تردد ___,"military, air crew"
+A-02-04,"Permit me to enter
+your control zone.","ismaH lee bil
+duKhool ila manTiqat
+sayTarateekum","اسمح لي بالدخول الى
+منطقة سيطرتكم",
+A-02-04,"Permit me to enter
+your control zone.","ismaH lee bil
+duKhool ila manTiqat
+sayTarateekum","اسمح لي بالدخول الى
+منطقة سيطرتكم","military, air crew"
+A-02-05,Altitude,irteefaa’,ارتفاع,
+A-02-05,Altitude,irteefaa’,ارتفاع,"military, air crew"
+A-02-06,Flight level,mustawaa at taHleeq,مستوى التحليق,
+A-02-06,Flight level,mustawaa at taHleeq,مستوى التحليق,"military, air crew"
+A-02-07,Distance,al misaafa,المسافة,
+A-02-07,Distance,al misaafa,المسافة,"military, air crew"
+A-02-08,A beam of ___,bath min ___,بث من ___,
+A-02-08,A beam of ___,bath min ___,بث من ___,"military, air crew"
+A-02-09,I passed over ___.,ijtazt fog ___,اجتزت فوق ___,
+A-02-09,I passed over ___.,ijtazt fog ___,اجتزت فوق ___,"military, air crew"
+A-02-10,Bearing,inHeraaf,انحراف,
+A-02-10,Bearing,inHeraaf,انحراف,"military, air crew"
+A-02-11,Traffic,Haraka,حركة,
+A-02-11,Traffic,Haraka,حركة,"military, air crew"
+A-02-12,Unidentified aircraft,Tayaara ghayr ma’roofa,طيارة غير معروفة,
+A-02-12,Unidentified aircraft,Tayaara ghayr ma’roofa,طيارة غير معروفة,"military, air crew"
+A-02-13,Aircraft,Tayaara,طيارة,
+A-02-13,Aircraft,Tayaara,طيارة,"military, air crew"
+A-02-14,Helicopter,heleekoptar,هيلوكبتر,
+A-02-14,Helicopter,heleekoptar,هيلوكبتر,"military, air crew"
+A-02-15,Climb to ___.,iS’ad ila ___,اصعد الى ___,
+A-02-15,Climb to ___.,iS’ad ila ___,اصعد الى ___,"military, air crew"
+A-02-16,Descend to ___.,inKhafiDh ila ___,انخفض الى ___,
+A-02-16,Descend to ___.,inKhafiDh ila ___,انخفض الى ___,"military, air crew"
+A-02-17,"Estimated time of
+arrival (ETA)","waqt al wuSool at
+taqreebee",وقت الوصول التقريبي,
+A-02-17,"Estimated time of
+arrival (ETA)","waqt al wuSool at
+taqreebee",وقت الوصول التقريبي,"military, air crew"
+A-02-18,Flight plan,KhiTat ar riHla,خطة الرحلة,
+A-02-18,Flight plan,KhiTat ar riHla,خطة الرحلة,"military, air crew"
+A-02-19,Fly heading ___.,Tir biteejaah ___,طر باتجاه ___,
+A-02-19,Fly heading ___.,Tir biteejaah ___,طر باتجاه ___,"military, air crew"
+A-02-20,We are bound for ___.,"Hinaa mitwajeeheen ila
+___",حنا متوجهين الى ___,
+A-02-20,We are bound for ___.,"Hinaa mitwajeeheen ila
+___",حنا متوجهين الى ___,"military, air crew"
+A-03-01,Please repeat slowly.,"law simaHt a’id maa
+qilta beebuTu",لو سمحت أعد ما قلته ببطء,
+A-03-01,Please repeat slowly.,"law simaHt a’id maa
+qilta beebuTu",لو سمحت أعد ما قلته ببطء,"military, air crew"
+A-03-02,Roger,istalamt,استلمت,
+A-03-02,Roger,istalamt,استلمت,"military, air crew"
+A-03-03,Over,Hawil,حول,
+A-03-03,Over,Hawil,حول,"military, air crew"
+A-03-04,I did not understand.,maa fihimt,ما فهمت,
+A-03-04,I did not understand.,maa fihimt,ما فهمت,"military, air crew"
+A-03-05,"Your transmission was
+blocked.",irsaalik ta’athar,ارسالك تعثر,
+A-03-05,"Your transmission was
+blocked.",irsaalik ta’athar,ارسالك تعثر,"military, air crew"
+A-03-06,Heavy static,tashweesh kitheer,تشويش كثير,
+A-03-06,Heavy static,tashweesh kitheer,تشويش كثير,"military, air crew"
+A-03-07,The signal is weak.,al-irsaal Dha’eef,الارسال ضعيف,
+A-03-07,The signal is weak.,al-irsaal Dha’eef,الارسال ضعيف,"military, air crew"
+A-03-08,Say again.,karir,كرر,
+A-03-08,Say again.,karir,كرر,"military, air crew"
+A-03-09,"This is an American
+aircraft.","haaThee Tayaara
+amreekeeya",هذي طيارة امريكية,
+A-03-09,"This is an American
+aircraft.","haaThee Tayaara
+amreekeeya",هذي طيارة امريكية,"military, air crew"
+A-03-10,"Spell it, please.","hajiha, law simaHt",هجها، لو سمحت,
+A-03-10,"Spell it, please.","hajiha, law simaHt",هجها، لو سمحت,"military, air crew"
+A-03-11,Did you say ___?,int gilt ___?,انت قلت___؟,
+A-03-11,Did you say ___?,int gilt ___?,انت قلت___؟,"military, air crew"
+A-03-12,I do not speak Arabic.,"anaa maa atikalam
+‘arabee",أنا ما اتكلم عربي,
+A-03-12,I do not speak Arabic.,"anaa maa atikalam
+‘arabee",أنا ما اتكلم عربي,"military, air crew"
+A-03-13,"Does anyone there
+speak English?","aHad minkum yitikalam
+ingleezee?",أحد منكم يتكلم انقليزي؟,
+A-03-13,"Does anyone there
+speak English?","aHad minkum yitikalam
+ingleezee?",أحد منكم يتكلم انقليزي؟,"military, air crew"
+A-03-14,"Am I talking with ___
+control?","hal anaa atkalam ma’
+___ as sayTara?","هل أنا اتكلم مع ___
+السيطرة؟",
+A-03-14,"Am I talking with ___
+control?","hal anaa atkalam ma’
+___ as sayTara?","هل أنا اتكلم مع ___
+السيطرة؟","military, air crew"
+A-03-15,"Is there a better
+frequency to
+communicate?","hal fee taradid thaanee
+nagdar nitikalam ‘aleyh?","هل في تردد ثاني نقدر نتكلم
+عليه؟",
+A-03-15,"Is there a better
+frequency to
+communicate?","hal fee taradid thaanee
+nagdar nitikalam ‘aleyh?","هل في تردد ثاني نقدر نتكلم
+عليه؟","military, air crew"
+A-03-16,I read you:,asma’ik jayeedan:,اسمعك جيدا:ً,
+A-03-16,I read you:,asma’ik jayeedan:,اسمعك جيدا:ً,"military, air crew"
+A-03-17,five-by,Khamsa fee,خمسة في,
+A-03-17,five-by,Khamsa fee,خمسة في,"military, air crew"
+A-03-18,four-by,arba’a fee,اربعة في,
+A-03-18,four-by,arba’a fee,اربعة في,"military, air crew"
+A-03-19,three-by,thalaatha fee,ثلاثة في,
+A-03-19,three-by,thalaatha fee,ثلاثة في,"military, air crew"
+A-03-20,two-by,ithneyn fee,اثنين في,
+A-03-20,two-by,ithneyn fee,اثنين في,"military, air crew"
+A-03-21,I do not read you.,maa simi’tik,ما سمعتك,
+A-03-21,I do not read you.,maa simi’tik,ما سمعتك,"military, air crew"
+A-04-01,Runway ___ in use.,"mudaraj ___
+mashghool",مدرج ___ مشغول,
+A-04-01,Runway ___ in use.,"mudaraj ___
+mashghool",مدرج ___ مشغول,"military, air crew"
+A-04-02,Wind at ___.,sur’at ar reeH ___,سرعة الريح ___,
+A-04-02,Wind at ___.,sur’at ar reeH ___,سرعة الريح ___,"military, air crew"
+A-04-03,Altimeter,‘adaad al-irteefaa’,عداد الارتفاع,
+A-04-03,Altimeter,‘adaad al-irteefaa’,عداد الارتفاع,"military, air crew"
+A-04-04,Number ___ to follow.,"ragam ___ ba’id
+haaThee",رقم ___ بعد هذي,
+A-04-04,Number ___ to follow.,"ragam ___ ba’id
+haaThee",رقم ___ بعد هذي,"military, air crew"
+A-04-05,Report,tagreer,تقرير,
+A-04-05,Report,tagreer,تقرير,"military, air crew"
+A-04-06,___ miles,___ amyaal,___ أميال,
+A-04-06,___ miles,___ amyaal,___ أميال,"military, air crew"
+A-04-07,___ kilometers,___ keelomitraat,___ كيلومترات,
+A-04-07,___ kilometers,___ keelomitraat,___ كيلومترات,"military, air crew"
+A-04-08,Beacon,manaara,منارة,
+A-04-08,Beacon,manaara,منارة,"military, air crew"
+A-04-09,Final (approach),al-iqtiraab an nihaa-ee,الاقتراب النهائي,
+A-04-09,Final (approach),al-iqtiraab an nihaa-ee,الاقتراب النهائي,"military, air crew"
+A-04-10,Base,qaa’ida,قاعدة,
+A-04-10,Base,qaa’ida,قاعدة,"military, air crew"
+A-04-11,Headwind,reeyaaH amaameeya,رياح امامية,
+A-04-11,Headwind,reeyaaH amaameeya,رياح امامية,"military, air crew"
+A-04-12,Tailwind,reeyaaH Khalfeeya,رياح خلفية,
+A-04-12,Tailwind,reeyaaH Khalfeeya,رياح خلفية,"military, air crew"
+A-04-13,Crosswind,reeyaaH jaaneebeeya,رياح جانبية,
+A-04-13,Crosswind,reeyaaH jaaneebeeya,رياح جانبية,"military, air crew"
+A-04-14,Downwind,reeyaaH min al-asfal,رياح من الاسفل,
+A-04-14,Downwind,reeyaaH min al-asfal,رياح من الاسفل,"military, air crew"
+A-04-15,Upwind,reeyaaH min al-a’la,رياح من الاعلى,
+A-04-15,Upwind,reeyaaH min al-a’la,رياح من الاعلى,"military, air crew"
+A-04-16,Extended (fully),mumtada,ممتدة,
+A-04-16,Extended (fully),mumtada,ممتدة,"military, air crew"
+A-04-17,Enter landing pattern.,"idKhul namaT al
+hubooT",ادخل نمط الهبوط,
+A-04-17,Enter landing pattern.,"idKhul namaT al
+hubooT",ادخل نمط الهبوط,"military, air crew"
+A-04-18,Cleared to land.,masmooHlik al hubooT,مسموحلك الهبوط,
+A-04-18,Cleared to land.,masmooHlik al hubooT,مسموحلك الهبوط,"military, air crew"
+A-04-19,Landing gear down.,"tam KhafiDh ‘ajalaat al
+hubooT",تم خفض عجلات الهبوط,
+A-04-19,Landing gear down.,"tam KhafiDh ‘ajalaat al
+hubooT",تم خفض عجلات الهبوط,"military, air crew"
+A-04-20,Turn on runway lights.,"ash’il anwaar al
+mudaraj",اشعل انوار المدرج,
+A-04-20,Turn on runway lights.,"ash’il anwaar al
+mudaraj",اشعل انوار المدرج,"military, air crew"
+A-04-21,"Is your navigation
+system working?","hal niDhaam al
+meelaaHa ‘indik
+shaghaal?","هل نظام الملاحة عندك
+شغال؟",
+A-04-21,"Is your navigation
+system working?","hal niDhaam al
+meelaaHa ‘indik
+shaghaal?","هل نظام الملاحة عندك
+شغال؟","military, air crew"
+A-04-22,I see the airfield.,"agdar ashoof al majaal
+al jawee",اقدر اشوف المجال الجوي,
+A-04-22,I see the airfield.,"agdar ashoof al majaal
+al jawee",اقدر اشوف المجال الجوي,"military, air crew"
+A-04-23,I see the runway.,"agdar ashoof al
+mudaraj",اقدر اشوف المدرج,
+A-04-23,I see the runway.,"agdar ashoof al
+mudaraj",اقدر اشوف المدرج,"military, air crew"
+A-04-24,I’ve landed.,qumit bil hubooT,قمت بالهبوط,
+A-04-24,I’ve landed.,qumit bil hubooT,قمت بالهبوط,"military, air crew"
+A-04-25,"Is your Instrument
+Landing System (VOR,
+TACAN) working?","hal mu’idaat al hubooT
+‘indik shaghaala?","هل معدات الهبوط عندك
+شغالة؟",
+A-04-25,"Is your Instrument
+Landing System (VOR,
+TACAN) working?","hal mu’idaat al hubooT
+‘indik shaghaala?","هل معدات الهبوط عندك
+شغالة؟","military, air crew"
+A-05-01,Taxiway,masaar at tadaruj,مسار التدرج,
+A-05-01,Taxiway,masaar at tadaruj,مسار التدرج,"military, air crew"
+A-05-02,Taxi,tadaruj,تدرج,
+A-05-02,Taxi,tadaruj,تدرج,"military, air crew"
+A-05-03,Turn right,lif yemeen,لف يمين,
+A-05-03,Turn right,lif yemeen,لف يمين,"military, air crew"
+A-05-04,Turn left,lif yesaar,لف يسار,
+A-05-04,Turn left,lif yesaar,لف يسار,"military, air crew"
+A-05-05,To the hardstand,ila manTiqat at tawaquf,الى منطقة التوقف,
+A-05-05,To the hardstand,ila manTiqat at tawaquf,الى منطقة التوقف,"military, air crew"
+A-05-06,"Follow the “follow-me”
+truck.","itba’ shaaHinat ad
+daleel",اتبع شاحنة الدليل,
+A-05-06,"Follow the “follow-me”
+truck.","itba’ shaaHinat ad
+daleel",اتبع شاحنة الدليل,"military, air crew"
+A-05-07,Take runway ___.,KhiTh al mudaraj ___,خذ المدرج ___,
+A-05-07,Take runway ___.,KhiTh al mudaraj ___,خذ المدرج ___,"military, air crew"
+A-05-08,Hold short of runway.,iqtirib min al mudaraj,اقترب من المدرج,
+A-05-08,Hold short of runway.,iqtirib min al mudaraj,اقترب من المدرج,"military, air crew"
+A-05-09,"Is able, enter next
+taxiway.","iThaa kinit gaadir, idKhil
+masaar at tadaruj al-
+awal","اذا كنت قادر، ادخل مسار
+التدرج الاول",
+A-05-09,"Is able, enter next
+taxiway.","iThaa kinit gaadir, idKhil
+masaar at tadaruj al-
+awal","اذا كنت قادر، ادخل مسار
+التدرج الاول","military, air crew"
+A-05-10,Taxi to parking.,tedaraj ila al mowaagif,تدرج الى المواقف,
+A-05-10,Taxi to parking.,tedaraj ila al mowaagif,تدرج الى المواقف,"military, air crew"
+A-05-11,Marshallers will assist.,"al maraasim raaH
+yigadimoon al
+musaa’ada","المراسم راح يقدومون
+المساعدة",
+A-05-11,Marshallers will assist.,"al maraasim raaH
+yigadimoon al
+musaa’ada","المراسم راح يقدومون
+المساعدة","military, air crew"
+A-05-12,"Taxi into position and
+hold.","tidaraj ila mawgi’ik wa
+tewagaf",تدرج الى موقعك و توقف,
+A-05-12,"Taxi into position and
+hold.","tidaraj ila mawgi’ik wa
+tewagaf",تدرج الى موقعك و توقف,"military, air crew"
+A-05-13,"There is an obstacle in
+our way.","fee ‘aa-ig fee
+Tareegana",في عائق في طريقنا,
+A-05-13,"There is an obstacle in
+our way.","fee ‘aa-ig fee
+Tareegana",في عائق في طريقنا,"military, air crew"
+A-05-14,"Can you move that
+___?","hal mumkin tHarik
+haaTha ___?",ها ممكن تحرك هذا ___؟,
+A-05-14,"Can you move that
+___?","hal mumkin tHarik
+haaTha ___?",ها ممكن تحرك هذا ___؟,"military, air crew"
+A-05-15,car?,sayaara?,سيارة؟,
+A-05-15,car?,sayaara?,سيارة؟,"military, air crew"
+A-05-16,truck?,shaaHina?,شاحنة؟,
+A-05-16,truck?,shaaHina?,شاحنة؟,"military, air crew"
+A-05-17,airplane?,Tayaara?,طيارة؟,
+A-05-17,airplane?,Tayaara?,طيارة؟,"military, air crew"
+A-05-18,powercart?,"‘arabat shaHin
+kahraba?",عربة شحن كهربا؟,
+A-05-18,powercart?,"‘arabat shaHin
+kahraba?",عربة شحن كهربا؟,"military, air crew"
+A-05-19,"We need minimum
+___.",niHtaaj ‘ala al-aqal ___,نحتاج على الاقل ___,
+A-05-19,"We need minimum
+___.",niHtaaj ‘ala al-aqal ___,نحتاج على الاقل ___,"military, air crew"
+A-05-20,50 feet taxiway,"Khamseen qadam ‘an
+masaar at tadaruj","خمسين قدم عن مسار
+التدرج",
+A-05-20,50 feet taxiway,"Khamseen qadam ‘an
+masaar at tadaruj","خمسين قدم عن مسار
+التدرج","military, air crew"
+A-05-21,70 feet taxiway,"sab’een qadam ‘an
+masaar at tadaruj","سبعين قدم عن مسار
+التدرج",
+A-05-21,70 feet taxiway,"sab’een qadam ‘an
+masaar at tadaruj","سبعين قدم عن مسار
+التدرج","military, air crew"
+A-05-22,"Our wingspan is ___
+meters.","Tool ajniHatnaa ___
+meter",طول اجنحتنا ___ متر,
+A-05-22,"Our wingspan is ___
+meters.","Tool ajniHatnaa ___
+meter",طول اجنحتنا ___ متر,"military, air crew"
+A-05-23,"We need wingtip
+clearance.","niHtaaj limasaafa lee
+istee’aab al-ajneeHa","نحتاج لمسافة لاستيعاب
+الاجنحة",
+A-05-23,"We need wingtip
+clearance.","niHtaaj limasaafa lee
+istee’aab al-ajneeHa","نحتاج لمسافة لاستيعاب
+الاجنحة","military, air crew"
+A-06-01,Request takeoff.,"naTlub as samaaH bil-
+iqlaa’",نطلب السماح بالاقلاع,
+A-06-01,Request takeoff.,"naTlub as samaaH bil-
+iqlaa’",نطلب السماح بالاقلاع,"military, air crew"
+A-06-02,Cleared for takeoff.,bee-imkaanik al-iqlaa’,بامكانك الاقلاع,
+A-06-02,Cleared for takeoff.,bee-imkaanik al-iqlaa’,بامكانك الاقلاع,"military, air crew"
+A-06-03,"After departure, ___.","ba’ad mughaadarat,
+___",بعد مغادرة___ ،,
+A-06-03,"After departure, ___.","ba’ad mughaadarat,
+___",بعد مغادرة___ ،,"military, air crew"
+A-06-04,Heading,amaamik,امامك,
+A-06-04,Heading,amaamik,امامك,"military, air crew"
+A-06-05,Flock of birds,sarib min aT Tuyoor,سرب من الطيور,
+A-06-05,Flock of birds,sarib min aT Tuyoor,سرب من الطيور,"military, air crew"
+A-06-06,Climb and maintain.,"iS’ad waHaafiDh ‘ala
+irteefaa’ik",اصعد وحافظ على ارتفاعك,
+A-06-06,Climb and maintain.,"iS’ad waHaafiDh ‘ala
+irteefaa’ik",اصعد وحافظ على ارتفاعك,"military, air crew"
+A-07-01,"What is the maximum
+weight the parking
+ramp can withstand?","wish agSaa wazin
+yitaHamila jiser al
+wugoof?","وش اقصى وزن يتحمله
+جسر الوقوف؟",
+A-07-01,"What is the maximum
+weight the parking
+ramp can withstand?","wish agSaa wazin
+yitaHamila jiser al
+wugoof?","وش اقصى وزن يتحمله
+جسر الوقوف؟","military, air crew"
+A-07-02,"What is the total length
+of the runway?","wish Tool al mudaraj al-
+ijmaalee?","وش طول المدرج
+الاجمالي؟",
+A-07-02,"What is the total length
+of the runway?","wish Tool al mudaraj al-
+ijmaalee?","وش طول المدرج
+الاجمالي؟","military, air crew"
+A-07-03,"What is the width of
+the runway?",wish ‘ariDh al mudaraj?,وش عرض المدرج؟,
+A-07-03,"What is the width of
+the runway?",wish ‘ariDh al mudaraj?,وش عرض المدرج؟,"military, air crew"
+A-07-04,"What is the maximum
+weight the runway can
+stand?","wish al wazin al-
+ijmaalee alee yagdar
+yitaHamila al mudaraj?","وش الوزن الاجمالي اللي
+يقدر يتحمله المدرج؟",
+A-07-04,"What is the maximum
+weight the runway can
+stand?","wish al wazin al-
+ijmaalee alee yagdar
+yitaHamila al mudaraj?","وش الوزن الاجمالي اللي
+يقدر يتحمله المدرج؟","military, air crew"
+A-07-05,"What are the
+operational hours of
+your tower?","wishee saa’aat al ‘amal
+fee burjikum?","وشي ساعات العمل في
+برجكم؟",
+A-07-05,"What are the
+operational hours of
+your tower?","wishee saa’aat al ‘amal
+fee burjikum?","وشي ساعات العمل في
+برجكم؟","military, air crew"
+A-07-06,"What fees are we
+liable for?","wishee ar rusoom al
+maTlooba mina?","وشي الرسوم المطلوبة
+منا؟",
+A-07-06,"What fees are we
+liable for?","wishee ar rusoom al
+maTlooba mina?","وشي الرسوم المطلوبة
+منا؟","military, air crew"
+A-07-07,"How much do we
+owe?",kam maTloob mina?,كم مطلوب منا؟,
+A-07-07,"How much do we
+owe?",kam maTloob mina?,كم مطلوب منا؟,"military, air crew"
+A-07-08,Dollars,doolaaraat,دولارات,
+A-07-08,Dollars,doolaaraat,دولارات,"military, air crew"
+A-07-09,Riyals,reeyaalaat,ريالات,
+A-07-09,Riyals,reeyaalaat,ريالات,"military, air crew"
+A-07-10,I am ___.,anaa ___,أنا ___,
+A-07-10,I am ___.,anaa ___,أنا ___,"military, air crew"
+A-07-11,"the aircraft
+commander",qaa-id aT Tayaara,قائد الطيارة,
+A-07-11,"the aircraft
+commander",qaa-id aT Tayaara,قائد الطيارة,"military, air crew"
+A-07-12,the flight engineer,muhandis ar riHla,مهندس الرحلة,
+A-07-12,the flight engineer,muhandis ar riHla,مهندس الرحلة,"military, air crew"
+A-07-13,the navigator,al malaaH,الملاح,
+A-07-13,the navigator,al malaaH,الملاح,"military, air crew"
+A-07-14,the copilot,musaa’id aT Tayaar,مساعد الطيار,
+A-07-14,the copilot,musaa’id aT Tayaar,مساعد الطيار,"military, air crew"
+A-07-15,the crew chief,ra-ees aT Taaqam,رئيس الطاقم,
+A-07-15,the crew chief,ra-ees aT Taaqam,رئيس الطاقم,"military, air crew"
+A-07-16,the flight surgeon,Tabeeb ar riHla,طبيب الرحلة,
+A-07-16,the flight surgeon,Tabeeb ar riHla,طبيب الرحلة,"military, air crew"
+A-07-17,the loadmaster,mas-ool at taHmeel,مسئول التحميل,
+A-07-17,the loadmaster,mas-ool at taHmeel,مسئول التحميل,"military, air crew"
+A-07-18,the radio operator,ma-moor al-iteeSalaat,مأمور الاتصالات,
+A-07-18,the radio operator,ma-moor al-iteeSalaat,مأمور الاتصالات,"military, air crew"
+A-07-19,This is the flight crew.,ma’ak Taaqam ar riHla,معك طاقم الرحلة,
+A-07-19,This is the flight crew.,ma’ak Taaqam ar riHla,معك طاقم الرحلة,"military, air crew"
+A-08-01,We need a forklift.,"niHtaaj raafi’a
+shawkeeya",نحتاج رافعة شوكية,
+A-08-01,We need a forklift.,"niHtaaj raafi’a
+shawkeeya",نحتاج رافعة شوكية,"military, air crew"
+A-08-02,Where do we unload?,"wayn inazil al
+Humoola?",وين ننزل الحمولة؟,
+A-08-02,Where do we unload?,"wayn inazil al
+Humoola?",وين ننزل الحمولة؟,"military, air crew"
+A-08-03,Pallet,saTHa,سطحة,
+A-08-03,Pallet,saTHa,سطحة,"military, air crew"
+A-08-04,Cargo,shiHna,شحنة,
+A-08-04,Cargo,shiHna,شحنة,"military, air crew"
+A-08-05,"We need a pallet
+loader.","niHtaaj aHad yiHamil
+as saTHa",نحتاج احد يحمل السطحة,
+A-08-05,"We need a pallet
+loader.","niHtaaj aHad yiHamil
+as saTHa",نحتاج احد يحمل السطحة,"military, air crew"
+A-08-06,"We need workers to
+assist with unloading.","niHtaaj ‘umaal
+yisaa’doona inazil al
+Humoola","نحتاج عمال يساعدونا ننزل
+الحمولة",
+A-08-06,"We need workers to
+assist with unloading.","niHtaaj ‘umaal
+yisaa’doona inazil al
+Humoola","نحتاج عمال يساعدونا ننزل
+الحمولة","military, air crew"
+A-08-07,"We need cargo
+handlers.","niHtaaj shayaaleen lil
+shiHna",نحتاج شيالين للشحنة,
+A-08-07,"We need cargo
+handlers.","niHtaaj shayaaleen lil
+shiHna",نحتاج شيالين للشحنة,"military, air crew"
+A-08-08,"Is there a staging area
+for cargo?","hal fee mekaan
+inteeDhaar lil shiHna?","هل في مكان انتظار
+للشحنة؟",
+A-09-01,Do you have ___?,fee ‘indikum ___?,في عندكم ___؟,
+A-09-01,Do you have ___?,fee ‘indikum ___?,في عندكم ___؟,"military, air crew"
+A-09-02,Oil,zayt,زيت,
+A-09-02,Oil,zayt,زيت,"military, air crew"
+A-09-03,Hydraulic fluid,zayt tashHeem,زيت تشحيم,
+A-09-03,Hydraulic fluid,zayt tashHeem,زيت تشحيم,"military, air crew"
+A-09-04,Hydraulic system,majmoo’at tashHeem,مجموعة تشحيم,
+A-09-04,Hydraulic system,majmoo’at tashHeem,مجموعة تشحيم,"military, air crew"
+A-09-05,"We need local airline
+maintenance support.","niHtaaj isnaad
+Seeyaana maHalee",نحتاج اسناد صيانة محلي,
+A-09-05,"We need local airline
+maintenance support.","niHtaaj isnaad
+Seeyaana maHalee",نحتاج اسناد صيانة محلي,"military, air crew"
+A-09-06,"Our power
+requirements are ___.","tawleed al kahraba al
+maTloob ___",توليد الكهربا المطلوب ___,
+A-09-06,"Our power
+requirements are ___.","tawleed al kahraba al
+maTloob ___",توليد الكهربا المطلوب ___,"military, air crew"
+A-09-07,400 cycle,arba’meyat dawra,اربعمية دورة,
+A-09-07,400 cycle,arba’meyat dawra,اربعمية دورة,"military, air crew"
+A-09-08,3-phase,thalaath maraaHil,ثلاث مراحل,
+A-09-08,3-phase,thalaath maraaHil,ثلاث مراحل,"military, air crew"
+A-09-09,alternating current,tayaar mutabaadal,تيار متبادل,
+A-09-09,alternating current,tayaar mutabaadal,تيار متبادل,"military, air crew"
+A-09-10,115 volt,"meeya wu
+KhamisTa’ash folt",مية وخمسطعش فولت,
+A-09-10,115 volt,"meeya wu
+KhamisTa’ash folt",مية وخمسطعش فولت,"military, air crew"
+A-10-01,Is fuel available?,hal al wugood mitwafir?,هل الوقود متوفر؟,
+A-10-01,Is fuel available?,hal al wugood mitwafir?,هل الوقود متوفر؟,"military, air crew"
+A-10-02,"What is the fuel
+composition / mixture?","wishee KhalTat al
+wugood?",وشي خلطة الوقود؟,
+A-10-02,"What is the fuel
+composition / mixture?","wishee KhalTat al
+wugood?",وشي خلطة الوقود؟,"military, air crew"
+A-10-03,What is the cost?,wish as si’ir?,وش السعر؟,
+A-10-03,What is the cost?,wish as si’ir?,وش السعر؟,"military, air crew"
+A-10-04,We need ___ kilos.,niHtaaj ___ keeloowaat,نحتاج ___ كيلوات,
+A-10-04,We need ___ kilos.,niHtaaj ___ keeloowaat,نحتاج ___ كيلوات,"military, air crew"
+A-10-05,"How much do we owe
+you?",kam tabee mina?,كم تبي منا؟,
+A-10-05,"How much do we owe
+you?",kam tabee mina?,كم تبي منا؟,"military, air crew"
+A-10-06,Do you have fuel pits?,‘indikum Hufrat tazyeet?,عندكم حفرة تزيت؟,
+A-10-06,Do you have fuel pits?,‘indikum Hufrat tazyeet?,عندكم حفرة تزيت؟,"military, air crew"
+A-10-07,"Are firefighters
+available during
+refueling?","hal rijaal al maTaafee
+yikoonoon mawjoodeen
+‘ind at tazawud bil
+wuqood?","هل رجال المطافي يكونون
+موجودين عند التزود
+بالوقود؟",
+A-10-07,"Are firefighters
+available during
+refueling?","hal rijaal al maTaafee
+yikoonoon mawjoodeen
+‘ind at tazawud bil
+wuqood?","هل رجال المطافي يكونون
+موجودين عند التزود
+بالوقود؟","military, air crew"
+A-10-08,"How much fuel do
+your trucks hold?","kam si’at naaqilatkum
+min al wuqood?","كم سعة ناقلتكم من
+الوقود؟",
+A-10-08,"How much fuel do
+your trucks hold?","kam si’at naaqilatkum
+min al wuqood?","كم سعة ناقلتكم من
+الوقود؟","military, air crew"
+A-10-09,We need refueling.,"niHtaaj ila ee’aadat at
+tazawud bil wugood","نحتاج الى اعادة التزود
+بالوقود",
+A-10-09,We need refueling.,"niHtaaj ila ee’aadat at
+tazawud bil wugood","نحتاج الى اعادة التزود
+بالوقود","military, air crew"
+A-10-10,"Where will we be
+refueling?","wayn raaH yukoon at
+tazawud bil wugood?","وين راح يكون التزود
+بالوقود؟",
+A-10-10,"Where will we be
+refueling?","wayn raaH yukoon at
+tazawud bil wugood?","وين راح يكون التزود
+بالوقود؟","military, air crew"
+A-10-11,"When can we be
+refueled?","mita nagdar nitzawud
+bil wugood?",متى نقدر نتزود بالوقود؟,
+A-10-11,"When can we be
+refueled?","mita nagdar nitzawud
+bil wugood?",متى نقدر نتزود بالوقود؟,"military, air crew"
+A-11-01,"Weather below
+minimums","aT Taqis taHt al Had al-
+adna",الطقس تحت الحد الادنى,
+A-11-01,"Weather below
+minimums","aT Taqis taHt al Had al-
+adna",الطقس تحت الحد الادنى,"military, air crew"
+A-11-02,Cloud cover,mughaTaa bil ghuyoom,مغطاة بالغيوم,
+A-11-02,Cloud cover,mughaTaa bil ghuyoom,مغطاة بالغيوم,"military, air crew"
+A-11-03,Upper edge at ___,al Had al-a’la ___,الحد الاعلى ___,
+A-11-03,Upper edge at ___,al Had al-a’la ___,الحد الاعلى ___,"military, air crew"
+A-11-04,Lower edge at ___,al Had al-adna ___,الحد الادنى ___,
+A-11-04,Lower edge at ___,al Had al-adna ___,الحد الادنى ___,"military, air crew"
+A-11-05,Ceiling ___ meters,as sagaf ___ amtaar,السقف ___ امتار,
+A-11-05,Ceiling ___ meters,as sagaf ___ amtaar,السقف ___ امتار,"military, air crew"
+A-11-06,"Visibility ___
+kilometers",ar ro-ya ___ keeloomitraat,الرؤية ___ كيلومترات,
+A-11-06,"Visibility ___
+kilometers",ar ro-ya ___ keeloomitraat,الرؤية ___ كيلومترات,"military, air crew"
+A-11-07,"Barometric
+pressure ___
+millibars","aDh DhaghiT al jawee ___
+mileebaaraat","الضغط الجوي ___
+ميليبارات",
+A-11-07,"Barometric
+pressure ___
+millibars","aDh DhaghiT al jawee ___
+mileebaaraat","الضغط الجوي ___
+ميليبارات","military, air crew"
+A-11-08,Wind shear,reeyaaH ‘aaSeefa,رياح عاصفة,
+A-11-08,Wind shear,reeyaaH ‘aaSeefa,رياح عاصفة,"military, air crew"
+A-11-09,Severe conditions,aHwaal jaweeya sayee-a,احوال جوية سيئة,
+A-11-09,Severe conditions,aHwaal jaweeya sayee-a,احوال جوية سيئة,"military, air crew"
+A-11-10,Wet runway,mudaraj mubalal,مدرج مبلل,
+A-11-10,Wet runway,mudaraj mubalal,مدرج مبلل,"military, air crew"
+A-11-11,Dry runway,mudaraj jaaf,مدرج جاف,
+A-11-11,Dry runway,mudaraj jaaf,مدرج جاف,"military, air crew"
+B-01-01,Stop!,wagif!,وقف!,
+B-01-02,Stop or I will shoot!,wagif wilaa armeek!,وقف والا أرميك!,
+B-01-03,Follow our orders.,itba’ al-awaamir,اتبع الاوامر,
+B-01-04,Don’t shoot!,laa tarmee!,لا ترمي!,
+B-01-05,Put your weapon down.,nazil slaaHik,نزّل سلاحك,
+B-01-06,Move.,taHarak,تحرك,
+B-01-07,Come here.,ta’aal hina,تعال هنا,
+B-01-08,Follow me.,ilHagnee,الحقني,
+B-01-09,Stay here.,Khaleek hina,خليك هنا,
+B-01-10,Wait here.,intaDhir hina,انتظر هنا,
+B-01-11,Do not move.,laa taHarak,لا تحرك,
+B-01-12,Stay where you are.,Khalik maHalik,خلك محلك,
+B-01-13,Come with me.,ta’aal me’ee,تعال معي,
+B-01-14,Take me to ___.,KhiThnee lee ___,خذني لـ ___,
+B-01-15,Be quiet.,Khalik saakit,خلك ساكت,
+B-01-16,Slow down.,shwaya shwaya,شوية شوية,
+B-01-17,Move slowly.,taHarak beebuTu,تحرك ببطئ,
+B-01-18,Hands up.,irfa’ eedeynik,ارفع ايدينك,
+B-01-19,Lower your hands.,nazil eedeynik,نزّل ايدينك,
+B-01-20,Lie down.,inbuTiH,انبطح,
+B-01-21,Lie on your stomach.,inbuTiH ‘ala baTnik,انبطح على بطنك,
+B-01-22,Get up.,gom,قم,
+B-01-23,Surrender.,istaslim,استسلم,
+B-01-24,You are a prisoner.,int aseer,انت أسير,
+B-01-25,We must search you.,laazim nifatishk,لازم نفتشك,
+B-01-26,Turn around.,indaar,اندار,
+B-01-27,Walk forward.,tigadam,تقدم,
+B-01-28,Form a line.,wagifoo ibSaf,وقفوا بصف,
+B-01-29,One at a time.,waaHid waaHid,واحد واحد,
+B-01-30,You are next.,jaa doorak,جا دورك,
+B-01-31,No talking.,bala kalaam,بلا كلام,
+B-01-32,Do not resist.,laa tgaawim,لا تقاوم,
+B-01-33,Calm down.,ihdaa,اهدئ,
+B-01-34,Give me.,‘aTnee,عطني,
+B-01-35,Do not touch.,laa talmas,لا تلمس,
+B-01-36,Do not remove.,laa taHarak,لا تحرك,
+B-01-37,Keep away.,ib’id ‘an,ابعد عن,
+B-01-38,Let us pass.,Khalana nimur,خلنا نمر,
+B-01-39,Don’t be frightened.,laa taKhaaf,لا تخاف,
+B-01-40,You can leave.,tagdar trooH,تقدر تروح,
+B-01-41,Go,ruH,رح,
+B-01-42,Go home.,ruH libaytikum,رح لبيتكم,
+B-01-43,Open,iftaH,افتح,
+B-01-44,Close,sakir,سكّر,
+B-01-45,Beware,intebih min,انتبه من,
+B-01-46,Bring me,jiblee,جبلي,
+B-01-47,Distribute,wazi’,وزع,
+B-01-48,Fill,‘abee,عبّي,
+B-01-49,Lift,irfa’,ارفع,
+B-01-50,Pour into,Sub fee,صب في,
+B-01-51,Put,HuT,حط,
+B-01-52,Take,KhiTh,خذ,
+B-01-53,Load,Hamil,حمّل,
+B-01-54,Unload,nazil,نزّل,
+B-01-55,Help me,saa’idnee,ساعدني,
+B-01-56,Show me,warinee,ورني,
+B-01-57,Tell me,gil lee,قلي,
+B-02-01,Please.,law simaHt,لو سمحت,
+B-02-02,Thank you.,mashkoor,مشكور,
+B-02-03,Can someone assist us?,"mumkin aHad
+yesaa’idnee?",ممكن أحد يساعدني؟,
+B-02-04,OK,Tayib,طيب,
+B-02-05,Excuse me. / I’m sorry.,‘an iThnik / ‘afwan,عن اذنك / عفواً,
+B-02-06,Yes,na’am,نعم,
+B-02-07,No,laa,لا,
+B-02-08,Maybe,mumkin,ممكن,
+B-02-09,Right,SaHeeH,صحيح,
+B-02-10,Wrong,ghalaT,غلط,
+B-02-11,Here,hina,هنا,
+B-02-12,There,hnaak,هناك,
+B-02-13,I want,abee,أبي,
+B-02-14,I do not want,maa abee,ما أبي,
+B-02-15,Danger,KhaTar,خطر,
+B-02-16,We are here to help you.,"Hinaa hina
+limsaa’adatkum",حنا هنا لمساعدتكم,
+B-02-17,Help is on the way.,"shwaya tijee al
+musaa’ada",شوية تجي المساعدة,
+B-02-18,We are Americans.,Hinaa amreekaan,حنا امريكان,
+B-02-19,You will not be harmed.,"maa aHad raayiH
+yeeTheek",ما احد رايح يذيك,
+B-02-20,You are safe.,int fee amaan,انت في أمان,
+B-02-21,"OK, no problem.","zayn, maa fee
+mushkila",زين، ما في مشكلة,
+B-02-22,Who?,minhoo?,منه؟,
+B-02-23,What?,wish?,وش؟,
+B-02-24,When?,mita?,متى؟,
+B-02-25,Where?,wayn?,وين؟,
+B-02-26,Why?,laysh?,ليش؟,
+B-02-27,How?,wishlon?,وشلون؟,
+B-02-28,What happened?,wish Saar?,وش صار؟,
+B-02-29,Do you have___?,ma’ik ___?,معك ___؟,
+B-02-30,Do you need help?,tabee musaa’ada?,تبي مساعدة؟,
+B-02-31,I am,anaa,أنا,
+B-02-32,You are,int,انت,
+B-02-33,He / She is,huwa / heeya,هوا / هيّا,
+B-02-34,We are,Hinaa,حنا,
+B-02-35,They are,hum,هم,
+B-03-01,Welcome.,ahleyn,أهلين,
+B-03-02,Hello.,marHaba,مرحبا,
+B-03-03,Good morning.,SabaHka al laa bil Khayr,صبّحك الله بالخير,
+B-03-04,Good night.,masaak al laa bil Khayr,مساك الله بالخير,
+B-03-05,Good bye.,fee amaan al laa,في امان الله,
+B-03-06,How are you?,wishlonak?,وشلونك؟,
+B-03-07,"I’m fine, thanks, and
+you?","anaa zayn, mashkoor,
+wishlonak int?","أنا زين، مشكور، وشلونك
+انت؟",
+B-03-08,"I’m pleased to meet
+you.",anaa mistaanis bshooftik,أنا مستانس بشوفتك,
+B-03-09,"Thank you for your
+help.","mashkoor ‘ala al
+musaa’ada",مشكور على المساعدة,
+B-03-10,My name is ___.,anaa ismee ___,أنا اسمي ___,
+B-04-01,Do you speak English?,t’arif ingleezee?,تعرف انقليزي؟,
+B-04-02,I do not speak Arabic.,anaa maa a’rif ‘arabee,أنا ما أعرف عربي,
+B-04-03,What is your name?,wish ismik?,وش اسمك؟,
+B-04-04,When is your birthday?,"wish hoo taareeKh
+meelaadak?",وش هو تاريخ ميلادك؟,
+B-04-05,Where were you born?,wayn inwaladt?,وين انولدت؟,
+B-04-06,What is your rank / title?,wish hee rutbitik?,وش هي رتبتك؟,
+B-04-07,"What is your
+nationality?",wish jinseetik?,وش جنسيتك؟,
+B-04-08,"Do you have any
+identification papers?",ma’ik ithbaat?,معك اثبات؟,
+B-04-09,"Do you have a
+passport?",ma’ik jawaaz?,معك جواز؟,
+B-04-10,What is your job?,wish tishtighl?,وش تشتغل؟,
+B-04-11,Who is in charge?,minhoo al mas-ool?,منه المسئول؟,
+B-04-12,Where do you serve?,wayn taKhdim?,وين تخدم؟,
+B-04-13,Which group are you in?,ma’ ay majmoo’a ant?,مع أيّ مجموعة انت؟,
+B-04-14,Answer the questions.,jaawib ‘ala al-as-ila,جاوب على الأسئلة,
+B-04-15,Where are you from?,minayn int?,منين انت؟,
+B-04-16,Do you understand?,tafham ‘alaya?,تفهم عليّ؟,
+B-04-17,I don’t understand.,"anaa maa afham
+‘alayk",أنا ما افهم عليك,
+B-04-18,How much?,bekam?,بكم؟,
+B-04-19,How many?,kam?,كم؟,
+B-04-20,Repeat it.,gil mara thaaneeya,قل مرة ثانية,
+B-04-21,Where is ___?,wayn ___?,وين ___؟,
+B-04-22,What direction?,ay itijaah?,أيّ اتجاه؟,
+B-04-23,Is it far?,bi’eed min hina?,بعيد من هنا؟,
+B-05-01,0    Zero,Sifir,صفر,
+B-05-02,1    One,waaHid,واحد,
+B-05-03,2    Two,ithnayn,اثنين,
+B-05-04,3    Three,thalaatha,ثلاثة,
+B-05-05,4    Four,arba’a,اربعة,
+B-05-06,5    Five,Khamsa,خمسة,
+B-05-07,6    Six,sita,ستة,
+B-05-08,7    Seven,sab’a,سبعة,
+B-05-09,8    Eight,thamaanya,ثمانية,
+B-05-10,9    Nine,tis’a,تسعة,
+B-05-11,10    Ten,‘ashra,عشرة,
+B-05-12,11    Eleven,Hdaa’ish,حداعش,
+B-07-01,Above / Over,fog,فوق,
+B-07-02,After / Past,ba’ad / ‘igub,بعد / عقب,
+B-07-03,Back / Behind,wara / Khalf,ورا / خلف,
+B-07-04,"Before / In front of /
+Forward","gabul / gidaam /
+ilgidaam",قبل / قدام / لقدام,
+B-07-05,Between,bayn,بين,
+B-07-06,Coordinates,iHdaatheeyaat,احداثيات,
+B-07-07,Degrees,darajaat,درجات,
+B-07-08,Down,lal asfal,للأسفل,
+B-07-09,East,sharg,شرق,
+B-07-10,Far,bi’eed,بعيد,
+B-07-11,Longitude,KhaT aT Tool,خط الطول,
+B-07-12,Left,yisaar,يسار,
+B-07-13,Latitude,KhaT al ‘arDh,خط العرض,
+B-07-14,My position is ___.,mawgi’ee fee ___,مو قعي في ___,
+B-07-15,Near,gireeb min,قريب من,
+B-07-16,North,shimaal,شمال,
+B-07-17,Northeast,shimaal shargee,شمال شرقي,
+B-07-18,Northwest,shimaal gharbee,شمال غربي,
+B-07-19,Right,yimeen,يمين,
+B-07-20,South,jinoob,جنوب,
+B-07-21,Southeast,jinoob shargee,جنوب شرقي,
+B-07-22,Southwest,jinoob gharbee,جنوب غربي,
+B-07-23,Straight ahead,‘ala Tool,على طول,
+B-07-24,Under,taHt,تحت,
+B-07-25,Up,fog,فوق,
+B-07-26,West,gharb,غرب,
+B-08-01,Beach,shaaTee,شاطي,
+B-08-02,Border,Hudood,حدود,
+B-08-03,Bridge,jisir,جسر,
+B-08-04,Camp,mKhayam,مخيم,
+B-08-05,Dirt road,Tareeg traabee,طريق ترابي,
+B-08-06,Forest,ghaaba,غابة,
+B-08-07,Harbor,meena,مينا,
+B-08-08,Hill,tala,تلة,
+B-08-09,House,bayt,بيت,
+B-08-10,Lake,buHeyra,بحيرة,
+B-08-11,Meadow,sahil,سهل,
+B-08-12,Mountain,jibal,جبل,
+B-08-13,Ocean,muHeeT,محيط,
+B-08-14,Path,darb,درب,
+B-08-15,Paved road,Tareeg mzaflat,طريق مزفلت,
+B-08-16,Place,maHal,محل,
+B-08-17,Position,mowgi’,موقع,
+B-08-18,River,nahar,نهر,
+B-08-19,Road,Tareeg,طريق,
+B-08-20,Sea,baHar,بحر,
+B-08-21,Square,muraba’,مربع,
+B-08-22,Tree,ishjara,شجرة,
+B-08-23,Valley,waadee,وادي,
+B-08-24,Village,garya,قرية,
+B-08-25,Where?,wayn?,وين؟,
+B-09-01,Black,aswad,اسود,
+B-09-02,Blue,azrag,ازرق,
+B-09-03,Brown,binee,بني,
+B-09-04,Gray,remaadee,رمادي,
+B-09-05,Green,aKhDhar,اخضر,
+B-09-06,Orange,burtegaalee,برتقالي,
+B-09-07,Purple,banafsijee,بنفسجي,
+B-09-08,Red,aHmar,احمر,
+B-09-09,White,abyaDh,ابيض,
+B-09-10,Yellow,aSfar,اصفر,
+B-09-11,Big,kebeer,كبير,
+B-09-12,Deep,ghameeg,غميق,
+B-09-13,Long,Toweel,طويل,
+B-09-14,Narrow,Dhayig,ضيق,
+B-09-15,Short (in height),igSayir,قصّير,
+B-09-16,Short (in length),igSayir,قصّير,
+B-09-17,"Small, little",Sghayir,صغيّر,
+B-09-18,Tall,Toweel,طويل,
+B-09-19,Thick,smeek,سميك,
+B-09-20,Thin,niHeef,نحيف,
+B-09-21,Wide,waasi’,واسع,
+B-09-22,Round,mdawar,مدوّر,
+B-09-23,Straight,mistigeem,مستقيم,
+B-09-24,Square,mraba’,مربع,
+B-09-25,Triangular,imthalath,مثلث,
+B-09-26,Bitter,mur,مر,
+B-09-27,Fresh,Taaza,طازة,
+B-09-28,Salty,maaliH,مالح,
+B-09-29,Sour,HaamiDh,حامض,
+B-09-30,Spicy,Haar,حار,
+B-09-31,Sweet,Hiloo,حلو,
+B-09-32,Bad,shayn,شين,
+B-09-33,Clean,naDheef,نظيف,
+B-09-34,Dark,ghaamig,غامق,
+B-09-35,Difficult,Sa’ib,صعب,
+B-09-36,Dirty,wasiKh,وسخ,
+B-09-37,Dry,jaaf,جاف,
+B-09-38,Easy,sahil,سهل,
+B-09-39,Empty,faaDhee,فاضي,
+B-09-40,Expensive,ghaalee,غالي,
+B-09-41,Fast,sree’,سريع,
+B-09-42,Foreign,ajnabee,اجنبي,
+B-09-43,Full,malyaan,مليان,
+B-09-44,Good,zayn,زين,
+B-09-45,Hard (firm),smeek,سميك,
+B-09-46,Heavy,thegeel,ثقيل,
+B-09-47,Inexpensive,irKhayiS,رخيّص,
+B-09-48,Light (illumination),Dhaw,ضو,
+B-09-49,Light (weight),Khafeef,خفيف,
+B-09-50,Local,maHalee,محلي,
+B-09-51,New,jedeed,جديد,
+B-09-52,Noisy,miz’ij,مزعج,
+B-09-53,Old (about things),gedeem,قديم,
+B-09-54,Old (about people),kebeer,كبير,
+B-09-55,Powerful,gowee,قوي,
+B-09-56,Quiet (person),haadee,هادي,
+B-09-57,Right / Correct,SaH / SiHeeH,صح / صحيح,
+B-09-58,Slow,beTee,بطي,
+B-09-59,Soft,naa’im,ناعم,
+B-09-60,Very,mara,مرة,
+B-09-61,Weak,Dha’eef,ضعيف,
+B-09-62,Wet,raTib,رطب,
+B-09-63,Wrong / Incorrect,"KhaTa / maa hoob
+SiHeeH",خطا / ما هوب صحيح,
+B-09-64,Young,shibaab,شباب,
+B-09-65,Few / Little,showaya / gileel,شوية / قليل,
+B-09-66,Many / Much,kitheer / waajid,كثير / واجد,
+B-09-67,Part,jizi,جزء,
+B-09-68,Some / A few,ba’iDh,بعض,
+B-09-69,Whole,kil,كل,
+B-10-01,Emergency!,Towaaree!,طواري!,
+B-10-02,We need a doctor!,nabee Tibeeb!,نبي طبيب!,
+B-10-03,Distress signal,‘alaamat inheeyaar,علامة انهيار,
+B-10-04,Help!,an najda!,النجدة!,
+B-10-05,Evacuate the area!,iKhloo al manTiga!,اخلو المنطقة!,
+B-11-01,Food,akil,أكل,
+B-11-02,Can,‘ilba,علبة,
+B-11-03,Cup,koob,كوب,
+B-11-04,Fork,shoka,شوكة,
+B-11-05,Knife,sikeen,سكين,
+B-11-06,Plate,SaHin,صحن,
+B-11-07,Spoon,mil’aga,ملعقة,
+B-11-08,Beans,fool,فول,
+B-11-09,Beer,beera,بيرة,
+B-11-10,Bread,Khebiz,خبز,
+B-11-11,Butter,zibda,زبدة,
+B-11-12,Cheese,jibin,جبن,
+B-11-13,Coffee,gahawa,قهوة,
+B-11-14,Fish,simak,سمك,
+B-11-15,Flour,TaHeen,طحين,
+B-11-16,Fruit,faak-ha,فاكهة,
+B-11-17,Meat,laHam,لحم,
+B-11-18,Milk,Haleeb,حليب,
+B-11-19,Oil,zayt,زيت,
+B-11-20,Potatoes,baTaaTis,بطاطاس,
+B-11-21,Rice,riz,رز,
+B-11-22,Salt,milH,ملح,
+B-11-23,Soup,shorba,شوربة,
+B-11-24,Sugar,sikar,سكر,
+B-11-25,Tea,shaahee,شاهي,
+B-11-26,Vegetables,KhiDhra,خضرة,
+B-11-27,Water,maya,مية,
+B-11-28,Wine,nabeeTh,نبيذ,
+B-11-29,Drink,sharaab,شراب,
+B-11-30,Eat,kil,كل,
+B-11-31,"Don’t push! We have
+plenty of food.","laa tdaafi’! al-akil
+waajid",لا دافع! الاكل واجد,
+B-11-32,Give me your bowl.,‘aTnee Taasitik,عطني طاستك,
+B-11-33,"Is the water safe to
+drink?","al maya naDheefa lish
+shurub?",المية نظيفة للشرب؟,
+B-11-34,Boil the water.,ighlee al maya,اغلي المية,
+B-11-35,Wash your hands.,ghasil eedeynak,غسل ايدينك,
+B-11-36,Wash yourself here.,tarawash hina,تروش هنا,
+B-11-37,"We need ___ liters of
+potable water.","nabee ___ litraat
+mayat shurub","نبي ___ لترات مية
+شرب",
+B-11-38,Where is the latrine?,wayn al Hammam?,وين الحمام؟,
+B-11-39,The latrine is to the ___.,al Hamaam ‘ala ___,الحمام على ___,
+B-11-40,The latrine is to the left.,"al Hamaam ‘ala al
+yisaar",الحمام على اليسار,
+B-11-41,The latrine is to the right.,"al Hamaam ‘ala al
+yimeen",الحمام على اليمين,
+B-11-42,"The latrine is straight
+ahead.",al Hamaam ala Tool,الحمام على طول,
+B-11-43,Is the food fresh?,al-akil jideed?,الاكل جديد؟,
+B-11-44,Is the food spoiled?,al-akil gedeem?,الاكل قديم؟,
+B-11-45,Burn this ___.,iHrig hal ___,احرق هالـ ___,
+B-12-01,Gasoline,banzeen,بنزين,
+B-12-02,Oil,zayt,زيت,
+B-12-03,Diesel,deezil,ديزل,
+B-12-04,Gas (propane),ghaaz,غاز,
+B-12-05,Liters,walaa’aat,ولاعات,
+B-12-06,Do you have___?,‘indik ___?,عندك ___؟,
+B-12-07,Hydraulic fluid,zayt haydroleekee,زيت هيدروليكي,
+B-12-08,Hydraulic system,"niDhaam
+haydroleekee",نظام هيدروليكي,
+B-12-09,"We need maintenance
+support.","niHtaaj isnaad aS
+Seeyaana",نحتاج اسناد الصيانة,
+B-12-10,We need ___.,niHtaaj ___,نحتاج ___,
+B-12-11,400-cycle,arba’meyat dawra,اربعمية دورة,
+B-12-12,3-phase,thalaath maraaHil,ثلاث مراحل,
+B-12-13,Alternating current,tayaar mutaradid,تيار متردد,
+B-12-14,115-volt,"meya wu
+KhamisTa’ish folt",مية و خمسطعش فولت,
+B-13-01,Antibiotics,"muDhaadaat
+Hayaweeya",مضادات حيوية,
+B-13-02,Bandage,lazgat jrooH,لزقة جروح,
+B-13-03,Blood,dam,دم,
+B-13-04,Burn,Harg,حرق,
+B-13-05,Clean,naDheef,نظيف,
+B-13-06,Dead,mayit,ميت,
+B-13-07,Doctor,Tabeeb,طبيب,
+B-13-08,Fever,Haraara,حرارة,
+B-13-09,Hospital,mistashfa,مستشفى,
+B-13-10,Infection,ilteehaab,التهاب,
+B-13-11,Injured,injaraH,انجرح,
+B-13-12,Malnutrition,soo taghTheeya,سوء تغذية,
+B-13-13,Medic,is’aaf,اسعاف,
+B-13-14,Medicine,Tib,طب,
+B-13-15,Nurse,mariDha,ممرضة,
+B-13-16,Poison,sim,سم,
+B-13-17,Sick,mareeDh,مريض,
+B-13-18,Vitamins,feetaameenaat,فيتمينات,
+B-13-19,Wound,jarH,جرح,
+B-13-20,I am a doctor.,anaa Tabeeb,انا طبيب,
+B-13-21,I am not a doctor.,anaa maanee Tabeeb,انا ما ني طبيب,
+B-13-22,I am going to help.,anaa raayiH asaa’dak,انا رايح اساعدك,
+B-13-23,Can you walk?,tagdar tamshee?,تقدر تمشي؟,
+B-13-24,Can you sit?,tagdar tag’id?,تقدر تقعد؟,
+B-13-25,Can you stand?,tagdar tigaf?,تقدر تقف؟,
+B-13-26,Are you in pain?,feek wuja’?,فيك وجع؟,
+B-13-27,"You will get a shot.
+(injection)",raaH ni’Teek ibra,راح نعطيك ابرة,
+B-13-28,"I will take you to the
+hospital.","raayiH aaKhiThak lil
+mistashfa",رايح اخذك للمستشفى,
+B-13-29,What is wrong?,wish feek?,وش فيك؟,
+B-13-30,Are you injured?,hal int muSaab?,هل انت مصاب؟,
+B-13-31,Can you feed yourself?,tagdar taakil ilHaalik?,تقدر تاكل لحالك؟,
+B-13-32,Open your mouth.,iftaH famik,افتح فمك,
+B-13-33,Are you pregnant?,hal intee Haamil?,هل انتي حامل؟,
+B-14-01,Abdomen,baTin,بطن,
+B-14-02,Ankle,ka’ib,كعب,
+B-14-03,Arm,Thraa’,ذراع,
+B-14-04,Bone,‘aDhim,عظم,
+B-14-05,Brain,dimaagh,دماغ,
+B-14-06,Chest,Sadir,صدر,
+B-14-07,Ear,iThin,اذن,
+B-14-08,Elbow,koo’,كوع,
+B-14-09,Eyes,‘iyoon,عيون,
+B-14-10,Face,wajih,وجه,
+B-14-11,Finger,iSba’,اصبع,
+B-14-12,Foot,rijil,رجل,
+B-14-13,Hair,sha’ir,شعر,
+B-14-14,Hand,eed,ايد,
+B-14-15,Head,raas,راس,
+B-14-16,Heart,galib,قلب,
+B-14-17,Kidney,kilya,كلية,
+B-14-18,Knee,rikba,ركبة,
+B-14-19,Leg,saag,ساق,
+B-14-20,Lips,shifa,شفة,
+B-14-21,Liver,kabd,كبد,
+B-14-22,Lungs,ree-a,رئة,
+B-14-23,Mouth,fam,فم,
+B-14-24,Neck,urgeba,رقبة,
+B-14-25,Nose,Khashim,خشم,
+B-14-26,Pelvis / Groin,HoDh,حوض,
+B-14-27,Ribs,Dhloo’,ضلوع,
+B-14-28,Shoulder,katif,كتف,
+B-14-29,Skull,jumjuma,جمجمة,
+B-14-30,Spine,Habil shokee,حبل شوكي,
+B-14-31,Stomach (area),baTin,بطن,
+B-14-32,Stomach (organ),mi’da,معدة,
+B-14-33,Teeth,snoon,سنون,
+B-14-34,Toe,iSbi’ rijil,اصبع رجل,
+B-14-35,Tongue,ilsaan,لسان,
+B-14-36,Wrist,maHbas,محبس,
+B-15-01,General,‘ameed,عميد,
+B-15-02,Admiral,‘ameed baHree,عميد بحري,
+B-15-03,Colonel,‘aqeed,عقيد,
+B-15-04,Lieutenant Colonel,muqadam,مقدم,
+B-15-05,Commander,gaayid,قايد,
+B-15-06,Major,raayid,رايد,
+B-15-07,Captain,negeeb,نقيب,
+B-15-08,Lieutenant,mulaazim,ملازم,
+B-15-09,Senior Sergeant,ra-ees rugaba,رئيس رقباء,
+B-15-10,Soldier,jindee,جندي,
+B-15-11,Airman,fard jawee,فرد جوي,
+B-15-12,Seaman,fard baHree,فرد بحري,
+B-15-13,Marine,mushaat baHreeya,مشاة بحرية,
+B-16-01,"We must spend the
+night here.","laazim ninaam hina al
+layla",لازم ننام هنا الليلة,
+B-16-02,"Is there a dining facility
+here?","hal fee kafeeteerya
+hina?",هل في كافتيريا هنا؟,
+B-16-03,"How many kilometers to
+the nearest town?","kam keelo mitir agrab
+madeena min hina?","كم كيلو متر أقرب مدينة
+من هنا؟",
+B-16-04,"Are there any hotels
+near here?","hal fee ay fanaadig
+Holana?",هل في أي فنادق حولنا؟,
+B-16-05,"Are there any
+restaurants near here?","hal fee ay maTaa’im
+Holana?",هل في أي مطاعم حولنا؟,
+B-16-06,We want to go to ____.,nabee nurooH lil ___,نبي نروح للـ ___,
+B-16-07,"Are there rental cars
+available?","hal fee ‘indak
+sayaaraat eejaar?","هل في عندك سيارات
+ايجار؟",
+B-16-08,"Is there a telephone
+available?",hal ‘indak talafon?,هل عندك تلفون؟,
+B-16-09,"We need ___ gallons of
+potable water.","miHtaajeen ___
+jaaloonaat mayat
+shurub","محتاجين ___ جالونات
+مية شرب",
+B-17-01,Air Force,guwaat jaweeya,قوات جوية,
+B-17-02,Army,jaysh,جيش,
+B-17-03,Marines,mushaat baHreeya,مشاة بحرية,
+B-17-04,Navy,baHreeya,بحرية,
+B-17-05,Air Defense,difaa’ jawee,دفاع جوي,
+B-17-06,Commander,gaayid,قائد,
+B-17-07,Dentist,Tabeeb asnaan,طبيب اسنان,
+B-17-08,Doctor,Tabeeb,طبيب,
+B-17-09,Driver,sawaag,سواق,
+B-17-10,Farmer,imzaari’,مزارع,
+B-17-11,Fisherman,Sayaad simak,صياد سمك,
+B-17-12,Government employee,muwaDhaf Hukoomee,موظف حكومي,
+B-17-13,Guard,Haaris,حارس,
+B-17-14,Housewife,rabat bayt,ربة بيت,
+B-17-15,Laborer,‘aamil,عامل,
+B-17-16,Mechanic,mikaaneekee,مكانيكي,
+B-17-17,Messenger,imraasil,مراسل,
+B-17-18,Pilot,Tayaar,طيّار,
+B-17-19,Policeman,shirTee,شرطي,
+B-17-20,Sailor,baHaar,بحار,
+B-17-21,Businessman,taajir,تاجر,
+B-17-22,Shopkeeper,bayaa’,بيّاع,
+B-17-23,Soldier,jindee,جندي,
+B-17-24,Student,Taalib,طالب,
+B-17-25,Teacher,istaaTh,استاذ,
+B-18-01,"Where is my customs
+declaration?","wayn awraag
+taKhleeS al jumrik?","وين اوراق تخليص
+الجمرك؟",
+B-18-02,"I do not have anything
+to declare.","maa ‘indee shay
+ajamreka",ما عندي شي اجمركه,
+B-18-03,"These goods are
+personal.","haaThee aghraaDh
+shaKhSeeya",هذه اغراض شخصية,
+B-18-04,Not for sale.,maa hoo lil bay’,ما هو للبيع,
+B-18-05,"Can you help me fill out
+the forms?","mumkin tsaa’idnee
+a’abee an namaaThij?","ممكن تساعدني اعبي
+النماذج؟",
+B-18-06,Is this correct?,SaHeeH?,صحيح؟,
+B-18-07,Here is my passport.,haaTha juwaazee,هذا جوازي,
+B-18-08,Here is my visa.,haaThee feezitee,هذي فيزتي,
+B-18-09,I have no Riyals.,maa ‘indee reeyalaat,ما عندي ريالات,
+B-18-10,Ad valorem,rusoom al jamaarik,رسوم الجمارك,
+B-18-11,Ammunition,ThaKheera,ذخيرة,
+B-18-12,Baggage,‘afsh,عفش,
+B-18-13,Bill of lading,booleeSat ash shaHin,بوليصة الشحن,
+B-18-14,Cargo,shiHna,شحنة,
+B-18-15,Customs,jumruk,جمرك,
+B-18-16,Customs declaration,taKhleeS jumrukee,تخليص جمركي,
+B-18-17,Customs tax,Dhareeba jumrukeeya,ضربية جمركية,
+B-18-18,Customs worker,muwaDhaf jumruk,موظف جمرك,
+B-18-19,Damaged,imkasar,مكسّر,
+B-18-20,Delivery,tawSeel,توصيل,
+B-18-21,Duty,Dhareeba,ضريبة,
+B-18-22,Expenditures,maSaareef,مصاريف,
+B-18-23,Export,taSdeer,تصدير,
+B-18-24,False,ghalaT,غلط,
+B-18-25,Foreign currency,‘imla ajnabeeya,عملة اجنبية,
+B-18-26,Form (document),numooThaj,نموذج,
+B-18-27,Holding,HifiDh,حفظ,
+B-18-28,Import,isteeraad,استيراد,
+B-18-29,Insurance,ta-meen,تأمين,
+B-18-30,Saudi,su’oodee,سعودي,
+B-18-31,Loading,taHmeel,تحميل,
+B-18-32,Name of goods,asmaa al baDhaayi’,اسماء البضايع,
+B-18-33,Narcotics,muKhadiraat,مخدرات,
+B-18-34,National treasure,turaath waTanee,تراث وطني,
+B-18-35,Nomenclature,musama,مسمى,
+B-18-36,On-board,‘ala matin,على متن,
+B-18-37,Origin,aSil,أصل,
+B-18-38,Owner,SaaHib,صاحب,
+B-18-39,Packing list,listat al ‘afsh,لستة العفش,
+B-18-40,Passport,juwaaz,جواز,
+B-18-41,Permission,taSreeH,تصريح,
+B-18-42,Personal use,istiKhdaam shaKhSee,استخدام شخصي,
+B-18-43,Personnel,shaKhSee,شخصي,
+B-18-44,Prohibited,mamnoo’,ممنوع,
+B-18-45,Property,milk,ملك,
+B-18-46,Rate,tas’eera,تسعيرة,
+B-18-47,Rate of exchange,si’ir aS Sarf,سعر الصرف,
+B-18-48,Receipt,waSil,وصل,
+B-18-49,Relics,aathaar,أثار,
+B-18-50,Restricted,mamnoo’,ممنوع,
+B-18-51,Souvenir,hadeeya,هدية,
+B-18-52,Specification,ma’aayeer,معايير,
+B-18-53,Storage,mistawda’,مستودع,
+B-18-54,Tariff,ta’reefa,تعريفة,
+B-18-55,Tax-free,"ma’feeya min aDh
+Dharaayib",معفية من الضرايب,
+B-18-56,To answer,yejaawub,يجاوب,
+B-18-57,To be responsible for,tkoon mas-ool ‘an,تكون مسئول عن,
+B-18-58,To export,yiSadir,يصدر,
+B-18-59,To fill out,yi’abee,يعبي,
+B-18-60,"To present for customs
+inspection","yegadim iltafteesh al
+jamaarik",يقدم لتفتيش الجمارك,
+B-18-61,Transportation,mowaaSalaat,مواصلات,
+B-18-62,Unloading,tafreegh,تفريغ,
+B-18-63,Valuables,ashyaa thameena,اشياء ثمينة,
+B-18-64,Value,geemat,قيمة,
+B-18-65,Visa,feeza,فيزا,
+B-18-66,Weapons,asliHa,اسلحة,
+B-18-67,X-ray machine,jihaaz ashi’a,جهاز اشعة,
+B-19-01,"Aunt (paternal /
+maternal)",‘ama / Khaala,عمة / خالة,
+B-19-02,Brother,uKhoo,اخو,
+B-19-03,Child,‘ayil,عيل,
+B-19-04,Children,‘eyaal,عيال,
+B-19-05,"Cousin (paternal /
+maternal)",ibin ‘am / ibin Khaal,ابن عم / ابن خال,
+B-19-06,Daughter,bnaya,بنية,
+B-19-07,Family,‘ayla,عيلة,
+B-19-08,Father,uboo,ابو,
+B-19-09,Grandfather,jid,جد,
+B-19-10,Grandmother,jida,جدة,
+B-19-11,Husband,zoj,زوج,
+B-20-01,Cold,bard,برد,
+B-20-02,Dry,jaaf,جاف,
+B-20-03,Earthquake,zilzaal,زلزال,
+B-20-04,Fog,Dhabaab,ضباب,
+B-20-05,High winds,reeyaaH shedeeda,رياح شديدة,
+B-20-06,Hot,Har,حر,
+B-20-07,Humidity,ruTooba,رطوبة,
+B-20-08,Ice,jleed,جليد,
+B-20-09,Lightning,barg,برق,
+B-20-10,Rain,miTar,مطر,
+B-20-11,Sandstorm,‘aaSfa ramleeya,عاصفة رملية,
+B-20-12,Severe,shedeed,شديد,
+B-22-01,Angle,zaawya,زاوية,
+B-22-02,Azimuth,darajat al-inHiraaf,درجة الانحراف,
+B-22-03,Cleared lane,masaar muTahar,مسار مطهر,
+B-22-04,Compass,boSala,بوصلة,
+B-22-05,Danger area,manTiga KhaTeera,منطقة خطيرة,
+B-22-06,Demolition,tadmeer,تدمير,
+B-22-07,Grappling hook,winsh at taT-heer,ونش التطهير,
+B-22-08,In place,fee makaana,في مكانه,
+B-22-09,Metallic,ma’danee,معدني,
+B-22-10,Mine,lagham,لغم,
+B-22-11,Minefield,Hagil alghaam,حقل الغام,
+B-22-12,Non-metallic,ghayr ma’danee,غير معدني,
+B-22-13,Pace,KhuTwa,خطوة,
+B-22-14,Stake,‘aSa,عصا,
+B-22-15,Tree,shjara,شجرة,
+B-22-16,Tape,lizayg,لزيق,
+C-01-01,"Do you understand
+this language?","tagdar tafham haaThee
+al lugha?",تقدر تفهم هذي اللغة؟,
+C-01-02,"We are here to help
+you.",Hinaa hina limsaa’adtik,حنا هنا لمساعدتك,
+C-01-03,I do not understand.,anaa maa afham,انا ما افهم,
+C-01-04,"There is no one
+available who speaks
+Arabic.","maa fee aHad yitkalam
+‘arabee",ما في احد يتكلم عربي,
+C-01-05,I understand.,afham,أفهم,
+C-01-06,"Repeat, please.",a’id law simaHt,اعد لو سمحت,
+C-01-07,Come with me.,ta’aal me’ee,تعال معي,
+C-01-08,Be quiet.,Khalik saakit,خلك ساكت,
+C-01-09,"Describe it with
+gestures.","waSiflee eeyaaha bil
+eeshaara",وصفلي اياها بالاشارة,
+C-01-10,Do not get excited.,laa taHamas,لا تحمس,
+C-01-11,Do what I ask.,saaw ilee agoolik ‘aleyh,ساو اللي اقولك عليه,
+C-01-12,Do you mean “no”?,hal gaSdik “laa”?,هل قصدك “لا”؟,
+C-01-13,Do you mean “yes”?,hal gaSdik “na’am”?,هل قصدك “نعم”؟,
+C-01-14,"I will get an
+interpreter.",raaH ajeeb mutarjim,راح اجيب مترجم,
+C-01-15,Is this it?,hal haaThee heeya?,هل هذي هيا؟,
+C-01-16,Yes,na’am,نعم,
+C-01-17,No,laa,لا,
+C-01-18,Point to it.,ashir ‘alayha,اشر عليها,
+C-01-19,Relax.,irtaaH,ارتاح,
+C-01-20,Show me.,warinee,ورني,
+C-01-21,"Write your answer
+here.",iktib ijaabitik hina,اكتب اجابتك هنا,
+C-01-22,Please.,law simaHt,لو سمحت,
+C-01-23,Thank you.,mashkoor,مشكور,
+C-01-24,You are welcome.,al ‘afoo,العفو,
+C-01-25,"Thank you for talking
+with me.","mashkoor ‘ala kalaamik
+me’naa",مشكور على كلامك معنا,
+C-01-26,"I will talk with you
+again.","raaH atikalam me’ik
+mara thaaneeya",راح اتكلم معك مرة ثانية,
+C-01-27,Good-bye.,ma’ as salaama,مع السلامة,
+C-02-01,"What is your given
+name?",wish ismik al-awal?,وش اسمك الاول؟,
+C-02-02,"What is your family
+name?",wish isim al ‘aa-ila?,وش اسم العائلة؟,
+C-02-03,"What is your
+nationality?",wishee jinseetik?,وشي جنسيتك؟,
+C-02-04,"What country were
+you born in?",fee ay balad inwaladt?,في أي بلد انولدت؟,
+C-02-05,How old are you?,kam ‘umrik?,كم عمرك؟,
+C-02-06,"Do you have an
+identity card?",me’ik biTaagat ithbaat?,معك بطاقة اثبات؟,
+C-02-07,"Show me your
+identification.",warinee ithbaatik,ورني اثباتك,
+C-02-08,"How many people live
+in this area?","kam ‘adad al ashKhaaS
+alee ye’eeshoon fee
+haaThee al manTiga?","كم عدد الاشخاص اللي
+يعيشون في هذي المنطقة؟",
+C-02-09,"Who is the leader of
+this community?","min hoo kibeer haaThee
+al jamaa’a?",من هو كبير هذي الجماعة؟,
+C-02-10,What is his name?,wish ismah?,وش اسمه؟,
+C-02-11,"Please write down his
+name.",law simaHt iktib ismah,لو سمحت اكتب اسمه,
+C-02-12,Show us the leader.,warana al gaayid,ورنا القايد,
+C-02-13,"How many men and
+women live in this
+community?","kam ‘adad ar rijaal
+wa al Hareem alee
+ye’eeshoon fee haaThee
+al manTiga?","كم عدد الرجال و الحريم
+اللي يعيشون في هذي
+المنطقة؟",
+C-02-14,"How many children
+live here?","kam ‘adad al aTfaal alee
+ye’eeshoon hina?","كم عدد الاطفال اللي
+يعيشون هنا؟",
+C-02-15,"Are there schools
+here for the children?","hal fee medaaris hina lil
+aTfaal?","هل في مدارس هنا
+للاطفال؟",
+C-02-16,"Is there enough
+potable water for the
+people?","hal fee mayat shirib
+kaafeeya lil naas?","هل في مية شرب كافية
+للناس؟",
+C-02-17,Is there a water well?,hal fee beer maa?,هل في بير ما؟,
+C-02-18,"Is there a public
+fountain?",hal fee naafoora ‘aama?,هل في نافورة عامة؟,
+C-02-19,"Are there any medics
+here?","hal fee ay sayaaraat
+is’aaf hina?","هل في أي سيارات اسعاف
+هنا؟",
+C-02-20,"Are there any
+engineers?","hal fee ay
+muhandiseen?",هل في أي مهندسين؟,
+C-02-21,"Are there any
+teachers?",hal fee ay asaatiTha?,هل في أي اساتذة؟,
+C-02-22,"Are there empty
+buildings here?","hal fee ay mabaanee
+faaDheeya hina?","هل في أي مباني فاضية
+هنا؟",
+C-02-23,"Is there a local police
+force?","hal fee ‘indikum shurTa
+maHaleeya?","هل في عندكم شرطة
+محلية؟",
+C-02-24,"Who is responsible
+for public safety
+here?","man hoo mas-ool al-
+amin hina?",من هو مسئول الامن هنا؟,
+C-02-25,"Whose responsibility
+is fire protection?","man hoo al mas-ool ‘an
+al maTaafee?","من هو المسئول عن
+المطافي؟",
+C-02-26,"Do you have fire
+fighting equipment?","hal ‘indikum mu’idaat
+iTfaa Hareeq?","هل عندكم معدات اطفاء
+حريق؟",
+C-02-27,"Do you have a fire
+engine?","‘indikum sayaaraat
+maTaafee?",عندكم سيارات مطافي؟,
+C-02-28,"Who do you call in
+case of an accident?","‘ala min nitiSil iThaa
+Saar Haadith?","على من تتصل اذا صار
+حادث؟",
+C-02-29,"Are there operational
+emergency vehicles
+here?","hal fee sayaarat is’aaf
+shaghaala hina?","هل في سيارة اسعاف شغالة
+هنا؟",
+C-02-30,"How many
+telephones do you
+have in the area?","kam talafon ‘indikum fee
+al manTiqa?","كم تلفون عندكم في
+المنطقة؟",
+C-02-31,"How many homes
+have telephones
+here?","kam ‘adad al beyoot
+alee feeha talafonaat
+hina?","كم عدد البيوت اللي فيها
+تلفونات هنا؟",
+C-02-32,"Is there a functioning
+police station?","hal fee markaz shurTa
+shaghaal hina?","هل في مركز شرطة شغال
+هنا؟",
+C-02-33,"How many personnel
+are still on the job?","kam ‘adad al ashKhaaS
+al ‘aamileen?",كم عدد الاشخاص العاملين؟,
+C-02-34,"What’s the means of
+communication?","wishee wasaa-il al
+itiSaalaat?",وشي وسائل الاتصالات؟,
+C-02-35,"Can the police
+station function
+normally without U.S.
+assistance?","hal min al mumkin
+markaz ash shurTa
+ya’mal bedoon
+al musaa’ada al
+amreekeeya?","هل من الممكن مركز
+الشرطة يعمل بدون
+المساعدة الامريكية؟",
+C-02-36,"Can U.S. forces
+depend on the local
+police to perform their
+duties as needed?","hal mumkin ti’timid al
+quwaat al amreekeeya
+‘ala ash shurTa al
+maHaleeya fee
+adaa waajibaatiha al
+maTlooba?","هل ممكن تعتمد القوات
+الامريكية على الشرطة
+المحلية في اداء واجباتها
+المطلوبة؟",
+C-02-37,"How many vehicles
+are available?","kam ‘adad as sayaaraat
+al mawjooda?","كم عدد السيارات
+الموجودة؟",
+C-02-38,"What is the telephone
+number?",wish ragam at talafon?,وش رقم التلفون؟,
+C-02-39,"Do you use radio
+communications?","hal tistaKhdimoon al
+ajhiza al laasilkeeya?","هل تستخدمون الاجهزة
+اللاسلكية؟",
+C-03-01,"Is there a medical
+facility nearby?","hal fee markaz Tibee
+qareeb?","هل في مركز طبي
+قريب؟",
+C-03-02,"Are there any doctors
+in the area?","hal fee ay Tabeeb fee
+al manTiqa?","هل في أي طبيب في
+المنطقة؟",
+C-03-03,"How many beds
+do you have at the
+medical facility?","kam ‘adad al asira
+al mawjooda fee al
+markaz aT Tibee?","كم عدد الاسرة الموجودة
+في المركز الطبي؟",
+C-03-04,"How many people
+work at the hospital?","kam ‘adad al
+ashKhaaS alee
+yishtaghloon fee al
+mustashfa?","كم عدد الاشخاص اللي
+يشتغلون في المستشفى؟",
+C-03-05,How many nurses?,"kam ‘adad al
+mumariDhaat?",كم عدد الممرضات؟,
+C-03-06,"Has there been any
+infectious disease in
+the area lately?","hal jatkum amraaDh
+mu’deeya fee al fatra
+al aKheera?","هل جتكم امراض معدية
+في الفترة الاخيرة؟",
+C-03-07,Is there a pharmacy?,hal fee Saydaleeya?,هل في صيدلية؟,
+C-03-08,"Is there a building
+where we could set up
+a medical facility?","hal fee binaaya
+mumkin nistaKhdimha
+ka markaz Tibee?","هل في بناية ممكن
+نستخدمها كمركز طبي؟",
+C-03-09,"We would like to
+talk to people about
+immunization.","nabee nitikalam ma’
+an naas biKhSooS at
+taT’eem","نبي نتكلم مع الناس
+بخصوص التطعيم",
+C-03-10,"We would like to
+talk to people about
+sanitization.","nabee nitikalam ma’
+an naas biKhSooS an
+naDhaafa","نبي نتكلم مع الناس
+بخصوص النظافة",
+C-03-11,"Is there a medical
+emergency facility?","hal ‘indikum markaz
+is’aaf Tibee?","هل عندكم مركز اسعاف
+طبي؟",
+C-03-12,"We have to establish
+a safe working
+environment.","asasnaa bee-at ‘amal
+aamina",اسسننا بيئة عمل امنة,
+C-03-13,"We have to hire
+medical doctors for
+this facility.","niHtaaj in’ayin aTibaa
+Iee haaTha al markaz","نحتاج نعين اطباء لهذا
+المركز",
+C-03-14,"We have to hire nurses
+for this facility.","niHtaaj in’ayin
+mumariDhaat lee
+haaTha al markaz","نحتاج نعين ممرضات
+لهذا المركز",
+C-03-15,"We have to hire office
+personnel for this
+facility.","niHtaaj in’ayin
+muwaDhafeen lee
+haaTha al markaz","نحتاج نعين موظفين لهذا
+المركز",
+C-03-16,"We have to hire a
+custodian for this
+facility.","niHtaaj in’ayin ‘imaal
+naDhaafa lee haaTha
+al markaz","نحتاج نعين عمال نظافة
+لهذا المركز",
+C-03-17,"Are the local facilities
+and personnel able
+to care for the current
+casualties without U.S.
+aid?","hal bee imkaan al-
+afraad wal maraakiz al
+maHaleeya ‘eelaaj al
+muSaabeen bedoon
+musaa’adat al-
+amreekaan?","هل بامكان الافراد و
+المراكز المحلية علاج
+المصابين بدون مساعدة
+الامريكان؟",
+C-03-18,"Is the local drinking
+water potable?","hal mayat ash shurub
+al maHaleeya SaaliHa
+lish shurub?","هل مية الشرب المحلية
+صالحة للشرب؟",
+C-03-19,"Who determined that
+the water is potable?","min hoo yigarir in
+al maya SaaliHa lil
+shurub?","من هو يقرر ان المية
+صالحة للشرب؟",
+C-04-01,"Who is in charge of
+repairing roads?","min hoo al mas-ool ‘an
+taSleeH aT Tareeg?","من هو المسئول عن
+تصليح الطريق؟",
+C-04-02,"Do you have a map of
+this area?","‘indik KhareeTa lil
+manTiqa?",عندك خريطة للمنطقة؟,
+C-04-03,"We will provide
+assistance in building
+roads at this location.","raaH nisaa’idkum ‘ala
+binaa Turuq fee hal
+manTiqa","راح نساعدكم على بناء
+طرق في هالمنطقة",
+C-04-04,"Can you provide a
+road map of this area?","mumkin ti’Teena
+KhareeTat Tareeg al
+manTiga?","ممكن تعطينا خريطة
+طريق المنطقة؟",
+C-04-05,"Do you have any
+machinery for road
+building?","‘indikum ay mu’idaat lee
+binaa aT Turuq?","عندكم أي معدات لبناء
+الطرق؟",
+C-04-06,"Do you have any
+machinery for road
+repairs?","‘indikum ay mu’idaat lee
+taSleeH aT Turuq?","عندكم أي معدات لتصليح
+الطرق؟",
+C-04-07,"We have to set up
+storage locations for
+supply materials in the
+area.","niHtaaj mawaaqi’ lee
+taKhzeen mawaad at
+tamween fee haaThee
+al manTiqa","نحتاج مواقع لتخزين مواد
+التموين في هذي المنطقة",
+C-04-08,"Are there any railroad
+tracks in this area?","hal fee sikat Hadeed fee
+al manTiqa?","هل في سكة حديد في
+المنطقة؟",
+C-04-09,"Do you have
+transportation facilities
+in this area?","fee ‘indikum munsha-
+aat muwaaSalaat fee
+haaThee al manTiqa?","في عندكم منشأت
+موصلات في هذي
+المنطقة؟",
+C-04-10,"Are there any airports
+nearby?","hal fee ay maTaaraat
+qareeba?","هل في أي مطارات
+قريبة؟",
+C-04-11,"Are there any landing
+fields for smaller
+aircraft nearby?","hal fee mudarajaat
+hubooT qareeba
+lil Tayaaraat aS
+Sagheera?","هل في مدرجات
+هبوط قريبة للطيارات
+الصغيرة؟",
+C-04-12,"Are there any pipelines
+in the area?","hal fee KhuTooT
+anaabeeb fee al
+manTiqa?","هل في خطوط انابيب في
+المنطقة؟",
+C-04-13,"Is the pipeline fenced
+off in this area?","hal fee seeyaaj Hawl
+KhuTooT al anaabeeb
+fee haaThee al
+manTiqa?","هل في سياج حول
+خطوط الانابيب في هذي
+المنطقة؟",
+C-04-14,"Is the traffic heavy in
+this area?","hal fee zaHmat sayr fee
+haaThee al manTiqa?","هل في زحمة سير في
+هذي المنطقة؟",
+C-04-15,"Are there bus lines or
+trains to travel to other
+places?","hal fee baaSaat aw
+qiTaaraat tsaafir lee
+amaakin thaaneeya?","هل في باصات أو
+قطارات تسافر لاماكن
+ثانية؟",
+C-04-16,Are there taxis?,hal fee sayaaraat ujra?,هل في سيارات اجرة؟,
+C-04-17,"Do these roads get
+snowed in during the
+winter?","hal yejeekum thalij
+fee ash shitaa yesid
+haaThee aT Turuq?","هل يجيكم ثلج في الشتا
+يسد هذي الطرق؟",
+C-04-18,"How many people own
+motor vehicles in this
+area?","kam min an naas
+‘indihum sayaaraat fee
+haaThee al manTiqa?","كم من الناس عندهم
+سيارات في هذي
+المنطقة؟",
+C-04-19,"Are there trucking
+companies nearby?","hal fee sharikaat
+shaaHinaat naqil
+qareeba?","هل في شركات شاحنات
+نقل قريبة؟",
+C-04-20,"Do you have radio
+contact with people in
+other places?","hal me’kum itiSaal bil
+laasilkee ma’ al amaakin
+ath thaaneeya?","هل معكم اتصال بالاسلكي
+مع الاماكن الثانية؟",
+C-04-21,"Can you use these
+roads during the
+winter?","tagdroon tistaKhdmoon
+haaThee aT Turuq fish
+shitaa?","تقدرون تستخدمون هذي
+الطرق في الشتا؟",
+C-05-01,"Do not stop if convoy
+is attacked!","laa twagifoon iThaa al
+gaafila ta’araDhat lin
+neeran!","لا توقفون اذا القافلة
+تعرضت للنيران!",
+C-05-02,"Drive a minimum of 3
+kms before stopping.","istimir bis siwaaga lee
+thalaathat keelomitraat
+‘ala al aqal gabil maa
+tigaf","استمر بالسواقة لثلاثة
+كيلومترات على الاقل قبل
+ما تقف",
+C-05-03,"Following distance
+is 100m on open
+highway.","al masaafa al faaSila
+hee meeyat mitir ‘ala aT
+Tareeg as saree’","المسافة الفاصلة هي مية
+متر على الطريق السريع",
+C-05-04,"Following distance is
+50m in towns.","daaKhil al medeena al
+mesaafa al faaSila hee
+Khamseen mitir","داخل المدينة المسافة
+الفاصلة هي خمسين متر",
+C-05-05,"When stopped on the
+road, keep enough
+space between
+vehicles to drive
+around if required.","yom towagifoon fee aT
+Tareeg, Khalee mesaafa
+bayn al ‘arabaat Hata
+tagdar tideywur iThaa
+iHtaajt","يوم توقفون في الطريق ،
+خلي مسافة بين العربات
+حتى تقدر تديور اذا احتاجت",
+C-05-06,"If you lose sight of
+the convoy, slow
+down and wait for a
+military truck to pass
+you, and follow it.","iThaa maa ‘aad tagdar
+tushoof al qaafila, Khafif
+as sur’a wintiThir lee
+sayaara ‘askareeya Hata
+ti’adaak witba’ha","اذا ما عاد تقدر تشوف
+القافلة، خفف السرعة
+وانتظر لسيارة عسكرية
+حتى تعداك واتبعها",
+C-05-07,No weapons.,maa fee asliHa,ما في اسلحة,
+C-05-08,No cell phone use.,"mamnoo’ istiKhdaam al
+jawalaat",ممنوع استخدام الجوالات,
+C-05-09,"Do not throw food or
+water to the locals.","laa ti’Tee akil aw maya lil
+sikaan al maHaleeyeen","لا تعطي اكل أو مية للسكان
+المحليين",
+C-05-10,"No littering or
+dumping trash on
+military camps or
+staging areas.","la tarmee zibaala
+fee al mu’askaraat al
+‘askareeya aw amaakin
+al iSTifaaf","لا ترمي زبالة في
+المعسكرات العسكرية أو
+اماكن الاصطفاف",
+C-05-11,"Go around any
+broken down truck in
+the convoy.","ta’ada ay aaleya
+mit’aTila min al qaafila","تعدى أي ألية متعطلة من
+القافلة",
+C-05-12,No flashing beacons.,"mamnoo’ istiKhdaam al
+ghamaazaat",ممنوع استخدام الغمازات,
+C-05-13,"Fuel vehicle every
+time vehicle stops.","a’id at tazawid fee al
+wuqood kul mara tuwagif
+feeha al mudara’a","اعد التزود في الوقود كل
+مرة توقف فيها المدرعة",
+C-05-14,"Food is provided at
+some military camps
+when available.","al akil yukoon
+mitwafir fee ba’aDh
+al mu’askaraat al
+‘askareeya","الاكل يكون متوفر في بعض
+المعسكرات العسكرية",
+C-05-15,"Bring plenty of food
+and water with you.","jib me’ik akil wu maya
+kitheera",جب معك اكل و مية كثيرة,
+C-05-16,"If you have to stop
+for any reason
+and the convoy
+continues, wait for
+help from the military.","iThaa laazim tiwagif
+lee-ay sabab wal gaafila
+mustamira fee al Haraka
+intiDhir al musaa’ada al
+‘askareeya","اذا لازم توقف لأي سبب و
+القافلة مستمرة في الحركة ،
+انتظر المساعدة العسكرية",
+C-05-17,"They will escort you
+back into position.","raaH yiraafgoonik lee
+mawgi’ik",راح يرافقونك لموقعك,
+C-05-18,"No fighting or arguing
+with any other driver
+over position in
+convoy.","mamnoo’ al mujaadala
+ma’ ay saayig aaKhar
+‘ala ad dor fee al qaafila","ممنوع المجادلة مع أي
+سايق اخر على الدور في
+القافلة",
+C-05-19,Drive in single file.,sig fee ratil waaHid,سق في رتل واحد,
+C-05-20,"Be prepared to stop
+and assist broken
+down trucks. (Note:
+This is an instruction for
+bobtail drivers.)","kun ‘ala isti’daad lil
+tawagif wa musaa’adat
+ash shaaHinaat al
+muta’aTila","كن على استعداد للتوقف
+ومساعدة الشاحنات
+المتعطلة",
+C-05-21,"Report any problems
+with other drivers
+to the convoy
+commander.","baligh gaayid al gaafila
+‘an ay mashaakil ma’
+as sawaageen ath
+thaaneen","بلغ قايد القافلة عن أي
+مشاكل مع السواقيين
+الثانيين",
+C-05-22,"No drug or alcohol
+use while driving.","mamnoo’ istiKhdaam
+al muKhadiraat aw al
+kuHool wagit as siwaaga","ممنوع استخدام المخدرات
+أو الكحول وقت السواقة",
+C-05-23,"Know how to change
+tires and have proper
+tools.","ta’alam wishlon tighayir
+al banshar wa jib me’ik
+al ‘ida al laazima","تعلم وشلون تغير البنشر و
+جب معك العدة الازمة",
+C-05-24,"Loads, straps,
+chains, and tires
+are the drivers’
+responsibility.","al Humoola wal Hibaal
+was salaasil wal
+kafaraat hee muhimat as
+sawaageen","الحمولة و الحبال و
+السلاسل والكفرات هي
+مهمة السواقيين",
+C-05-25,"Check every time the
+convoy stops.","tifagad al ‘araba kil mara
+tuwagif feeha al qaafila","تفقد العربة كل مرة توقف
+فيها القافلة",
+C-06-01,"How many people live
+in this area?","kam waaHid ye’eesh
+fee al manTiqa?",كم واحد يعيش في المنطقة؟,
+C-06-02,"How many water
+wells do you have in
+this area?","kam ‘adad al aabaar
+alee ‘indikum fee al
+manTiqa?","كم عدد الابار اللي عندكم في
+المنطقة؟",
+C-06-03,"Do you have a
+sewage system in this
+area?","‘indikum shabakat
+majaaree fee al
+manTiqa?","عندكم شبكة مجاري في
+المنطقة؟",
+C-06-04,"How far are the
+latrines from the
+water wells?","wish al mesaafa bayn al
+Hamaamaat wa aabaar
+al maya?","وش المسافة بين الحمامات
+و ابار المية؟",
+C-06-05,"What type of herds
+graze in this area?","wish anwaa’ al
+muwaashee alee tar’a
+hina?","وش انواع المواشي اللي
+ترعى هنا؟",
+C-06-06,"Is there a
+veterinarian?","hal fee ‘indikum Tabeeb
+bayTaree?","هل في عندكم طبيب
+بيطري؟",
+C-06-07,"Are there any
+factories in the area?","hal fee ay maSaani’ fee
+al manTiga?","هل في أي مصانع في
+المنطقة؟",
+C-06-08,"Is there a river
+nearby?",hal fee nahar gareeb?,هل في نهر قريب؟,
+C-06-09,"Where do you get
+electricity from?","mnayn tijeekum al
+kahraba?",منين تجيكم الكهربا؟,
+C-06-10,"Is there a power plant
+nearby?","hal fee maHaTat
+kahraba gareeba min
+hina?","هل في محطة كهربا قريبة
+من هنا؟",
+C-06-11,"What kind of electric
+appliances do people
+use?","wish anwaa’ al ajhiza
+al kahrabaa-eeya alee
+tistaKhdimoonaha?","وش انواع الاجهزة
+الكهربائية اللي
+تستخدمونها؟",
+C-06-12,"Do you use electric
+stoves?","hal tistaKhdimoon
+afraan kahrabaa-eeya?","هل تستخدمون افران
+كهربائية؟",
+C-06-13,"Have there been
+forest fires in the
+area?","hal HaSalat Haraayig
+ghaabaat fee haaThee
+al manTiga?","هل حصلت حرايق غابات
+في هذي المنطقة؟",
+C-06-14,"Are there any gas
+pipes around here?","hal fee anaabeeb ghaaz
+Holana?",هل في انابيب غاز حولنا؟,
+C-06-15,"Do you use gas to
+heat homes around
+here?","hal tistaKhdimoon al
+ghaaz lit tadfee-a fee
+beyootikum?","هل تستخدمون الغاز للتدفئة
+في بيتوكم؟",
+C-06-16,"Is gas used for
+cooking?","hal tistaKhdimoon al
+ghaaz lil TabiKh?",هل تستخدمون الغاز للطبخ؟,
+C-06-17,"Do you use propane
+gas tanks?","hal tistaKhdimoon jraar
+al ghaaz?",هل تستخدمون جرار الغاز؟,
+C-06-18,"Where do you get
+propane gas tanks
+supplied from?","mnayn tijeeboon jraar al
+ghaaz?",منين تجيبون جرار الغاز؟,
+C-06-19,"Is there anyone to
+inspect home gas
+appliances?","hal fee aHad yifatish
+‘ala ajhizat al ghaaz fee
+beyootikum?","هل في احد يفتش على
+اجهزة الغاز في بيوتكم؟",
+C-06-20,"Is there an electrician
+here?","hal fee kahrabaa-ee
+hina?",هل في كهربائي هنا؟,
+C-06-21,"Is there a water
+supply system to
+households?","hal ‘indikum maya min
+al baladeeya?",هل عندكم مية من البلدية؟,
+C-06-22,"Where is the facility
+located?",wayn mawqi’ al marfaq?,وين موقع المرفق؟,
+C-06-23,"How many people
+operate the system?","kam ‘adad al ashKhaaS
+alee yeshaghiloon ash
+shabaka?","كم عدد الاشخاص اللي
+يشغلون الشبكة؟",
+C-06-24,"Is it connected to
+other water supply
+systems?","hal hee marbooTa
+bee shabakaat maya
+thaaneeya?","هل هي مربوطة بشبكات
+مية ثانية؟",
+C-06-25,Is it functional?,hal heya shaghaala?,هل هي شغالة؟,
+C-06-26,"Where are the
+sources of raw water?","wish maSaadir al
+maya aT Tabee’eeya
+‘indikum?","وش مصادر المية الطبيعية
+عندكم؟",
+C-06-27,Is it polluted?,"hal mayatkum
+mulawatha?",هل ميتكم ملوثة؟,
+C-06-28,"Is there a water
+treatment used?","hal tistaKhdimoon
+takreer mayat aS Sarf?","هل تستخدمون تكرير مية
+الصرف؟",
+C-06-29,Is it chemical?,"hal heya
+keemaaweeya?",هل هي كيماوية؟,
+C-06-30,Is it through filtration?,"hal hee ‘an Tareeg al
+filtar?",هل هي عن طريق الفلتر؟,
+C-06-31,"Is it by
+sedimentation?","hal hee ‘an Tareeg at
+tarasub?","هل هي عن طريق
+الترسب؟",
+C-06-32,"Where is the pumping
+station?","wayn maHaTat aDh
+DhaKh?",وين محطة الضخ؟,
+C-06-33,"How many people are
+needed to keep the
+system functional?","kam ‘adad al ashKhaaS
+al maTloobeen lee
+tashgheel ash shabaka?","كم عدد الاشخاص
+المطلوبين لتشغيل الشبكة؟",
+C-06-34,"We’ve heard that
+there have been
+some problems
+with sewage in this
+neighborhood.","simi’na ina fee
+meshaakil fee aS
+Sarf aS SiHee fee
+Haaratkum","سمعنا انه في مشاكل في
+الصرف الصحي في حارتكم",
+C-06-35,"Do you have indoor
+plumbing?","‘indikum sibaaka
+daaKhileeya?",عندكم سباكة داخلية؟,
+C-06-36,"Do you have any
+problems with your
+plumbing?","hal ‘indikum meshaakil
+fee as sibaaka?","هل عندكم مشاكل في
+السباكة؟",
+C-06-37,"Does your toilet
+work?","hal Hamaamekum
+yishteghil?",هل حمامكم يشتغل؟,
+C-06-38,"How many toilets
+do you have in the
+house?","kam ‘adad al
+Hamaamaat fee al bayt?","كم عدد الحمامات في
+البيت؟",
+C-06-39,"Do you have a septic
+tank?",hal ‘indikum bayaara?,هل عندكم بيارة؟,
+C-06-40,"Is there anyone who
+can fix your sewer?","fee aHad yigdar yiSaliH
+al majaaree?","في احد يقدر يصلح
+المجاري؟",
+C-06-41,"Have you contacted
+anyone regarding this
+problem? If so who?","hal kalamtum aHad ‘an
+al mushkila? min hoo?","هل كلمتم احد عن المشكلة؟
+من هو؟",
+C-06-42,"When did you contact
+them?","mita itaSaltum
+‘aleyhum?",متى اتصلتم عليهم؟,
+C-06-43,"I will report this higher
+up and see if there
+is something we can
+do to fix the sewage
+problem.","raaH aKhabir al
+qeeyaada al ‘ulya
+winshoof iThaa
+yagdiroon yesaa’idoon
+fee mushkilat al
+majaaree","راح اخبر القيادة العليا و
+نشوف اذا يقدرون يساعدون
+في مشكلة المجاري",
+C-06-44,"We will contact the
+sewage company and
+find out what is being
+done to correct the
+problem.","raaH nitiSil bee sharikat
+al majaaree winshoof
+iThaa yagdiroon
+yeSaliHoon al mushkila","راح نتصل بشركة المجاري
+و نشوف اذا يقدرون
+يصلحون المشكلة",
+C-07-01,"How many radios and
+TVs are in this area?","kam ‘adad ar rowaadee
+wat talfizyonaat fee hal
+manTiga?","كم عدد الروادي
+والتلفزيونات في هالمنطقة؟",
+C-07-02,"Do you have a radio
+station in this area?","‘indikum maHaTat
+raadyo fee hal
+manTiga?","عندكم محطة راديو في
+هالمنطقة؟",
+C-07-03,"Do you have a TV
+station in the area?","‘indikum maHaTat
+tilfizyon fee hal
+manTiga?","عندكم محطة تلفزيون في
+هالمنطقة؟",
+C-07-04,"Do you have a public
+announcement
+system?","‘indikum niDhaam
+inThaar i’laamee ‘aam?","عندكم نظام انذار اعلامي
+عام؟",
+C-07-05,"Where do you post
+announcements?","wayn ti’alegoon
+i’laanaatikum?",وين تعلقون اعلاناتكم؟,
+C-07-06,"Is there a local
+newspaper?","‘indikum jareeda
+maHaleeya?",عندكم جريدة محلية؟,
+C-07-07,"Is there a news
+agency representative
+nearby?","hal fee mandoob
+wikaalat aKhbaar
+gereeb min hina?","هل في مندوب وكالة اخبار
+قريب من هنا؟",
+C-07-08,"Is there an
+information center?","hal fee ‘indikum markaz
+ma’loomaat?","هل في عندكم مركز
+معلومات؟",
+C-07-09,Do you receive fliers?,"hal tiSalkum
+manshooraat?",هل تصلكم منشورات؟,
+C-07-10,"Who distributes the
+fliers?","man yewazi’ al
+manshooraat?",من يوزع المنشورات؟,
+C-07-11,"Where do you buy a
+newspaper?","mnayn tishtiroon al
+jaraayid?",منين تشترون الجرايد؟,
+C-08-01,May I see your ID?,"mumkin ashoof
+ithbaatik?",ممكن اشوف اثباتك؟,
+C-08-02,Where do you live?,wayn taskin?,وين تسكن؟,
+C-08-03,"Where is the farm
+located?","wayn mawqi’ al
+mazra’a?",وين موقع المزرعة؟,
+C-08-04,"What was produced
+on the farm?","wish yazri’oon bil
+mazra’a?",وش يزرعون بالمزرعة؟,
+C-08-05,"Who confiscated the
+land?","man istawla ‘ala al
+ariDh?",من استولى على الارض؟,
+C-08-06,"Who now occupies
+your farm?","min miHtal al ariDh al-
+aan?",من محتل الارض الآن؟,
+C-08-07,"Have you talked with
+them?","hal tikalamtum
+ma’hum?",هل تكلمتم معهم؟,
+C-08-08,"Do you have
+documentation?",hal ‘indik wathaa-iq?,هل عندك وثائق؟,
+C-08-09,"You think it’s
+dangerous?",hal tiDhin ina KhaTeer?,هل تظن انه خطير؟,
+C-08-10,"I will contact
+the appropriate
+authorities to
+investigate this
+matter.","raaH atiSil ‘ala al jihaat
+al ma’neeya ‘ashaan
+niHagig fee al mas-ala","راح اتصل على الجهات
+المعنية عشان نحقق في
+المسألة",
+C-08-11,"Please know we will
+assist you.","ta-akad inana
+raayeHeen nsaa’idk",تأكد اننا رايحين نساعدك,
+C-08-12,"You must allow the
+local authorities
+to conduct their
+investigation.","laazim ti’Tee as sulTaat
+al maHaleeya furSa lee
+‘amal at taHqeeq","لازم تعطي السلطات المحلية
+فرصة لعمل التحقيق",
+C-08-13,"You must go to the
+base and speak with
+an interpreter.","laazim trooH lil qaa’ida
+wu titkalam ma’
+mutarjim","لازم تروح للقاعدة و تتكلم
+مع مترجم",
+C-08-14,"The name of the
+owner",isim al maalik,اسم المالك,
+C-08-15,"The name of the
+property","isim al ‘aqaar al
+mamlook",اسم العقار المملوك,
+C-08-16,"Location of the
+property","mawqi’ al ‘aqaar al
+mamlook",موقع العقار المملوك,
+C-08-17,"Present use of the
+property","al istiKhdaam al Haalee
+lil ‘aqaar al mamlook","الاستخدام الحالي للعقار
+المملوك",
+C-08-18,"What is the condition
+of the property?","wishee Haalat al ‘aqaar
+al mamlook?",وشي حالة العقار المملوك؟,
+C-08-19,Who has the title?,ib-isim minhoo aS Sak?,باسم منهو الصك؟,
+C-09-01,"Put your hands on the
+steering wheel and do
+not move them.","HiT eedeynik ‘ala aT
+Taara wu laa tiHarik-
+hum","حط ايدينك على الطارة و لا
+تحركهم",
+C-09-02,"You are breaking the
+curfew.","int Khaalaft niDhaam
+man’ at tajawul",انت خالفت نظام منع التجول,
+C-09-03,You were speeding.,kinit misri’,كنت مسرع,
+C-09-04,"The curfew is in
+effect.","niDhaam man’ at
+tajawul saaree al
+maf’ool","نظام متع التجول ساري
+المفعول",
+C-09-05,"Did you know there is
+a curfew?","hal ti’rif ina fee
+niDhaam man’ at
+tajawul?","هل تعرف انه في نظام منع
+التجول؟",
+C-09-06,"The streets are not
+safe right now.","ash shawaari’ maa hee
+aamina alHeen",الشوارع ما هي امنة الحين,
+C-09-07,"We will escort you to
+your relatives.","Hinaa raayiHeen
+niraafig aqaaribk",حنا رايحين نرافق اقاربك,
+C-09-08,"The police station will
+give you information
+about curfew.","markaz ash shurTa
+raaH ye’Teek
+ma’loomaat ‘an man’ at
+tajawul","مركز الشرطة راح يعطيك
+معلومات عن منع التجول",
+C-09-09,Turn off the engine.,Tafee as sayaara,طفي السيارة,
+C-09-10,"Get out of your
+vehicle",inzil min as sayaara,انزل من السيارة,
+C-09-11,"May I see your ID,
+please?","mumkin ashoof
+ithbaatik, law samaHt?","ممكن اشوف اثباتك، لو
+سمحت؟",
+C-09-12,"Where are you
+going?",wayn raayiH?,وين رايح؟,
+C-09-13,"Are you carrying any
+weapons?",me’ik ay asliHa?,معك أي اسلحة؟,
+C-09-14,"How much money are
+you carrying?","kam hee al fuloos alee
+me’ik?",كم هي الفلوس اللي معك؟,
+C-09-15,"Who gave you the
+money?",min ‘aTaak al filoos?,من عطاك الفلوس؟,
+C-09-16,"Do you have a gun
+under the seat?","hal me’ik silaaH taHit al
+kursee?","هل معك سلاح تحت
+الكرسي؟",
+C-09-17,"Are you hiding
+anything illegal?","me’ik ay shay
+mamnoo’?",معك أي شي ممنوع؟,
+C-09-18,"Since you broke the
+law, we have to arrest
+you.","bimaa inik Khaalaft
+an niDhaam, laazim
+niHaajizk","بما انك خالفت النظام، لازم
+نحجزك",
+C-09-19,"We have to take you
+to the police station.","laazim naaKhiThk lee
+markaz ash shurTa",لازم ناخذك لمركز الشرطة,
+C-09-20,"You will ride with us
+to the police station.","raaH tiTla’ me’na lee
+markaz ash shurTa","راح تطلع معنا لمركز
+الشرطة",
+C-09-21,"We detained this man
+at ___.","iHtijazna haaTha ar
+rajaal fee ___","احتجزنا هذا الرجّال في
+___",
+C-09-22,He broke the curfew.,"Khaalaf niDhaam man’
+at tajawul",خالف نظام منع التجول,
+C-09-23,"Can you help verify
+the man’s identity?","mumkin tit-akad min
+haweeyat ar rajaal?","ممكن تتأكد من هوية
+الرجّال؟",
+C-09-24,He was hiding a gun.,kaan meKhabee silaaH,كان مخبي سلاح,
+C-10-01,Turn off your engine.,Tafee as sayaara,طفي السيارة,
+C-10-02,"Get out of the truck
+please.","inzil min as sayaara law
+samaHt",انزل من السيارة لو سمحت,
+C-10-03,"Where are you
+coming from?",mnayn jaay?,منين جاي؟,
+C-10-04,"Where are you going
+to?",lewayn raayiH?,لوين رايح؟,
+C-10-05,"What are you
+transporting?",wish tangil me’ik?,وش تنقل معك؟,
+C-10-06,"Please unlock the
+back door.","iftaH al baab al Khalfee
+law samaHt","افتح الباب الخلفي لو
+سمحت",
+C-10-07,"We need to inspect
+the cargo.","niHtaaj nifatish al
+Humoola",نحتاج نفتش الحمولة,
+C-10-08,What is this?,wish haaTha?,وش هذا؟,
+C-10-09,"Where did you get
+this ammunition?","mnayn jibit haaThee
+aTh TheKheera?",منين جبت هذي الذخيرة؟,
+C-10-10,"Who does this
+ammunition belong
+to?","lee min haaThee aTh
+TheKheera?",لمن هذي الذخيرة؟,
+C-10-11,"We are going to
+detain you and
+confiscate your truck.","raayeHeen niHtajzik
+winSaadir ash
+shaaHina","رايحين نحتجزك ونصادر
+الشاحنة",
+C-10-12,"You will get your truck
+back if you tell us who
+you are taking this to.","raaH ni’Teek ash
+shaaHina iThaa
+balaghtana limin
+maaKhiTh haaThee al
+Humoola","راح نعطيك الشاحنة اذا
+بلغتنا لمن ماخذ هذي
+الحمولة",
+C-11-01,"The name of the
+village",isim al qarya,اسم القرية,
+C-11-02,"The location of the
+village",mawqi’ al qarya,موقع القرية,
+C-11-03,"Is there a road access
+for cars?","hal fee Tareeg lee ‘uboor
+as sayaaraat?","هل في طريق لعبور
+السيارات؟",
+C-11-04,"Is there a road access
+for four-wheel drive?","hal fee Tareeg lee ‘uboor
+sayaaraat ad dafi’ ar
+rubaa’ee?","هل في طريق لعبور
+سيارات الدفع الرباعي؟",
+C-11-05,"Is there a road access
+for trucks?","hal fee Tareeg ‘uboor lil
+shaaHinaat?","هل في طريق عبور
+للشاحنات؟",
+C-11-06,"Is the road accessible
+in the winter?","hal mumkin istiKhdaam
+aT Tareeg fee ash
+shitaa?","هل ممكن استخدام
+الطريق في الشتا؟",
+C-11-07,"What is the number
+of the current
+population?","kam ‘adad as sikaan al
+Haaleeyeen?",كم عدد السكان الحاليين؟,
+C-11-08,"How many children
+are there?",kam ‘adad al aTfaal?,كم عدد الاطفال؟,
+C-11-09,"How many men are
+there?",kam ‘adad ar rijaal?,كم عدد الرجال؟,
+C-11-10,"How many women are
+there?",kam ‘adad an nisaa?,كم عدد النسا؟,
+C-11-11,"How many locals are
+there?","kam ‘adad as sikaan al
+maHaleeyeen?",كم عدد السكان المحليين؟,
+C-11-12,"How many refugees
+are there?","kam ‘adad al laaji-een
+hina?",كم عدد اللاجئين هنا؟,
+C-11-13,"How many returnees
+are there?","kam ‘adad al ‘aa-ideen
+hina?",كم عدد العائدين هنا؟,
+C-11-14,"Who is the community
+leader?",min hoo gaayid al Hay?,من هو قايد الحي؟,
+C-11-15,"Who is responsible for
+food distribution?","min hoo al mas-ool ‘an
+tawzee’ al akil?","من هو المسئول عن
+توزيع الاكل؟",
+C-11-16,"Where is the local
+warehouse?","wayn al bagaala al
+maHaleeya hina?",وين البقالة المحلية هنا؟,
+C-11-17,"Is there a storage
+facility?",hal fee mistawda’ hina?,هل في مستودع هنا؟,
+C-11-18,"Is this village used
+for secondary
+distribution?","hal haaThee al garya
+mustaKhdama lil tawzee’
+al far’ee?","هل هذي القرية مستخدمة
+للتوزيع الفرعي؟",
+C-11-19,"Which villages receive
+assistance from this
+village?","wishee al guraa alee
+tiHSal ‘ala musaa’ada
+min haaThee al garya?","وشي القرى اللي تحصل
+على مساعدة من هذي
+القرية؟",
+C-11-20,"How many damaged
+houses in this village?","kam ‘adad al beyoot al
+mudamara fee haaThee
+al garya?","كم عدد البيوت المدمرة
+في هذي القرية؟",
+C-11-21,"How many unfinished
+houses in this village?","kam ‘adad al beyoot
+al ghayr muktamla fee
+haaThee al garya?","كم عدد البيوت الغير
+مكتملة في هذي القرية؟",
+C-11-22,"Was there any new
+war damage to
+buildings since before
+the conflict?","hal fee ay damaar lil
+binayaat bee sabab al
+Harb min wagit bidaayat
+an nizaa’?","هل في أي دمار للبنيايات
+بسبب الحرب من وقت
+بداية النزاع؟",
+C-11-23,"Is there a school in
+the village?","hal fee ‘indikum madrasa
+fee al garya?","هل في عندكم مدرسة في
+القرية؟",
+C-11-24,"Is there a mosque in
+the village?","hal fee ‘indikum masjid
+fee al garya?","هل في عندكم مسجد في
+القرية؟",
+C-11-25,Is there a bakery?,hal ‘indikum maKhbaz?,هل عندكم مخبز؟,
+C-11-26,"Is there a health
+facility?","hal ‘indikum markaz
+SiHee?",هل عندكم مركز صحي؟,
+C-11-27,"Is there any source of
+food available in the
+village?","hal fee ‘indikum maSdar
+ghiThaa-ee fee al qarya?","هل في عندكم مصدر
+غذائي في القرية؟",
+C-12-01,"Let me put you in
+contact with someone
+who can help you.","raaH aKhaleek titkalam
+ma’ waaHid mumkin
+yefeedak","راح اخليك تتكلم مع واحد
+ممكن يفيدك",
+C-12-02,I will take you to him.,raaH aaKhiThik lee’inda,راح اخذك لعنده,
+C-12-03,"The person in charge
+is ___.","ash shaKhS al mas-ool
+huwa ___",الشخص المسئول هو ___,
+C-12-04,"In order to be
+compensated for
+damages, you must
+talk to ___.","‘ashaan na’Teek at
+ta’weeDhaat ‘an ad
+damaar, laazim titkalam
+ma’ ___","عشان نعطيك التعويضات
+عن الدمار، لازم تتكلم مع
+___",
+C-12-05,What is your name?,wish ismik?,وش اسمك؟,
+C-12-06,"Where do you
+live? / What is your
+address?","wayn taskin? / wish
+‘inwaanik?","وين تسكن؟ / وش
+عنوانك؟",
+C-12-07,"What happened to
+your car?","wish Saar lee
+sayaaritik?",وش صار لسيارتك؟,
+C-12-08,"What kind of car is it?
+(year, make, model)","wish no’ as sayaara?
+(as sana, aS Sin’, al
+moodayl)","وش نوع السيارة؟ (السنة ،
+الصنع، الموديل)",
+C-12-09,"Show me your car
+registration.",warinee al istimaara,ورني الاستمارة,
+C-12-10,"Where is your car
+right now?","wayn sayaaratk
+alHeen?",وين سيارتك الحين؟,
+C-12-11,Is your car drivable?,"tagdar tishghil
+sayaaratik?",تقدر تشغل سيارتك؟,
+C-12-12,"Can you bring your
+car here?","tagdar tjeeb sayaaratik
+hina?",تقدر تجيب سيارتك هنا؟,
+C-12-13,"Where did the
+accident happen?",wayn Saar al Haadith?,وين صار الحادث؟,
+C-12-14,"When did the
+accident happen?",mita Saar al Haadith?,متى صار الحادث؟,
+C-12-15,"What Civilian Forces’
+vehicle damaged your
+car?","wishee as sayaara al
+madaneeya at tabi’a
+lil quwaat tisabebat bil
+Haadith?","وشي السيارة المدنية التابعة
+للقوات تسببت بالحادث؟",
+C-12-16,"What soldiers were
+involved in the
+accident?","minhum al junood alee
+lihum daKhal fee al
+Haadith?","منهم الجنود اللي لهم دخل
+في الحادث؟",
+C-12-17,"Thank you for your
+time.",mashkoor ‘ala wagtik,مشكور على وقتك,
+C-12-18,"I appreciate your
+patience.","mashkoor ‘ala Sabrik
+me’na",مشكور على صبرك معنا,
+C-12-19,"In order to be
+compensated for
+damages, you must
+fill out this document.","‘ashaan ni’Teek at
+ta’weeDhaat, laazim
+ti’abee haaTha aT
+Talab","عشان نعطيك التعويضات ،
+لازم تعبي هذا الطلب",
+C-12-20,"In order to be
+compensated for
+damages, you must
+see ___.","‘ashaan ni’Teek at
+ta’weeDhaat, laazim
+tishoof ___","عشان نعطيك التعويضات ،
+لازم تشوف ___",
+C-13-01,"Where can we
+purchase meat?","wayn nagdar nishtiree
+laHam?",وين نقدر نشتري لحم؟,
+C-13-02,"Where can we
+purchase vegetables
+and fruit?","wayn nagdar nishtiree
+KhiDhra wu faakiha?","وين نقدر نشتري خضرة و
+فاكهة؟",
+C-13-03,"Where can we
+purchase bread and
+grains?","wayn nagdar nishtiree
+Khubiz?",وين نقدر نشتري خبز؟,
+C-13-04,"Where can we
+purchase dairy
+products?","wayn nagdar nishtiree
+albaan?",وين نقدر نشتري البان؟,
+C-13-05,"Where can we
+purchase water?","wayn nagdar nishtiree
+maya?",وين نقدر نشتري مية؟,
+C-13-06,"We need to examine
+the herd.","niHtaaj nitifagad al
+geTee’",نحتاج نتفقد القطيع,
+C-13-07,"We need to examine
+the animals on the
+farm.","niHtaaj nitifagad
+al Haywaanaat al
+mawjooda fee al
+mazra’a","نحتاج نتفقد الحيوانات
+المجودة في المزرعة",
+C-13-08,"We need to inspect
+the slaughterhouse
+for sanitation.","niHtaaj niti-akad min
+naDhaafat al maslaKh","نحتاج نتأكد من نظافة
+المسلخ",
+C-13-09,"We need to inspect
+the bakery for
+sanitation.","niHtaaj niti-akad min
+naDhaafat al maKhbaz","نحتاج نتأكد من نظافة
+المخبز",
+C-13-10,"We need to inspect
+the dairy plant.","niHtaaj nitifagad
+maSna’ al albaan",نحتاج نتفقد مصنع الالبان,
+C-13-11,"We need to inspect
+the poultry plant.","niHtaaj nitifagad
+mazra’at ad dawaajin","نحتاج نتفقد مزرعة
+الدواجن",
+C-13-12,"When was the last
+time these animals
+were inoculated?","mita aaKhir mara
+Ta’amtum haaThee al
+muwaashee?","متى اخر مرة طعمتم هذي
+المواشي؟",
+C-13-13,"Do they need to be
+vaccinated?","hal hum miHtaajeen
+taT’eem?",هل هم محتاجين تطعيم؟,
+C-13-14,"We can provide
+vaccinations.",nagdar niwafir liqaaH,نقدر نوفر لقاح,
+C-13-15,"This food is spoiled,
+please do not eat it.","haaTha al akil
+Kharbaan, laa takila law
+simaHt","هذا الاكل خربان، لا تاكله
+لو سمحت",
+C-13-16,"Are the crops infected
+with insects?","hal al maHSool misawis
+bil Hasharaat?","هل المحصول مسوس
+بالحشرات؟",
+C-13-17,"Are the animals
+infected with
+parasites?","hal al Haywaanaat
+muSaaba biT
+Tufayleeyaat?","هل الحيوانات مصابة
+بالطفيليات؟",
+M-01-01,"Do you understand this
+language?","tafham haaThee al
+lugha?",تفهم هذي اللغة؟,
+M-01-02,"We are here to help
+you.",Hinaa hina limsaa’adtik,حنا هنا لمساعدتك,
+M-01-03,"I do not understand
+your language.","maa agdar afham
+lughatik",ما اقدر افهم لغتك,
+M-01-04,"There is no one
+available who speaks
+this language.","maa fee aHad
+yitikalam haaThee al
+lugha",ما في احد يتكلم هذي اللغة,
+M-01-05,"Try to answer my
+questions with “yes” or
+“no.”","jaawib soo-aalee ib
+“na’am” aw “laa”","جاوب سؤالي بـ “نعم” أو
+“لا”",
+M-01-06,"Move your head like
+this for “yes.”","Harik raasik kiTha
+iThaa kaan juwaabik
+“na’am”","حرَك راسك كذا اذا كان
+جوابك “نعم”",
+M-01-07,"Move your head like
+this for “no.”","Harik raasik kiTha
+iThaa kaan juwaabik
+“laa”","حرَك راسك كذا اذا كان
+جوابك “لا”",
+M-01-08,"Do you know where
+you are?",ta’raf wayn int?,تعرف وين انت؟,
+M-01-09,Are you thirsty?,feek ‘aTash?,فيك عطش؟,
+M-01-10,Are you hungry?,feek joo’?,فيك جوع؟,
+M-01-11,"Do you need to
+urinate?","tabee itTayir ash
+shurub?",تبي تطيَر الشرب؟,
+M-01-12,"Do you need to
+defecate?",tabee tistafrigh?,تبي تستفرغ؟,
+M-01-13,"Do you want a
+cigarette?",tabee sigaara?,تبي سيقارة؟,
+M-01-14,I understand.,anaa afham ‘alayk,انا افهم عليك,
+M-01-15,I do not understand.,maa afham ‘alayk,ما افهم عليك,
+M-01-16,"We will try to contact
+someone from your
+group.","nabee inHaawil nitiSil
+‘ala aHad min jimaa’tik","نبي نحاول نتصل على احد
+من جماعتك",
+M-01-17,Please.,law simaHt,لو سمحت,
+M-01-18,Thank you.,mashkoor,مشكور,
+M-01-19,You are welcome.,al ‘afoo,العفو,
+M-01-20,"Thank you for talking
+with me.","mashkoor ‘ala
+kalaamik me’ee",مشكور على كلامك معي,
+M-01-21,"I will talk with you
+again.","raaH nitikalam mara
+thaaneeya",راح نتكلم مرة ثانية,
+M-01-22,Good-bye.,ma’ as salaama,مع السلامة,
+M-02-01,Be quiet.,Khalak saakit,خلك ساكت,
+M-02-02,Come with me.,ta’aal me’ee,تعال معي,
+M-02-03,"Describe it with
+gestures.",waSfah bil-ishaara,وصفه بالاشارة,
+M-02-04,Do not get excited.,‘ala honak,على هونك,
+M-02-05,Do what I ask.,saaw alee agoola,ساو اللي اقوله,
+M-02-06,Do you mean “no”?,int gaSdik tigool “laa”?,انت قصدك تقول “لا”؟,
+M-02-07,Do you mean “yes”?,"int gaSdik tigool
+“na’am”?",انت قصدك تقول “نعم”؟,
+M-02-08,"Hold up the number of
+fingers.","irmiz lil ‘adad ib-
+aSaabi’ik",ارمز للعدد بأصابعك,
+M-02-09,I will get an interpreter.,raaH ajeeb mutarjim,راح اجيب مترجم,
+M-02-10,Is this it?,haaTha kil shay?,هذا كل شيَ؟,
+M-02-11,No,laa,لا,
+M-02-12,Point to it.,ashir ‘aleyha,اشر عليها,
+M-02-13,Relax.,rayiH,ريَح,
+M-02-14,Show me.,warinee,ورني,
+M-02-15,"Squeeze my hand
+once for “yes.”","iDhghaT ‘ala eedee
+mara iThaa kaan
+juwaabik “na’am”","اضغط على ايدي مرة اذا
+كان جوابك “نعم”",
+M-02-16,"Squeeze my hand
+twice for “no.”","iDhghaT ‘ala eedee
+maratayn iThaa kaan
+juwaabik “laa”","اضغط على ايدي مرتين اذا
+كان جوابك “لا”",
+M-02-17,"Write your answer
+here.",iktib juwaabik hina,اكتب جوابك هنا,
+M-02-18,Yes,na’am,نعم,
+M-02-19,I know first aid.,"anaa mitdarib ‘ala al-
+is’aafaat al-awaleeya","انا متدرَب على الاسعافات
+الاولية",
+M-02-20,Don’t move.,laa titHarak,لا تتحرك,
+M-02-21,We need to move you.,"laazim nan-gulk min
+hina",لازم نقللك من هنا,
+M-02-22,"I need to clean your
+wounds.","miHtaaj anaDhif
+jirooHik",محتاج انظف جروحك,
+M-02-23,I am here to help you.,anaa hina limsaa’adtik,انا هنا لمساعدتك,
+M-03-01,"What is your given
+name?",wish ismak al-awal?,وش اسمك الاول؟,
+M-03-02,"What is your family
+name?",wish isim ‘aa-iltik?,وش اسم عائلتك؟,
+M-03-03,"What is your
+nationality?",wishee jinseetik?,وشي جنسيتك؟,
+M-03-04,"What country were you
+born in?",fee ay dawla inwaladt?,في أي دولة انولدت؟,
+M-03-05,How old are you?,kam ‘umrik?,كم عمرك؟,
+M-03-06,"Do you have an
+identity card?",me’ik ithbaat?,معك اثبات؟,
+M-03-07,"Show me your
+identification.",warinee ithbaatik,ورني اثباتك,
+M-03-08,"Do you have any
+bad reactions to
+medications?","ay duwa yesabiblik
+muDhaa’afaat?","أي دوا يسبب لك
+مضاعفات؟",
+M-03-09,"What is the name of
+the medication that
+causes bad reactions?","wishee al-adweeya
+alee tesabiblik
+muDhaa’afaat?","وشي الادوية اللي تسبب لك
+مضاعفات؟",
+M-03-10,"Do you have any
+allergies to medicines?","‘indik Hasaaseeya min
+ay duwa?",عندك حساسية من اي دوا؟,
+M-03-11,What is your religion?,wish deenik?,وش دينك؟,
+M-03-12,"Do you smoke
+tobacco?",id daKhin shay?,ادخن شيّ؟,
+M-03-13,"How many packs of
+cigarettes do you
+smoke per day?","kam ‘ilbat duKhaan bil
+yom id daKhin?",كم علبة دخان باليوم ادخن؟,
+M-03-14,Are you married?,hal int mitzawij?,هل انت متزوج؟,
+M-03-16,"Do you have high
+blood pressure
+problems?","‘indik mashaakil fee
+irtifaa’ DhaghiT ad
+dam?","عندك مشاكل في ارتفاع
+ضغط الدم؟",
+M-03-17,Do you have diabetes?,‘indik sukaree?,عندك سكري؟,
+M-03-18,"Do you have blood
+sugar control
+problems?","‘indik mashaakil fee
+al muHaafaDha ‘ala
+sukaree ad dam?","عندك مشاكل في المحافظة
+على سكري الدم؟",
+M-03-19,Do you drink alcohol?,tashrab kuHool shay?,تشرب كحول شيّ؟,
+M-03-20,"How much do you
+weigh?",kam waznik?,كم وزنك؟,
+M-04-01,You have been injured.,‘indik iSaaba,عندك اصابة,
+M-04-02,You are ill.,int mereeDh,انت مريض,
+M-04-03,Lie still.,inbiTiH bidoon Haraka,انبطح بدون حركة,
+M-04-04,"We will take care of
+you.",Hinaa bnihtam feek,حنا بنهتم فيك,
+M-04-05,Let us help you.,Khalana insaa’idk,خلنا نساعدك,
+M-04-06,"We must examine you
+carefully.","laazim nifHaSk beshakil
+digeeg",لازم نفحصك بشكل دقيق,
+M-04-07,"We will try not to hurt
+you further.","binHaawil inana maa
+insabiblik ay alam
+thaanee","بنحاول اننا ما نسببلك اي
+ألم ثاني",
+M-04-08,"This will help protect
+you.","haaTha raayiH yesaa’id
+fee Heemaaytik",هذا رايح يساعد في حمايتك,
+M-04-10,"Keep your head very
+still.",Khal raasik thaabit,خل راسك ثابت,
+M-04-11,Keep very still.,Khalik thaabit,خللك ثابت,
+M-04-12,Can you breathe?,tagdar tanafas?,تقدر تنفس؟,
+M-04-13,"Say your name out
+loud.",gil ismik ibSot ‘aalee,قل اسمك بصوت عالي,
+M-04-14,Do you hurt anywhere?,"‘indik alam fee ay
+mekaan?",عندك ألم في ايّ مكان؟,
+M-04-15,Show me where.,warinee wayn,ورني وين,
+M-04-16,"Show me where it
+hurts worst.","warinee wayn akthar
+al-alam",ورني وين اكثر الألم,
+M-04-17,Does this hurt?,tooja’ik shay?,توجعك شيّ؟,
+M-04-18,"Move all of your
+fingers.",Harik kil aSaabi’ik,حرك كل اصابعك,
+M-05-01,You are badly hurt.,int iSaabtik KhaTeera,انت اصابتك خطيرة,
+M-05-02,You are very sick.,int mareeDh jidan,انت مريض جداً,
+M-05-03,"We need to take you to
+surgery.","laazim naaKhThik lil
+mistashfa",لازم نأخذك للمستشفى,
+M-05-04,We need to remove this.,"laazim nista-Sil
+haaThee",لازم نستأصل هذي,
+M-05-05,We need to repair this.,"laazim indaawee
+haaThee",لازم نداوي هذي,
+M-05-06,"If we do not operate,
+you may die.","iThaa maa saaweyna
+al ‘amaleeya, mumkin
+timoot","اذا ما ساوينا العملية، ممكن
+تموت",
+M-05-07,"If we do not operate,
+you may lose this.","iThaa maa saaweyna
+al ‘amaleeya, mumkin
+tafqid haaThee","اذا ما ساوينا العملية، ممكن
+تفقد هذي",
+M-05-08,"The operation is
+dangerous, but it is the
+only way to help you.","al ‘amaleeya KhaTeera,
+laakin hee aT Tareega
+al waHeeda li’laajak","العملية خطيرة، لكن هي
+الطريقة الوحيدة لعلاجك",
+M-05-09,"Do you understand that
+you need this surgery?","int tafham inik tiHtaaj al
+‘amaleeya?",انت تفهم انك تحتاج العملية؟,
+M-05-10,"We will operate very
+carefully.","raaH nikoon HaThreen
+bil ‘amaleeya",راح نكون حذرين بالعملية,
+M-05-11,"We want your
+permission before we
+operate on you.","niHtaaj muwaafiqtik ‘ala
+al ‘amaleeya",نحتاج موافقتك على العملية,
+M-05-12,"May we operate on
+you?","mumkin nijree al
+‘amaleeya?",ممكن نجري العملية؟,
+M-05-13,"We will begin the
+operation as soon as
+we can.","raaH nabda al
+‘amaleeya be-asra’
+wagt",راح نبدا العملية بأسرع وقت,
+M-05-15,"Have you had any
+surgeries?","saweyt ay ‘amaleeyaat
+bil maaDhee?",سويت أي عمليات بالماضي؟,
+M-05-16,"Do you have any
+allergies, especially to
+medications?","‘indik ay Hasaaseeya
+wa KhuSooSan lee-ay
+duwa?","عندك أي حساسية و
+خصوصاّ لآي دوا؟",
+M-05-17,"Do you have high blood
+pressure / diabetes or
+blood sugar control
+problems?","‘indik DhaghiT dam
+‘aalee / sukaree aw
+mashaakil fee itizaan
+mustuwa sikar ad dam?","عندك ضغط دم عالي  /
+سكري أو مشاكل في اتزان
+مستوى سكر الدم؟",
+M-06-01,You have been hurt.,int muSaab,انت مصاب,
+M-06-02,"We are all working to
+help you.","kulana na’mal ‘ala
+imsaa’adtik",كلنا نعمل على مساعدتك,
+M-06-03,"Help us take care of
+you.",‘aTnaa furSa insaa’idk,عطنا فرصة نساعدك,
+M-06-04,"We have to remove
+your clothes.",laazim nanza’ ithyaabik,لازم ننزع ثيابك,
+M-06-05,"Do you have any
+bad reactions to any
+medicine?","‘indik ay muDhaa’afaat
+min ay duwa?","عندك أي مضاعفات من أي
+دوا؟",
+M-06-06,"Have you eaten food in
+the past six hours?","kalayt ay shay gabul sit
+saa’aat?","كليت أي شي قبل ست
+ساعات؟",
+M-06-07,"Is this injury from a
+landmine?","hal iSaabtik min
+lagham?",هل اصابتك من لغم؟,
+M-06-09,Is this from a knife?,hal hee min sikeen?,هل هي من سكين؟,
+M-06-10,Is this from a rock?,hal hee min SaKhra?,هل هي من صخرة؟,
+M-06-11,"Is this from a vehicle
+crash?","hal hee min iSTidaam
+sayaara?",هل هي من اصطدام سيارة؟,
+M-06-12,"Did a person do this to
+you?","aHad sabablik hal
+iSaaba?",احد سببلك هالاصابة؟,
+M-06-13,"Did you lose
+consciousness after this
+happened?","hal ughmee ‘alayk
+ba’ad alee HaSalik?","هل اغمي عليك بعد اللي
+حصلك؟",
+M-06-14,"Did you lose more than
+this much blood?","hal nazaft akthar min
+kiTha?",هل نزفت اكثر من كذا؟,
+M-06-15,"Point to all the parts of
+your body that hurt.","ashir ‘ala mekaan al
+wija’",اشر على مكان الوجع,
+M-06-16,"Does it hurt when I do
+this?","hal ti-limik ‘ind maa
+a’mal kiTha?",هل تألمك عند ما اعمل كذا؟,
+M-06-17,Move this like this.,Harik haaThee mithlee,حرك هذي مثلي,
+M-06-18,Turn over this way.,"iltifit ‘ala haaTha al-
+itijaah",التفت على هذا الاتجاه,
+M-06-19,"Did you inhale any
+smoke or very hot air?","hal tanafast duKhaan
+aw hawa saaKhin?","هل تنفست دخان أو هوا
+ساخن؟",
+M-06-20,Do your lungs hurt?,"hal tiHis ib-alam fee ar
+ri-a?",هل تحس بألم في الرئة؟,
+M-06-21,"Are you having trouble
+breathing?","‘indik mashaakil bit
+tanafus?",عندك مشاكل بالتنفس؟,
+M-06-22,"This will help avoid
+infection.","haaTha raayiH
+yejanibik al-ilteehaab",هذا رايح يجنبك الالتهاب,
+M-07-01,This will help you.,haaTha raaH yisaa’idk,هذا راح يساعدك,
+M-07-02,"I have to put a small
+needle in you here.","laazim aDhribik ibra
+hina",لازم اضربك ابرة هنا,
+M-07-03,"We need to give you
+fluid.","niHtaaj na’Teek sawaa-
+il",نحتاج نعطيك سوائل,
+M-07-04,"We need to give you
+blood.",niHtaaj ningilik dam,نحتاج ننقللك دم,
+M-07-05,"I need to put a tube into
+your throat.","niHtaaj niHiT inboob
+fee Halgik",نحتاج نحط انبوب في حلقك,
+M-07-06,"This tube will help you
+breathe better.","hal inboob raaH yisahil
+‘alayk at tanafus","هالانبوب راح يسهل عليك
+التنفس",
+M-07-07,"This tube may feel
+uncomfortable.","mumkin al-inboob
+yesabiblik iz’aaj","ممكن الانبوب يسببلك
+ازعاج",
+M-07-08,"I need to put a tube
+through your nose to
+your stomach.","aHtaaj adaKhil inboob
+ilmi’idtik ‘an Tareeg
+anfik","احتاج ادخل انبوب لمعدتك
+عن طريق انفك",
+M-07-09,"You need to swallow
+while I put this tube in
+your nose.","aHtaaj minik tabla’
+il’aabik ‘ind maa
+adaKhil al-inboob fee
+anfik","احتاج منك تبلع لعابك عند
+ما ادخَل الانبوب في انفك",
+M-07-10,"Drink this while I gently
+place the tube into your
+nose.","ishrab Thee ‘ind maa
+adaKhil al-inboob fee
+anfik","اشرب ذي عند ما ادخَل
+الانبوب في انفك",
+M-07-11,"This tube will drain your
+stomach.","haaTha al-inboob raaH
+yejafif ma’ditik","هذا الانبوب راح يجفف
+معدتك",
+M-07-12,"I have to put a small
+tube into your neck to
+give you fluid.","aHtaaj aHuT inboob
+fee rugubtik ‘ashaan
+a’Teek as saa-il","احتاج احط انبوب في رقبتك
+عشان اعطيك السائل",
+M-07-13,"I need to put a tube in
+your chest.","aHtaaj aHuT inboob
+fee Sadrik","احتاج احط انبوب في
+صدرك",
+M-07-14,"This needle will release
+the air from your chest.","haaThee al-ibra raaH
+tasHab al hawa min
+Sadrik","هذي الابرة راح تسحب
+الهوا من صدرك",
+M-07-15,"This will help your
+burns.","haaThee raaH tsaa’id
+fee ‘ilaaj Huroogik","هذي راح تساعد في علاج
+حروقك",
+M-07-16,I need to cut your skin.,aHtaaj agTa’ jildik,احتاج اقطع جلدك,
+M-07-17,"We have to restrain
+you for your safety.","laazim nurbuTk min ajil
+salaamtik","لازم نربطك من اجل
+سلامتك",
+M-07-18,"You have been burned
+by a chemical.","al Huroog
+sababha mawaad
+keemaaweeya",الحروق سببها مواد كيماوية,
+M-07-19,"We need to wash the
+chemicals from your
+skin.","niHtaaj inghasil
+al mawaad al
+keemaaweeya ‘an jildik","نحتاج نغسل المواد
+الكيماوية عن جلدك",
+M-07-20,"You will need to be
+completely washed.","niHtaaj inghasil jismik
+kila",نحتاج نغسل جسمك كله,
+M-07-21,"Hold this dressing and
+apply pressure.","HuT ash shaash
+wuDhghaT ‘aleyh",حط الشاش واضغط عليه,
+M-07-22,"I need to splint your
+arm.",miHtaaj ashid yadk,محتاج اشد يدك,
+M-07-23,"I need to splint your
+leg.",miHtaaj ashid saagak,محتاج اشد ساقك,
+M-07-24,"I am applying a
+tourniquet to stop the
+bleeding.",raaH agTa’ an nazeef,راح اقطع النزيف,
+M-08-01,"Have you urinated
+today?","hal Tayart ash shirib al
+yom?",هل طيَرت الشرب اليوم؟,
+M-08-02,"Does your bladder feel
+full?","hal tiHis in mathaantik
+mumtal-a?",هل تحس ان مثانتك ممتلئة؟,
+M-08-03,"Do you have problems
+starting to urinate?","‘indik mashaakil bit
+tabawul?",عندك مشاكل بالتبول؟,
+M-08-04,"Do you have an urge to
+urinate but are unable
+to pass urine?","hal tash’ur bir raghba
+fee at tabawul
+walaakin laa tastaTee’
+at tabawul?","هل تشعر بالرغبة في
+التبول و لكن لا تستطيع
+التبول؟",
+M-08-05,"Do you have any pain
+with urination?","tiHis ib-alam ‘ind at
+tabawul?",تحس بألم عند التبول؟,
+M-08-06,"Urinate into this
+container.",tibawal fee al ‘ilba,تبَول في العلبة,
+M-08-07,"You need a tube in your
+bladder.","tiHtaaj inboob fee al
+mithaana",تحتاج انبوب في المثانة,
+M-08-08,"I am going to insert a
+tube into your bladder
+to drain urine.","raaH indaKhil inboob
+fee al mithaana lisaHib
+al bol","راح ندَخل انبوب في المثانة
+لسحب البول",
+M-08-09,"This tube will empty
+the urine from your
+bladder.","al-inboob raaH yifarigh
+al bol min mithaantik","الانبوب راح يفرغ البول
+من مثانتك",
+M-08-10,"This tube will feel
+uncomfortable in you.",al-inboob raaH yiz’ijk,الانبوب راح يزعجك,
+M-08-11,Do not touch this tube.,"laa talmas haaTha al-
+inboob",لا تلمس هذا الانبوب,
+M-09-01,"Do not eat or drink until
+the surgery.","laa taakil aw tashrab
+gabul al ‘amaleeya","لا تاكل أو تشرب قبل
+العملية",
+M-09-02,"Do not eat or drink
+anything after midnight
+tonight.","laa taakil aw tashrab
+ay shay ba’id
+muntaSaf al layl","لا تاكل أو تشرب أي شي
+بعد منتصف الليل",
+M-09-03,Take this medicine.,KhiTh haaTha ad duwa,خذ هذا الدوا,
+M-09-04,"You must remain in
+bed.",laazim tabga fis sareer,لازم تبقى في السرير,
+M-09-05,Do not move at all.,laa titHarak abad,لا تتحرك ابد,
+M-09-06,"You must stay in this
+room.","laazim tabga fee al
+ghurfa",لازم تبقى في الغرفة,
+M-09-07,You must not smoke.,"laazim timtini’ ‘an at
+tadKheen",لازم تمتنع عن التدخين,
+M-09-08,"We have to cut your
+hair off here.","laazim nigiS sha’rak
+hina",لازم نقص شعرك هنا,
+M-09-09,"You may get up to go to
+the toilet.","mumkin tigoom
+tistaKhdim al Hamaam",ممكن تقوم تستخدم الحمام,
+M-09-10,"We cannot give you
+anything to eat or drink.","maa nagdar ni’Teek
+ay shay taakla aw
+tashraba","ما نقدر نعطيك أي شي تاكله
+أو تشربه",
+M-09-11,"If you need surgery,
+your stomach must be
+empty.","iThaa iHtajt ‘amaleeya,
+laazim tikoon mi’dtik
+faaDheeya","اذا احتجت عملية، لازم
+تكون معدتك فاضية",
+M-09-12,"We will give you food
+and drink as soon as it
+is safe to do so.","raaH ni’Teek akil wu
+shurib lamaa init-akad
+min inaha maa it-athir
+‘alayk","راح نعطيك أكل وشرب لما
+نتأكد من انها ما تأثر عليك",
+M-10-01,Are you having pain?,tiHis ib-alam?,تحس بألم؟,
+M-10-02,"Where are you having
+pain?",wayn tiHis bil-alam?,وين تحس بالألم؟,
+M-10-03,Is the pain here?,hal al-alam hina?,هل الألم هنا؟,
+M-10-04,"Does anything make
+the pain better?","ay shay mumkin
+yeKhafif al-alam?",أي شي ممكن يخفف الألم؟,
+M-10-05,"Does anything make
+the pain worse?","ay shay yeKhalee al-
+alam aswaa?",أي شي يخلي الألم اسواء؟,
+M-10-06,"Did the pain start
+today?","hal bida al-alam al
+yom?",هل بدا الألم اليوم؟,
+M-10-07,"How many days have
+you had the pain?","kam yom Saar lil alam
+me’ik?",كم يوم صار للألم معك؟,
+M-10-08,"Describe the pain on a
+scale from 1 to 10.","waSif mustowa al-alam
+min waaHid il’ashra","وصف مستوى الألم من
+واحد لعشرة",
+M-10-09,"10 is the worst
+possible pain and 1 is
+no pain at all.","‘ashra yekoon ashad
+alam wu waaHid
+maafee ay alam","عشرة يكون اشد ألم و واحد
+ما في أي ألم",
+M-10-10,"Hold up the number of
+fingers.","warinee ar ragam
+bistiKhdaam aSaabi’ik","ورني الرقم باستخدام
+اصابعك",
+M-10-11,"What is the main
+problem?","wish mishkiltik ar ra-
+eeseeya?",وش مشكلتك الرئيسية؟,
+M-10-12,"How long have you
+had the pain?","min mitaa wu int feek
+alam?",من متى وانت فيك ألم؟,
+M-10-13,"Show me where the
+pain started.","warinee wayn bida al-
+alam",ورني وين بدا الألم,
+M-10-14,"Does the pain go to
+the back?","hal al-alam yirooH liDh
+Dhahar?",هل الألم يروح للظهر؟,
+M-10-15,"Does the pain go to
+the testicles?","hal al-alam yirooH lil
+KhiSya?",هل الألم يروح للخصية؟,
+M-10-16,"Does this pain go to
+the groin?","hal al-alam yirooH lil
+aHshaa?",هل الألم يروح للأحشاء؟,
+M-10-17,Is this a sharp pain?,hal hoo alam Haad?,هل هو ألم حاد؟,
+M-10-18,Is this a dull pain?,hal hoo alam beseeT?,هل هو الم بسيط؟,
+M-10-19,"Is this a cramping
+pain?",hal hoo alam maghS?,هل هو ألم مغص؟,
+M-10-20,"Is this a constant
+pain?","hal hoo alam
+mutawaaSil?",هل هو ألم متواصل؟,
+M-10-21,"Is this an intermittent
+pain?","hal hoo alam
+mutaqaTi’?",هل هو ألم متقطع؟,
+M-10-22,Is this a mild pain?,hal hoo alam Khafeef?,هل هو ألم خفيف؟,
+M-10-23,"Is this a moderate
+pain?","hal hoo alam
+mutawasiT?",هل هو ألم متوسط؟,
+M-10-24,Is this a severe pain?,hal hoo alam shideed?,هل هو ألم شديد؟,
+M-10-25,"Is this the worst pain
+you ever had?","hal hoo ashad alam
+mar ‘alayk?",هل هو اشد ألم مر عليك؟,
+M-10-26,"Is there anything
+that relieves the pain
+symptom?","hal fee ay shay
+yeKhafif a’raaDh al-
+alam?","هل في أي شي يخفف
+اعراض الألم؟",
+M-10-27,"Is there anything that
+worsens the pain
+symptom?","hal fee ay shay yezeed
+min a’raaDh al-alam?","هل في أي شي يزيد من
+اعراض الألم؟",
+M-10-28,"Have you seen a
+doctor or anyone
+about this?","hal riHt liT Tabeeb
+biKhSooS hal alam?","هل رحت للطبيب
+بخصوص هالألم؟",
+M-10-29,"What medicines are
+you taking?","wish no’ ad duwa alee
+taaKhTha?",وش نوع الدوا اللي تاخذه؟,
+M-10-30,"Are you experiencing
+fevers?",‘indik Haraara?,عندك حرارة؟,
+M-10-31,"Are you experiencing
+chills?",‘indik bardeeya?,عندك بردية؟,
+M-10-32,"Are you experiencing
+nausea?",hal nafsik tal’ab?,هل نفسك تلعب؟,
+M-10-33,"Are you experiencing
+vomiting?",tiHis bil-istifraagh?,تحس بالاستفراغ؟,
+M-10-34,"Are you experiencing
+diarrhea?",‘indik is-haal?,عندك اسهال؟,
+M-10-35,"Are you experiencing
+loss of appetite?","tiHis ibfuqdaan ash
+shaheeya?",تحس بفقدان الشهية؟,
+M-10-36,"Are you experiencing
+headaches?",‘indik Sudaa’?,عندك صداع؟,
+M-10-37,"Are you experiencing
+visual disturbances?","‘indik tashatit bin
+naDhar?",عندك تشتت بالنظر؟,
+M-10-38,"Are you experiencing
+numbness or tingling?",‘indik tanmeel?,عندك تنميل؟,
+M-10-39,"Are you experiencing
+bleeding by mouth or
+rectum?","‘indik nazeef fee al fam
+aw fee al-am’aa?","عندك نزيف في الفم أو في
+الامعاء؟",
+M-11-01,Do you feel sick?,tiHis inik mareeDh?,تحس انك مريض؟,
+M-11-02,"Did you begin to feel
+sick today?","bidayt tiHis inik
+mareeDh al yom?","بديت تحس انك مريض
+اليوم؟",
+M-11-03,"How many days have
+you felt sick?","kam yom Saar lik wint
+mareeDh?","كم يوم صارلك و انت
+مريض؟",
+M-11-04,Is the sickness here?,hal al maraDh hina?,هل المرض هنا؟,
+M-11-05,"Do you feel
+nauseated?","hal tash’ur bil
+ghathayaan?",هل تشعر بالغثيان؟,
+M-11-06,"Did the nausea start
+today?","hal shu’oorak bil
+ghathayaan bida al
+yom?","هل شعورك بالغثيان بدا
+اليوم؟",
+M-11-07,"How many days have
+you had the nausea?","kam yom Saar lik
+tash’ur bil ghathayaan?","كم يوم صارلك تشعر
+بالغثيان؟",
+M-11-08,"Have you been
+vomiting?",hal istafraght shay?,هل استفرغت شيَ؟,
+M-11-09,"Is there any blood in
+your vomit?","hal fee dam fee
+istifraaghak?",هل في دم في استفراغك؟,
+M-11-10,"Is there any black
+color in your vomit?","hal fee lon ghaamig
+fee istifraaghik?","هل في لون غامق في
+استفراغك؟",
+M-11-11,"Have you had any
+diarrhea?",hal ‘indik is-haal?,هل عندك اسهال؟,
+M-11-12,"How many times have
+you had diarrhea
+today?","kam mara jaalik is-haal
+al yom?",كم مرة جالك اسهال اليوم؟,
+M-11-13,"Would your diarrhea
+today fill this?","hal is-haalik al yom
+ye’abee haaThee?","هل اسهالك اليوم يعبي
+هذي؟",
+M-11-14,"What color is the
+diarrhea?",wish lon al-is-haal?,وش لون الاسهال؟,
+M-11-15,Is it red?,hal hee Hamra?,هل هي حمرا؟,
+M-11-16,Is it yellow?,hal hee Safra?,هل هي صفرا؟,
+M-11-17,Is it green?,hal hee KhaDhra?,هل هي خضرا؟,
+M-11-18,Is it black?,hal hee soda?,هل هي سودا؟,
+M-11-19,"When was the last
+time you had a bowel
+movement?","mita aaKhir mara
+tibarazt?",متى اخر مرة تبرزت؟,
+M-11-20,"Has there been any
+blood in your stool?","hal kaan ay dam fee al
+mirHaaDh?","هل كان أي دم في
+المرحاض؟",
+M-11-21,"Are you bleeding from
+your rectum?","‘indik nizeef fee al-
+am’aa?",عندك نزيف في الامعاء؟,
+M-11-22,"Have your stools been
+black?","hal kaan mirHaaDhik
+aswad?",هل كان مرحاضك اسود؟,
+M-11-23,Do you have fever?,hal ‘indik Haraara?,هل عندك حرارة؟,
+M-11-24,"For how many days
+have you had a fever?","kam yom Saar lil
+Haraara me’ik?",كم يوم صار للحرارة معك؟,
+M-11-25,"Does it burn when you
+urinate?","hal tiHis ibHarga ‘ind at
+tabawul?","هل تحس بحرقة عند
+التبول؟",
+M-11-26,"Does it hurt when you
+urinate?","hal tiHis ib-alam ‘ind at
+tabawul?",هل تحس بألم عند التبول؟,
+M-11-27,"Are you urinating more
+than usual?","hal titbawal akthar min
+il ‘aada?",هل تتبول اكثر من العادة؟,
+M-11-28,"Is there blood in the
+urine?",hal fee dam fee al bol?,هل في دم في البول؟,
+M-11-29,When did you eat last?,"mita akalet aaKhir
+mara?",متى اكلت أخر مرة؟,
+M-11-30,Are you hungry?,hal int joo’aan?,هل انت جوعان؟,
+M-11-31,Do you have worms?,hal ‘indik deedaan?,هل عندك ديدان؟,
+M-11-32,Do you have malaria?,hal ‘indik malaarya?,هل عندك مالاريا؟,
+M-11-33,"Do you have
+tuberculosis?",hal ‘indik daran?,هل عندك درن؟,
+M-11-34,"Do you know what
+I mean by the term
+HIV?","t’arif wish agSid yom
+agool maraDh nagS al
+manaa’a?","تعرف وش اقصد يوم أقول
+مرض نقص المناعة؟",
+M-11-35,"Do you know what
+I mean by the term
+AIDS?","t’arif wish agSid yom
+agool eydz?","تعرف وش اقصد يوم أقول
+ايدز؟",
+M-11-36,"Are you infected with
+the HIV virus?","hal ant muSaab
+ib fayroos naqS al
+manaa’a?","هل انت مصاب بفيروس
+نقص المناعة؟",
+M-11-37,Do you have AIDS?,hal ‘indik eydz?,هل عندك ايدز؟,
+M-11-38,"You need a blood test
+for the HIV virus.","tiHtaaj faHS dam
+‘an fayroos naqS al
+manaa’a","تحتاج فحص دم عن فيروس
+نقص المناعة",
+M-12-01,"Do you have pain in
+this joint I’m touching?","‘indik alam fee
+mafaaSilik alee almas-
+haa?","عندك ألم في مفاصلك اللي
+ألمسها؟",
+M-12-02,"Do you have pain in
+any other joint?","‘indik alam fee ay
+mafaaSil thaaneeya?","عندك ألم في أي مفاصل
+ثانية؟",
+M-12-03,"Which joint hurts the
+most?","wish akthar mafSal yi-
+limk?",وش اكثر مفصل يئلمك؟,
+M-12-04,"Do you have pain
+in this muscle I’m
+touching?","‘indik alam fee al
+‘aDhala alee almas-
+haa?","عندك ألم في العضلة اللي
+ألمسها؟",
+M-12-05,"Do you have pain in
+any other muscle?","‘indik alam fee ay
+‘aDhala thaaneeya?","عندك ألم في أي عضلة
+ثانية؟",
+M-12-06,"Where is the muscle
+pain?","wayn tiHis ib-alam al
+‘aDhala?",وين تحس بألم العضلة؟,
+M-12-07,"Is this muscle
+cramping?","hal al ‘aDhala
+mitSalba?",هل العضلة متصلبة؟,
+M-12-08,"Have you ever had
+any broken bones?","hal ‘indak i’Dhaam
+maksoora min gabul?","هل عندك عظام مكسورة
+من قبل؟",
+M-12-09,"What bones have you
+broken?","wishee al i’Dhaam alee
+kisart?",وشي العظام اللي كسرت؟,
+M-12-10,"Does it hurt when I do
+this?","tiHis ib-alam yom a’mal
+kiTha?",تحس بألم يوم أعمل كذا؟,
+M-12-11,Do this.,a’mal kiTha,أعمل كذا,
+M-12-12,"You need an X-ray of
+your bone.",tiHtaaj ashi’a il ‘aDhmik,تحتاج اشعة لعظمك,
+M-12-13,"I will examine the X-
+ray and tell you what
+I see.","raaH afHaS Soorat al-
+ashi’a wa agool alee
+ashoofa","راح افحص صورة الاشعة
+و أقول اللي اشوفه",
+M-12-15,"The bone is not
+broken here.","al ‘aDhim maahoo
+maksoor hina",العظم ما هو مكسور هنا,
+M-12-16,"You need a cast to
+help the bone heal.","tiHtaaj tajbeer ‘ashaan
+in’aalij al kasir","تحتاج تجبير عشان نعالج
+الكسر",
+M-12-17,"Do not remove the
+cast.",laa tanza’ al tajbeera,لا تنزع التجبيرة,
+M-12-18,"Do not get the cast
+wet.",laa tbalil al tajbeera,لا تببل التجبيرة,
+M-12-19,"You need a splint to
+help the injury heal.","tiHtaaj rabTa ilta’leeg
+eedik ‘ashaan tsaa’idik
+‘ala ash shifaa","تحتاج ربطة لتعليق ايدك
+عشان تساعدك على الشفاء",
+M-12-20,"You may take the
+splint off to clean
+yourself.","mumkin tisheel
+rabTat at ta’leeg yom
+tarawash","ممكن تشيل ربطة التعليق
+يوم تروش",
+M-12-21,"The splint must be
+replaced after you
+have cleaned yourself.","laazim tghayir ar rabTa
+ba’ad maa tarawash","لازم تغيَر الربطة بعد ما
+تروش",
+M-12-22,"You need a metal plate
+and screws to help the
+healing of your bone.","tiHtaaj blaateen wu
+baraaghee iltaSleeH al
+‘aDhim","تحتاج بلاتين و براغي
+لتصليح العظم",
+M-12-23,"We need to take
+you to the operating
+room to perform an
+operation on you.","laazim naaKhThik il
+ghirfat al ‘amaleeyaat
+‘ashaan insaaweelik
+‘amaleeya","لازم ناخذك لغرفة العمليات
+عشان نساويلك عملية",
+M-13-01,"Do you have an
+intrauterine device
+(birth control device)?",‘indik lowlab?,عندك لولب؟,
+M-13-02,"Have you had missed
+periods of menstruation
+recently?","maa jadtkee al ‘aada
+moo-aKharan?",ما جدتكي العادة موخراً؟,
+M-13-03,"Do you use pills for
+birth control?","tistaKhdimeen Huboob
+man’ al Hamil?","تستخدمين حبوب منع
+الحمل؟",
+M-13-04,Are you pregnant?,hal intee Haamil?,هل انتي حامل؟,
+M-13-05,"Could you be
+pregnant?",tiDhineen inik Haamil?,تظننين انك حامل؟,
+M-13-06,"When was your last
+period?","mata jadtkee al ‘aada
+aaKhir mara?","متى جدتكي العادة اخر
+مرة؟",
+M-13-07,"How many pregnancies
+have you had?","kam mara kintee
+Haamil?",كم مرة كنتي حامل؟,
+M-13-08,"Are you having any
+vaginal discharge?",‘indik sayalaan?,عندك سيّلان؟,
+M-13-09,"Are you having vaginal
+bleeding?",‘indik nazeef?,عندك نزيف؟,
+M-13-10,"How long have you had
+vaginal bleeding?","min mita wa intee ‘indik
+nazeef?","من متى وانتي عندك
+نزيف؟",
+M-13-11,"Does the vaginal
+bleeding come and go?","hal an nazeef yejee
+weerooH?",هل النزيف يجي و يروح؟,
+M-13-12,"Is the vaginal bleeding
+constant?","hal an nazeef
+mutawaaSil?",هل النزيف متواصل؟,
+M-13-13,Do you feel dizzy?,hal tiHiseen ibdoKha?,هل تحسين بدوخة؟,
+M-13-14,"How many months
+have you been
+pregnant?","kam shahar Saar lik
+Haamil?",كم شهر صار لك حامل؟,
+M-13-15,"How many children do
+you have?",kam ‘adad awlaadik?,كم عدد اولادك؟,
+M-13-16,Have you been raped?,"hal ta’araDhtee lil
+ightiSaab?",هل تعرضتي للاغتصاب؟,
+M-13-17,"We need to examine
+you carefully.","laazim nafHaSik
+beshakil daqeeq",لازم نفحصك بشكل دقيق,
+M-13-18,"We will protect your
+privacy as much as we
+can.","raaH inHaawil naHmee
+KhuSooSeeyatik bee-
+akbar qadir","راح نحاول نحمي
+خصوصيتك باكبر قدر",
+M-13-19,Does this hurt?,hal tisabiblik alam?,هل تسييلك ألم؟,
+M-13-20,Do not push yet.,laa tadfa’ee ba’ad,لا تدفعي بعد,
+M-13-21,Push now.,idfe’ee alHeen,ادفعي الحين,
+M-13-22,"Push now as hard as
+you can.","idfe’ee alHeen ibshakil
+gowee",ادفعي الحين بشكل قوي,
+M-13-23,The baby is here.,al mawlood wuSal,المولود وصل,
+M-13-24,It is a boy.,al mawlood walad,المولود ولد,
+M-13-25,It is a girl.,al mawlood bint,المولود بنت,
+M-13-26,The baby looks healthy.,"al mawlood SeHata
+zeyna",المولود صحته زينة,
+M-13-27,"We will take good care
+of the baby.","raaH ni’tinee bil
+mawlood",راح نعتني بالمولود,
+M-14-01,Your child is sick.,Tiflik mareeDh,طفلك مريض,
+M-14-02,Your child is hurt.,Tiflik mit-alim,طفلك متألم,
+M-14-03,"We need to care for
+your child.",laazim ni’tinee ibTiflik,لازم نعتني بطفلك,
+M-14-04,"You need to let us
+keep your child here.","laazim tKhaleen Tiflik
+‘indana",لازم تخلين طفلك عندنا,
+M-14-05,"You may stay with
+your child.","mumkin tabga ma’
+Tiflik",ممكن تبقى مع طفلك,
+M-14-06,"Let us examine your
+child in private.","Khalana nafHaS Tiflik il
+waHdana",خلنا نفحص طفلك لوحدنا,
+M-14-07,"Your child will get
+better soon.","Tiflik raaH yiSeer
+aHsan gereeb","طفلك راح يصير احسن
+قريب",
+M-14-08,"This medicine will help
+your child.","haaTha ad duwa raaH
+yisaa’id Tiflik","هذا الدواء راح يساعد
+طفلك",
+M-14-09,"Did your child eat
+today?","kala Tiflik ay shay al
+yom?",كلا طفلك اي شي اليوم؟,
+M-14-10,"Did your child eat
+yesterday?","akal Tiflik ay shay
+ams?",أكل طفلك أي شي امس؟,
+M-14-11,"Has your child passed
+urine today?","Tayar ash shurb Tiflik
+al yom?",طير الشرب طفلك اليوم؟,
+M-14-12,"Has your child passed
+any stool today?","tibaraz Tiflik shay al
+yom?",تبرز طفلك شي اليوم؟,
+M-14-13,"Did your child pass
+any stool yesterday?","tibaraz Tiflik shay
+ams?",تبرز طفلك شي امس؟,
+M-14-14,"Has your child had any
+diarrhea?",hal ‘ind Tiflik is-haal?,هل عند طفلك اسهال؟,
+M-14-15,"Has your child been
+vomiting?",hal TarashTiflik shay?,هل طرش طفلك شي؟,
+M-14-16,"Your child looks
+healthy.","Tiflik shakil SeHitah
+zayna",طفلك شكل صحته زينة,
+M-14-17,Your child will be fine.,Tiflik maa ‘aleyh Khof,طفلك ما عليه خوف,
+M-14-18,"Your child will be ill for
+a long time.","Tiflik raaH yukoon
+mareeDh lee wagit
+Tuweel","طفلك راح يكون مريض
+لوقت طويل",
+M-14-19,"This illness will pass
+slowly, but your child’s
+health will return
+completely.","raaH taaKhiTh Tiflik
+wagit Hata yishfa, bas
+raaH yarja’ Tabee’ee","راح تأخذ طفلك وقت حتى
+يشفى، بس راح يرجع
+طبيعي",
+M-14-20,"Feed the child small
+portions every few
+hours.","iT’im Tiflik wajbaat
+Sagheera kul kaTha
+saa’a","اطعم طفلك وجبات صغيرة
+كل كذا ساعة",
+M-14-21,"Help your child drink
+this every few hours.","Khal Tiflik yashrab
+haaTha kul kaTha
+saa’a","خل طفلك يشرب هذا كل
+كذا ساعة",
+M-14-22,"Feed this medicine to
+your child every four
+hours.","Khal Tiflik yashrab
+haaTha ad duwa kul
+arba’ saa’aat","خل طفلك يشرب هذا الدواء
+كل اربع ساعات",
+M-14-23,"Allow your child to
+sleep.",Khal Tiflik yanaam,خل طفلك ينام,
+M-14-24,"You need to sleep
+as much as the child
+does.","int tiHtaaj tanaam
+migdaar maa yiHtaaj
+aT Tifil yanaam","انت تحتاج تنام مقدار ما
+يحتاج الطفل ينام",
+M-14-25,"Bring your child back
+here tomorrow.",jib Tiflik bukra,جب طفلك بكرة,
+M-14-26,"Bring your child
+back if there is no
+improvement by
+tomorrow.","jib Tiflik bukra iThaa
+maa kaan ay taHasun","جب طفلك بكرة اذا ما كان
+اي تحسن",
+M-14-27,"We will continue to
+follow the health of
+your child with you.","raaH ataabi’ Haalat
+Tiflik ma’ik",راح اتابع حالة طفلك معك,
+M-15-01,"Do you have any chest
+pain or tightness?","hal tiHis ib-alam biS
+Sadir aw Dheega?","هل تحس بألم بالصدر أو
+ضيقة؟",
+M-15-02,"Are you having trouble
+trying to breathe?","‘indik mashaakil bit
+tanafus?",عندك مشاكل بالتنفس؟,
+M-15-03,"Do you have chest
+pain over your entire
+chest?","‘indik alam ibSadrik
+kilah?",عند ألم بصدرك كله؟,
+M-15-04,"Do you have pain from
+your chest into your
+arm?","hal al-alam yintigil min
+Sadrik liThraa’ik?","هل الألم ينتقل من صدرك
+لذراعك؟",
+M-15-05,"Have you had this type
+of chest pain before?","hal jaak alam aS Sadir
+haaTha gabul kiTha?","هل جاك ألم الصدر هذا قبل
+كذا؟",
+M-15-06,"Do you feel light-
+headed with the chest
+pain?","hal tiHis in raasik
+Khafeef yom yejeek
+alam aS Sadir?","هل تحس ان راسك خفيف
+يوم يجيك ألم الصدر؟",
+M-15-07,"Do you sweat with the
+chest pain?","hal ta’rag ma’ alam aS
+Sadir?",هل تعرق مع ألم الصدر؟,
+M-15-08,"This heart pill may give
+you a headache.","Huboob al galub
+haaThee mumkin
+tisabiblik Sudaa’","حبوب القلب هذي ممكن
+تسببلك صداع",
+M-15-09,"This will go under your
+tongue.","haaThee tiHuTaha
+taHit ilsaanik",هذي تحطها تحت لسانك,
+M-15-10,"Chew this and swallow
+it.","imDhagh haaThee
+wibla’ha",امضغ هذي وابلعها,
+M-15-11,"Let us take care of
+you.",Khalana nihtam feek,خلنا نهتم فيك,
+M-16-01,Open your eyes.,iftaH ‘iyoonak,افتح عيونك,
+M-16-02,Close your eyes.,sakir ‘iyoonak,سكر عيونك,
+M-16-03,"Do you have any pain
+in your eyes?","‘indik ay alam fee
+‘iyoonak?",عندك اي ألم في عيونك؟,
+M-16-04,"Do you wear corrective
+glasses?","talbas naDharaat
+Tibeeya?",تلبس نظارات طبية؟,
+M-16-05,"Do you wear contact
+lenses?","talbas ‘adasaat
+laaSiqa?",تلبس عدسات لاصقة؟,
+M-16-06,"Is your vision clear in
+both eyes?","hal shofik zayn fee
+‘iyoonak ath thintayn?","هل شوفك زين في عيونك
+الثنتين؟",
+M-16-07,"Which eye has a new
+problem?","ay ‘eyn feeha al
+mushkila al jideeda?","أي عين فيها المشكلة
+الجديدة؟",
+M-16-08,"Do you see my
+fingers?","tagdar tushoof
+aSaabee’ee?",تقدر تشوف اصابعي؟,
+M-16-09,Are they clear?,hal hum waaDhHeen?,هل هم واضحين؟,
+M-16-10,"How many fingers do
+you see right now?","kam iSbi’ tagdar
+tushoof alHeen?","كم اصبع تقدر تشوف
+الحين؟",
+M-16-11,"I am going to be
+looking into your eyes
+with this.","raaH afHaS ‘iyoonak ib
+haaThee",راح افحص عيونك بهذي,
+M-16-12,Keep your head still.,thabit raasik,ثبت راسك,
+M-16-13,"Look straight ahead
+and focus on an
+object.","naaDhir lee gidaam wa
+rakiz ‘ala shay maa","ناظر لقدام وركز على شي
+ما",
+M-16-14,"While I am looking into
+your eyes, continue to
+focus on that object.","Khalik imrakiz ‘ala
+Thaak ash shay yom
+atifaHaS ‘iyoonak","خلك مركز على ذاك الشي
+يوم اتفحص عيونك",
+M-16-15,"I am going to put some
+drops into your eye.","raaH aHuT giTaarat
+‘eyoon",راح احط قطارة عيون,
+M-16-16,"I am going to blow a
+puff of air into your
+eye.","raaH anfaKh hawa fee
+‘eynak",راح انفخ هواء في عينك,
+M-16-17,"Hold very still while
+I remove the foreign
+body in your eye.","Khalik thaabit Hata
+asheel al giT’a al
+ghareeba fee ‘eynak","خلك ثابت حتى اشيل
+القطعة الغريبة في عينك",
+M-17-01,Does this feel normal?,"hal tash’ur inah
+Tabee’ee?",هل تشعر انه طبيعي؟,
+M-17-02,Do this.,i’mal haaTha,اعمل هذا,
+M-17-03,Move your toes.,Harik aSaabi’ rijleynik,حرك اصابع رجلينك,
+M-17-04,"Do you have
+numbness or tingling?","hal tiHis bit tanmeel aw
+bil lamis?","هل تحس بالتنميل أو
+بالمس؟",
+M-17-05,"Where do you feel the
+numbness or tingling?",wayn tiHis bit tanmeel?,وين تحس بالتنميل؟,
+M-17-06,"Did the numbness or
+tingling start today?","hal bida at tanmeel al
+yom?",هل بدا التنميل اليوم؟,
+M-17-07,"How many days have
+you had the numbness
+or tingling?","min kam yom bida at
+tanmeel me’ik?","من كم يوم بدا التنميل
+معك؟",
+M-17-08,Do you feel weak?,hal tiHis inik hazeel?,هل تحس انك هزيل؟,
+M-17-09,"Did the weakness start
+today?","hal bida al-iHsaas biDh
+Dha’af al yom?","هل بدا الاحساس بالضعف
+اليوم؟",
+M-17-10,"How many days
+have you had the
+weakness?","min kam yom wa int
+tiHis hazeel?","من كم يوم وانت تحس
+هزيل؟",
+M-18-01,Bend your arm.,iTwee Theraa’ak,اطو ذراعك,
+M-18-02,Bend your leg.,iTwee saagak,اطو ساقك,
+M-18-03,Breathe normally.,"tanafas beeshakil
+Tabee’ee",تنفس بشكل طبيعي,
+M-18-04,Close your eyes.,sakir ‘iyoonak,سكر عيونك,
+M-18-05,Close your hand.,sakir eedak,سكر ايدك,
+M-18-06,Close your mouth.,sakir famik,سكر فمك,
+M-18-07,Cough,giH,قح,
+M-18-08,"Cough some phlegm
+into this cup.","giH balgham fee
+haaTha al kaas",قح بلغم في هذا الكاس,
+M-18-09,"Hold this under your
+tongue.","imsik haaTha taHt
+ilsaanik",امسك هذا تحت لسانك,
+M-18-10,Hold your breath.,iktim nefask,اكتم نفسك,
+M-18-11,Lie down.,inbeTiH,انبطح,
+M-18-12,Lie flat.,"inbeTiH ibshakil
+mustaqeem",انبطح بشكل مستقيم,
+M-18-13,Lie on your abdomen.,inbeTiH ‘ala baTnik,انبطح على بطنك,
+M-18-14,Lie on your back.,inbeTiH ‘ala Dhahrik,انبطح على ظهرك,
+M-18-15,"Look at my finger as it
+moves.","naaDhir ‘ala iSbe’ee
+yom aHarika","ناظر على اصبعي يوم
+احركه",
+M-18-16,Look down.,naaDhir taHt,ناظر تحت,
+M-18-17,Look straight.,naaDhir gidaamik,ناظر قدامك,
+M-18-18,Look up.,naaDhir fog,ناظر فوق,
+M-18-19,Open,iftaH,افتح,
+M-18-20,Open your eyes.,iftaH ‘iyoonak,افتح عيونك,
+M-18-21,Open your hand.,iftaH eedik,افتح ايدك,
+M-18-22,Open your mouth.,iftaH famik,افتح فمك,
+M-18-23,Push here.,idfa’ hina,ادفع هنا,
+M-18-24,Sit down.,ijlis,اجلس,
+M-18-25,Sit up.,ig’id,اقعد,
+M-18-26,Squeeze here.,iDhghaT hina,اضغط هنا,
+M-18-27,Stand on the scale.,wagif ‘ala al meezaan,وقف على الميزان,
+M-18-28,Stand up.,gum,قم,
+M-18-29,"Take a deep breath in
+and out.","KhuTh nafas ‘ameeq
+wu Tali’ah",خذ نفس عميق وطلعه,
+M-18-30,"Touch my finger with
+this finger.","ilmas iSbe’ee
+ibhaaTha al-iSbi’",المس اصبعي بهذا الاصبع,
+M-18-31,"Touch your finger to
+your nose like this.","ilmas Khashmik be-
+iSbe’ik bish shakil
+haaTha","المس خشمك باصبعك
+بالشكل هذا",
+M-18-33,Turn onto this side.,"lif ‘ala haaTha al-
+iteejaah",لف على هذا الاتجاه,
+M-18-34,Walk like this.,imish kiTha,امش كذا,
+M-18-35,Walk towards me.,imish biteejaahee,امش باتجاهي,
+M-18-36,"You need an X-ray of
+your chest.",tiHtaaj ashi’a li Sadrik,تحتاج اشعة لصدرك,
+M-19-01,"Can I do anything to
+help you?","mumkin a’mal ay shay
+limusaa’adtik?","ممكن اعمل اي شي
+لمساعدتك؟",
+M-19-02,Come with me.,ta’aal me’ee,تعال معي,
+M-19-03,"I will try not to hurt
+you.","aHaawil inee maa
+asabiblik alam",احاول اني ما اسببلك ألم,
+M-19-04,I am going to lift you.,anaa raayiH asheelik,انا رايح اشيلك,
+M-19-05,"I am going to put a
+needle in your arm to
+give you medication.","raaH aghiz ibra fee
+Thiraa’ik ‘ashaan
+a’Teek duwa","راح اغز ابرة في ذراعك
+عشان اعطيك دوا",
+M-19-06,I am sorry I hurt you.,"anaa mut-asif inanee
+sababtilik ba’iDh al-
+alam","أنا متأسف انني سببتلك
+بعض الألم",
+M-19-07,"I must adjust the tube
+in your chest.","laazim a’adil al-inboob
+fee Sadrik","لازم اعدل الانبوب في
+صدرك",
+M-19-08,"I must change your
+dressings.","laazim aghayir ash
+shaash",لازم اغير الشاش,
+M-19-09,I must cut your hair.,laazim nigiS sha’rik,لازم نقص شعرك,
+M-19-10,"I must give you a
+shave.",laazim inHaliglik,لازم نحلقلك,
+M-19-11,"I must give you a
+suppository into your
+rectum.","laazim ni’Teek
+taHmeela",لازم نعطيك تحميلة,
+M-19-12,"I must give you an
+injection with a needle.","laazim a’Teelik Higna
+bil-ibra",لازم اعطيلك حقنة بالابرة,
+M-19-13,I must make your bed.,laazim aratib sireerak,لازم ارتب سريرك,
+M-19-14,I must wash your hair.,laazim aghsil sha’rak,لازم اغسل شعرك,
+M-19-15,I will help you dress.,"raaH asaa’idik talbas
+malaabisk",راح اساعدك تلبس ملابسك,
+M-19-16,I will help you undress.,"raaH asaa’idik taKhla’
+malaabisk",راح اساعدك تخلع ملابسك,
+M-19-17,Put the gown on.,ilbas ar rob,البس الروب,
+M-19-18,"Put your arms around
+my shoulders.","HuT eedeynak Hol
+iktaafee",حط ايدينك حول كتافي,
+M-19-19,"This medicine will take
+the pain away.","haaTha ad duwa raaH
+yishfee al-alam",هذا الدوا راح يشفي الألم,
+M-19-20,"This will help you feel
+better.","haaTha raaH yisaa’idik
+tiHis aHsan","هذا راح يساعدك تحس
+احسن",
+M-19-21,Would you like more?,tabee akthar?,تبي أكثر؟,
+M-20-01,"Everything will be
+done to make you feel
+better again.","raaH nsaawee kul
+shay lim’aalajtik","راح نساوي كل شي
+لمعالجتك",
+M-20-02,"You are only slightly
+wounded.",iSaabetik Tafeefa,اصابتك طفيفة,
+M-20-03,"You will soon be up
+again.","raaH tukoon ‘ala
+rijleynik gareeb","راح تكون على رجلينك
+قريب",
+M-20-04,"Your condition is
+serious, but you will
+get better.","Haalitik KhaTeera,
+laakin raaH titHasan","حالتك خطيرة، لكن راح
+تتحسن",
+M-20-05,"You will get better if
+you let us take care of
+you.","raaH titHasan iThaa
+Khaleytana ni’tnee bik","راح تتحسن اذا خليتنا نعتني
+بك",
+M-20-06,You are seriously hurt.,int iSaabetik KhaTeera,انت اصابتك خطيرة,
+M-20-07,You are seriously ill.,int mereeDh jidan,انت مريض جداً,
+M-20-08,"It will probably take a
+long time for you to get
+better.","mumkin taaKhiTh
+wagit aTwal Hata
+titHasan","ممكن تاخذ وقت اطول حتى
+تتحسن",
+M-20-09,"The surgery was
+successful.","al ‘amaleeya kaanat
+naajiHa",العملية كانت ناجحة,
+M-20-10,"We were able to help
+you.","kaan bistiTa’atna
+imsaa’adtik",كان باستطاعتنا مساعدتك,
+M-20-11,"We had to remove
+this.","tuwajab ‘aleyna inana
+nagTa’ haaThee",توجب علينا اننا نقطع هذي,
+M-20-12,"We tried, but we could
+not save this.","Hinaa Haawalna laakin
+maa gedarna inana
+ningiTh haaThee","حنا حاولنا لكن ما قدرنا اننا
+ننقذ هذي",
+M-20-13,"You were hurt very
+badly.","kaanat iSaabatik
+kabeera",كانت اصابتك كبيرة,
+M-20-15,"You will need time to
+heal.","raaH tiHtaaj wagit Hata
+tishfa",راح تحتاج وقت حتى تشفى,
+M-20-16,"We will arrange for
+your transport back to
+your country.","raaH inasiq lirjoo’ik ila
+baladik","راح نسق لرجوعك الى
+بلدك",
+M-20-17,"We will send you to
+another place.","raaH nirsilik il makaan
+thaanee",راح نرسلك لمكان ثاني,
+M-20-18,You need more care.,"tiHtaaj ila ‘eenaaya
+akthar",تحتاج الى عناية اكثر,
+M-20-19,"You will return to your
+unit when you are
+better.","raaH tirja’ li wiHditik
+yom titHasan","راح ترجع لوحدتك يوم
+تتحسن",
+M-20-20,I will be back soon.,"raaH arja’ ba’ad
+ishwaya",راح ارجع بعد شوية,
+M-20-21,"I will check back later
+to see how you are
+doing.","raaH nishoofik ba’deyn
+‘ashaan nitTamin ‘aleyk","راح نشوفك بعدين عشان
+نتطمن عليك",
+M-20-22,"Return tomorrow so
+we can be sure you
+get better.","raaji’na bukra Hata nit-
+akad inik aHsan","راجعنا بكرة حتى نتأكد انك
+احسن",
+M-20-23,"Return in one week so
+we can be sure you
+get better.","raaji’na ba’ad isboo’
+Hata nit-akad inik
+aHsan","راجعنا بعد اسبوع حتى
+نتأكد انك احسن",
+M-21-01,"Do you have any
+of the following
+problems?","‘indik ay min haaThee
+al mashaakil?","عندك اي من هذي
+المشاكل؟",
+M-21-02,Abdominal pain,alam fee al baTin,ألم في البطن,
+M-21-03,Back pain,alam fee aDh Dhahar,ألم في الظهر,
+M-21-04,"Bleeding from
+anywhere",nazeef fee ay makaan,نزيف في اي مكان,
+M-21-05,Bloody sputum,dam fee al balgham,دم في البلغم,
+M-21-06,Bloody stools,dam fee al buraaz,دم في البراز,
+M-21-07,Chest pain,alam Sadir,ألم صدر,
+M-21-08,Chills,bardeeya,بردية,
+M-21-09,"Confusion inside your
+head","laKhbaTa fee ad
+dimaagh",لخبطة في الدماغ,
+M-21-10,Cough,gaHa,قحة,
+M-21-11,Cramps,maghaS,مغص,
+M-21-12,Dark urine,bol ghaamig,بول غامق,
+M-21-13,Diarrhea,is-haal,اسهال,
+M-21-14,Ear pain,alam fee al-iThin,ألم في الاذن,
+M-21-15,Fever,Haraara,حرارة,
+M-21-16,Headache,Sudaa’,صداع,
+M-21-17,Hemorrhoids,buwaaseer,بواسير,
+M-21-18,Infection,ilteehaab,التهاب,
+M-21-19,Insect bite,garSat Hashara,قرصة حشرة,
+M-21-20,Itching,Hika,حكة,
+M-21-21,Joint pain,alam mafaaSil,ألم مفاصل,
+M-21-22,Loss of consciousness,fuqdaan al wa’ee,فقدان الوعي,
+M-21-23,Menstrual cramps,"maghaS min al ‘aada
+ash shahreeya",مغص من العادة الشهرية,
+M-21-24,Muscle pains,alam ‘aDhalaat,ألم عضلات,
+M-21-25,Nausea,ghathayaan,غثيان,
+M-21-26,Rash,Hika,حكة,
+M-21-27,Throat pain,alam Halig,ألم حلق,
+M-21-28,Tooth pain,alam asnaan,ألم اسنان,
+M-21-29,Yellow eyes,‘uyoon Safra,عيون صفرا,
+M-21-30,Vaginal bleeding,nazeef mahbalee,نزيف مهبلي,
+M-21-31,"Voices inside your
+head",aSwaat daaKhil raasik,اصوات داخل راسك,
+M-21-32,Vomiting,istifraagh,استفراغ,
+M-22-01,"I need to give you
+some medicine","aHtaaj a’Teek ba’iDh
+ad duwa",احتاج اعطيك بعض الدوا,
+M-22-02,"This medicine is for
+pain","haaTha ad duwa lil-
+alam",هذا الدوا للألم,
+M-22-03,"This medicine will
+fight infection","haaTha ad duwa raaH
+ye’aalij al-ilteehaab","هذا الدوا راح يعالج
+الالتهاب",
+M-22-04,"Avoid alcohol while
+taking medicine","ibti’id ‘an al kuHool
+yom taaKhiTh ad duwa","ابتعد عن الكحول يوم تاخذ
+الدوا",
+M-22-05,Take until finished,"KhiTh ad duwa Hata
+yeKhaliS",خذ الدوا حتى يخلص,
+M-22-06,Take with food,KhiTha ma’ al-akil,خذه مع الاكل,
+M-22-07,"Take on an empty
+stomach (one hour
+before or two hours
+after a meal)","KhiTha wa int Saayim
+(saa’a gabul al-akil aw
+saa’atayn ba’ad al-akil)","خذه وانت صايم (ساعة
+قبل الأكل أو ساعتين بعد
+الاكل(",
+M-22-08,Drink plenty of fluids,"ishrab sawaa-il
+katheera",اشرب سوائل كثيرة,
+M-22-09,"Avoid taking at the
+same time as dairy
+products","laa taKhiTha ma’
+muntajaat al-albaan",لا تاخذه مع منتجات الالبان,
+M-22-10,"This medicine may
+change the color of
+urine or stool.","mumkin haaTha ad
+duwa yeghayir lon al
+bol aw al buraaz","ممكن هذا الدوا يغيير لون
+البول أو البراز",
+M-22-100,1000,alf,ألف,
+M-22-101,10000,‘ashir talaaf,عشرتالاف,
+M-22-102,100000,meeyat alf,مية ألف,
+M-22-103,1000000,malyon,مليون,
+M-22-11,Avoid sunlight,"ibti’id ‘an ashi’at ash
+shamis",ابتعد عن اشعة الشمس,
+M-22-12,Shake well,KhiDh jayedan,خض جيداً,
+M-22-13,"Refrigerate (do not
+freeze)","HuT fee ath thalaajah
+(laa tijamida)",حط في الثلاجة (لا تجمده),
+M-22-14,May cause heat injury,"mumkin yesabib
+iSaaba fee al qalb","ممكن يسبب اصابة في
+القلب",
+M-22-15,"May cause
+drowsiness (avoid
+using dangerous
+machinery)","mumkin yesabib
+doKha (ibti’id ‘an
+istiKhdaam al mu’idaat
+al KhaTeera)","ممكن يسبب دوخة (ابتعد
+عن استخدام المعدات
+الخطيرة(",
+M-22-16,Take by mouth,"KhiTha ‘an Tareeq al
+fam",خذه عن طريق الفم,
+M-22-17,"Place drops in
+affected ear","HuT gaTra fee al-iThin
+al muSaaba","حط قطرة في الاذن
+المصابة",
+M-22-18,Inject subcutaneously,Higna taHt al jild,حقنة تحت الجلد,
+M-22-19,"Unwrap and insert
+one suppository
+rectally","iftaH aDh Dharf wa
+idKhil at taHmeela","افتح الظرف و ادخل
+التحميلة",
+M-22-20,Spray in nose,rush fee al-anf,رش في الانف,
+M-22-21,Inhale by mouth,istanshiq bil fam,استنشق بالفم,
+M-22-22,Insert vaginally,"idKhilee ‘an Tareeg al
+mihbal",ادخلي عن طريق المهبل,
+M-22-23,Place in affected eye,"HuTa fee al ‘een al
+muSaaba",حطه في العين المصابة,
+M-22-24,Apply to skin,HuTa ‘ala al jild,حطه على الجلد,
+M-22-25,"Allow to dissolve
+under tongue
+without swallowing
+(sublingual)","Khalah yiThoob taHit
+al lisaan bidoon bali’","خله يذوب تحت اللسان
+بدون بلع",
+M-22-26,Tablet,Haba,حبة,
+M-22-27,Capsule,kabsoola,كبسولة,
+M-22-28,Teaspoonful,mil’agat shaay,ملعقة شاي,
+M-22-29,Ounce,oogeeya,اوقية,
+M-22-30,Puff,nahfa,نهفة,
+M-22-31,Spray,rasha,رشة,
+M-22-32,Patch,laSga,لصقة,
+M-22-33,Drop,gaTra,قطرة,
+M-22-34,Suppository,taHmeela,تحميلة,
+M-22-35,Once daily,mara fee al yom,مرة في اليوم,
+M-22-36,Twice daily,maratayn fee al yom,مرتين في اليوم,
+M-22-37,Three times daily,"thalaath maraat fee al
+yom",ثلاث مرات في اليوم,
+M-22-38,Four times daily,"arba’ maraat fee al
+yom",اربع مرات في اليوم,
+M-22-39,Five times daily,"Khamis maraat fee al
+yom",خمس مرات في اليوم,
+M-22-40,Every twelve hours,kul ithna’shar saa’a,كل اثنعشر ساعة,
+M-22-41,Every eight hours,kul thaman saa’aat,كل ثمن ساعات,
+M-22-42,Every four hours,kul arba’ saa’aat,كل اربع ساعات,
+M-22-43,Every two hours,kul saa’etayn,كل ساعتين,
+M-22-44,Every hour,kul saa’a,كل ساعة,
+M-22-45,Every morning,kul SabaaH,كل صباح,
+M-22-46,Every night,kul leyla,كل ليلة,
+M-22-47,For one week,lemudat isboo’,لمدة اسبوع,
+M-22-48,For one month,lemudat shahar,لمدة شهر,
+M-22-49,Today,al yom,اليوم,
+M-22-50,Now,al-aan,الآن,
+M-22-51,Tomorrow,bukra,بكرة,
+M-22-52,As needed,‘ind al luzoom,عند اللزوم,
+M-22-53,Pain,alam,ألم,
+M-22-54,Fever,Haraara,حرارة,
+M-22-55,Infection,ilteehaab,التهاب,
+M-22-56,Difficulty breathing,Su’ooba fee at tanafus,صعوبة في التنفس,
+M-22-57,Blood pressure,DhaghiT dam,ضغط دم,
+M-22-58,High cholesterol,korostrol murtafi’,كروسترول مرتفع,
+M-22-59,Allergies,Hasaaseeya,حساسية,
+M-22-60,Allergic reaction,taHasus,تحسس,
+M-22-61,"Upset stomach,
+nausea, vomiting","alam mi’da,
+ghathayaan, istifraagh",ألم معدة، غثيان، استفراغ,
+M-22-62,"Depression, sadness","ikti-aab, Huzin",اكتئاب، حزن,
+M-22-63,Congestion,iHtiqaan,احتقان,
+M-22-64,Cough,gaHa,قحة,
+M-22-65,Chest pressure,katma ‘ala aS Sadir,كتمة على الصدر,
+M-22-66,Seizure,Sara’,صرع,
+M-22-67,Insomnia,araq,ارق,
+M-22-68,"Discard remainder
+when finished","kub al baagee yom
+tintihee",كب الباقي يوم تنتهي,
+M-22-69,"Apply a thin layer to
+skin","HuT Tabaqa raqeeqa
+‘ala al jild",حط طبقة رقيقة على الجلد,
+M-22-70,Do you understand?,hal tafham ‘alay?,هل تفهم عليّ؟,
+M-22-71,1,waaHid,واحد,
+M-22-72,2,ithnayn,اثنين,
+M-22-73,3,thalaatha,ثلاثة,
+M-22-74,4,arba’a,اربعة,
+M-22-75,5,Khamsa,خمسة,
+M-22-76,6,sita,ستة,
+M-22-77,7,sab’a,سبعة,
+M-22-78,8,thamaaneya,ثمانية,
+M-22-80,10,‘ashra,عشرة,
+M-22-81,11,iHda’ish,احدعش,
+M-22-82,12,ithna’ish,ثناعش,
+M-22-83,13,thalathTa’ish,ثلاثطعش,
+M-22-84,14,arba’Ta’ish,اربعطعش,
+M-22-85,15,KhamisTa’ish,خمسطعش,
+M-22-86,16,sitTa’ish,ستطعش,
+M-22-87,17,sabi’Ta’ish,سبعطعش,
+M-22-88,18,thiminTa’ish,ثمنطعش,
+M-22-89,19,tisi’Ta’ish,تسعطعش,
+M-22-90,20,‘ishreen,عشرين,
+M-22-91,30,thalaatheen,ثلاثين,
+M-22-92,40,arbi’een,اربعين,
+M-22-93,50,Khamseen,خمسين,
+M-22-94,60,siteen,ستين,
+M-22-95,70,sab’een,سبعين,
+M-22-96,80,thimaaneen,ثمانيين,
+M-22-97,90,tis’een,تسعين,
+M-22-98,100,meeya,مية,
+M-22-99,500,Khamismeeya,خمسمية,
+M-23-01,"Do you have any
+of the following
+diseases?","‘indik ay maraDh min
+haaThee al-amraaDh?","عندك اي مرض من هذي
+الامراض؟",
+M-23-02,AIDS,eydz,ايدز,
+M-23-03,Anemia,faqir dam,فقر دم,
+M-23-04,Arthritis,alam mafaaSil,الم مفاصل,
+M-23-05,Asthma,raboo,ربو,
+M-23-06,Bronchitis,nazla Sadreeya,نزلة صدرية,
+M-23-07,Cancer,saraTaan,سرطان,
+M-23-08,Chickenpox,jidaree,جدري,
+M-23-09,Cholera,kolera,كوليرا,
+M-23-10,Common cold,rashHa,رشحة,
+M-23-11,Depression,ikti-aab,اكتيئاب,
+M-23-12,Diabetes,sikaree,سكري,
+M-23-13,Diphtheria,Khanaaq,خنّاق,
+M-23-14,Disease of the blood,maraDh ad dam,مرض الدم,
+M-23-15,Eczema,Sadafeeya,صدفية,
+M-23-16,Fungus,fiTreeyaat,فطريات,
+M-23-17,Gonorrhea,fatk,فتك,
+M-23-18,Heart failure,hubooT dagaat al galb,هبوط دقات القلب,
+M-23-19,Heart murmur,Khafagaan al galb,خفقان القلب,
+M-23-20,Hepatitis,ilteehaab al kabd,التهاب الكبد,
+M-23-21,Herpes,hirbiz,هربز,
+M-23-22,Infection anywhere,"ilteehaab fee ay
+makaan",التهاب في اي مكان,
+M-23-24,"Insect bite that is
+serious","garSa Hashareeya
+saama",قصرة حشرية سامة,
+M-23-25,Yellow skin,iSfiraar al jild,اصفرار الجلد,
+M-23-26,Malaria,maalaarya,مالاريا,
+M-23-27,Measles,HaSba,حصبة,
+M-23-28,Mental disease,maraDh nafsee,مرض نفسي,
+M-23-29,Mumps,nekaaf,نكاف,
+M-23-30,Nervous breakdown,inheyaar ‘aSabee,انهيار عصبي,
+M-23-31,Paratyphoid fever,"Huma naDheerat ash
+shawkeeya",حمى نظيرة الشوكية,
+M-23-32,Peritonsillar abscess,tawarum al luwayzaat,تورم اللويزات,
+M-23-33,Plague,Taa’oon,طاعون,
+M-23-34,Pleuritis,daa al junub,داء الجُنب,
+M-23-35,Pneumonia,ilteehaab ree-awee,التهاب رئوي,
+M-23-36,Polio,shalal al-aTfaal,شلل الاطفال,
+M-23-37,Rabies,daa al kalab,داء الكلب,
+M-23-38,Ringworm,doodat ash sharj,دودة الشرج,
+M-23-39,Scabies,jarab,جرب,
+M-23-40,Scarlet fever,al Huma al qurmuzeeya,الحمى القرمزية,
+M-23-41,Scurvy,daa al Hufar,داء الحفر,
+M-23-42,"Sexually transmitted
+disease (STD)",amraaDh tanaasuleeya,امراض تناسلية,
+M-23-43,Skin disease,maraDh jildee,مرض جلدي,
+M-23-44,Smallpox,maraDh al jidaree,مرض الجدري,
+M-23-45,Syphilis,maraDh al zuharee,مرض الزهري,
+M-23-47,Tetanus,daa al kazaaz,داء الكزاز,
+M-23-48,Tonsillitis,ilteehaab al luwaz,التهاب اللوَز,
+M-23-49,Trench mouth,"ilteehaab al litha an
+naaKhir",التهاب اللثة الناخر,
+M-23-50,Trichinosis,daa ash shu’reenaat,داء الشُعرينات,
+M-23-51,Tuberculosis,sil,سل,
+M-23-52,Typhoid fever,Huma shawkeeya,حمة شوكية,
+M-23-53,Warts,thu-lul,ثُؤْلول,
+M-23-54,Worms,deedaan,ديدان,
+M-23-55,Yellow fever,Huma Safraa,حمة صفراء,
+N-01-01,Where is the captain?,wayn ar rubaan?,وين الربان؟,
+N-01-02,"Where are the
+weapons?",wayn al-asliHa?,وين الأسلحة؟,
+N-01-03,"Where is the control
+room?","wayn ghurfat at
+taHakum?",وين غرفة التحكم؟,
+N-01-04,Where is the manifest?,wayn as sijil?,وين السجل؟,
+N-01-05,"How many men are on
+this ship?","kam waaHid fee
+haaThee as safeena?",كم واحد في هذي السفينة؟,
+N-01-06,"Maintain the speed at
+5 knots!","laa ta’adaa sur’at
+Khamis ‘igdaat
+baHreeya!","لا تعدى سرعة خمس
+عقدات بحرية!",
+N-01-07,Go 180 degrees now!,"lif meeya wa
+thimaaneen daraja al
+Heen!","لف مية و ثمانيين درجة
+الحين!",
+N-01-08,What is the cargo?,wishee Humoolatkum?,وشي حمولتكم؟,
+N-01-09,"Where is the main
+office?","wayn al maktab ar ra-
+eesee?",وين المكتب الرئيسي؟,
+N-01-10,Where is the port?,wayn al meena?,وين المينا؟,
+N-01-11,Stop the engines!,Tafee al muHarik!,طفي المحرك!,
+N-01-12,Muster the crew!,jami’ aT Taaqam!,جمع الطاقم!,
+N-01-13,"Give me the navy
+chart.","‘aTnee al loHa al
+baHreeya",عطني اللوحة البحرية,
+N-01-14,"Give me the ship’s
+logs.",‘aTnee sijil as safeena,عطني سجل السفينة,
+N-02-01,Guide me to ___.,warinee wayn ___,ورني وين ___,
+N-02-02,Go to ___.,ruH lee ___,رح لـ ___,
+N-02-03,Go straight.,ruH gidaam,رح قدام,
+N-02-04,Go to the north.,ruH shimaal,رح شمال,
+N-02-05,Go to the east.,ruH sharg,رح شرق,
+N-02-06,Go to the west.,ruH gharb,رح غرب,
+N-02-07,Go to the south.,ruH janoob,رح جنوب,
+N-02-08,Follow directions.,itibi’ al-itijaahaat,اتبع الاتجاهات,
+N-02-09,Walk to ___.,imish lee ___,امش لـ ___,
+N-02-10,Walk forward.,imish gidaam,امش قدام,
+N-02-11,Turn to ___.,lif ‘ala ___,لف على ___,
+N-02-12,Turn to the right.,lif ‘ala al yameen,لف على اليمين,
+N-02-13,Turn to the left.,lif ‘ala al yasaar,لف على اليسار,
+N-02-14,About face.,al-itijaah al mu’aakis,الاتجاه المعاكس,
+N-03-01,Load the weapon.,‘abee as silaaH,عبي السلاح,
+N-03-02,Get ready.,isti’id,استعد,
+N-03-03,Fire!,iTlig!,اطلق!,
+N-03-04,Pull the slide.,"isHab majmoo’at at
+talgeem",اسحب مجموعة التلقيم,
+N-03-05,Clear on the right.,laa shay ‘ala al yameen,لا شي على اليمين,
+N-03-06,Clear on the left.,laa shay ‘ala al yasaar,لا شي على اليسار,
+N-03-07,Secure the magazine.,amin al maKhzan,أمن المخزن,
+N-03-08,Pull the trigger.,iDhghaT ‘ala al zinaad,اضغط على الزناد,
+N-03-09,Don’t shoot!,laa tarmee!,لا ترمي!,
+N-04-01,Do you have ___?,fee ‘indik ___?,في عندك ___؟,
+N-04-02,Do you have weapons?,fee ‘indik asliHa?,في عندك اسلحة؟,
+N-04-03,"Do you have weapons
+of mass destruction?","fee ‘indik asliHat
+damaar shaamil?","في عندك اسلحة دمار
+شامل؟",
+N-04-04,"Do you have
+ammunition?",fee ‘indik ThaKheera?,في عندك ذخيرة؟,
+N-04-05,Do you have water?,fee ‘indik maya?,في عندك مية؟,
+N-04-06,"Do you have prisoners
+of war (POWs)?",fee ‘indik asra Harb?,في عندك اسرى حرب؟,
+N-04-07,Do you need ___?,hal tiHtaaj ___?,هل تحتاج ___؟,
+N-04-08,I need ___.,anaa miHtaaj lee ___,أنا محتاج لـ ___,
+N-04-09,I need the police.,anaa miHtaaj lil shurTa,أنا محتاج للشرطة,
+N-04-10,I need help.,"anaa miHtaaj
+musaa’ada",أنا محتاج مساعدة,
+N-04-11,I need medicine.,anaa miHtaaj duwa,أنا محتاج دوا,
+N-04-12,I need a doctor.,anaa miHtaaj Tabeeb,أنا محتاج طبيب,
+N-04-13,Take me to ___.,KhiThnee lee ___,خذني لـ ___,
+N-04-14,I want ___.,abee ___,أبي ___,
+N-04-15,"I want information
+about ___.","abee ma’loomaat ‘an
+___",أبي معلومات عن ___,
+N-04-16,I want water.,abee maya,أبي مية,
+N-04-17,I want food.,abee akil,أبي اكل,
+N-04-18,I want directions.,abee itijaahaat,أبي اتجاهات,
+N-05-01,Do you speak English?,ti’rif tikalam ingleezee?,تعرف تكلم انجليزي؟,
+N-05-02,Do you have ___?,fee ‘indik ___?,في عندك ___؟,
+N-05-03,"Where are the
+weapons?",wayn al-asliHa?,وين الاسلحة؟,
+N-05-04,"Do you have weapons
+of mass destruction?","fee ‘indikum asliHat
+damaar shaamil?","في عندكم اسلحة دمار
+شامل؟",
+N-05-05,"Do you have
+ammunition?","fee ‘indikum
+ThaKheera?",في عندكم ذخيرة؟,
+N-05-06,How many others?,"kam ‘adad ath
+thaaneen?",كم عدد الثانين؟,
+N-05-07,Do you have water?,‘indik maya?,عندك مية؟,
+N-05-08,Where is the hide out?,"wayn amaakin at
+taKhabee?",وين أمكان التخبي؟,
+N-05-09,What is your job?,wishhoo ‘amalk?,وشهو عملك؟,
+N-05-10,"Where are the
+prisoners of war
+(POWs)?",wayn asra al Harb?,وين اسرى الحرب؟,
+N-05-11,"To which cell do you
+belong?","le-ay Khaleeya int
+tatba’?",لاي خلية انت تتبع؟,
+N-05-12,"Do you have an
+identification (ID) card?",me’ik biTaagat ithbaat?,معك بطاقة اثبات؟,
+N-05-13,Who are you?,min int?,من انت؟,
+N-05-14,Who is the leader?,minhoo al gaayid?,منه القايد؟,
+N-05-15,Who is the captain?,minhoo ar rubaan?,منه الربان؟,
+N-05-16,Who is in charge?,minhoo al mas-ool?,منه المسؤول؟,
+N-06-01,Follow our orders!,itba’ awaamirna!,اتبع أوامرنا!,
+N-06-02,Do not resist!,laa tgaawim!,لا تقاوم!,
+N-06-03,Look forward!,naaDhir gidaamik!,ناظر قدامك!,
+N-06-04,Close your eyes!,ghamiDh ‘uyoonak!,غمض عيونك!,
+N-06-05,Talk!,tikalam!,تكلم!,
+N-06-06,Silence!,hudoo!,هدوء!,
+N-06-07,Kneel!,inzil ‘ala rakbitik!,انزل على ركبتك!,
+N-06-08,Drink!,ishrab!,اشرب!,
+N-06-09,Stop!,wagif!,وقف!,
+N-06-10,Turn!,lif!,لف!,
+N-06-11,Spread out!,timadad!,تمدد!,
+N-06-12,"Hands behind your
+head!",eedaynik wara Dhahrak!,ايدينك ورا ظهرك!,
+N-06-13,Keep away!,Khalik bi’eed!,خلك بعيد!,
+N-06-14,Don’t move!,laa taHarak!,لا تحرك!,
+N-06-15,Come here!,ta’aal hina!,تعال هنا!,
+N-06-16,Get up!,inhaDh!,انهض!,
+N-06-17,Get down!,ijlis!,اجلس!,
+N-06-18,Hands up!,irfa’ eedaynik!,ارفع ايدينك!,
+N-06-19,Wait!,inteDhir!,انتظر!,
+N-06-20,Go!,ruH!,رح!,
+N-06-21,Cross your legs!,HuT rijil ‘ala rijil!,حط رجل على رجل!,
+N-06-22,Calm down!,ihdaa!,اهدا!,
+N-06-23,Don’t look at me!,laa tnaDhir ‘alay!,لا تناظر علي!,
+N-07-01,How many others?,"kam ‘adad ath
+thaaneen?",كم عدد الثانين؟,
+N-07-02,One,waaHid,واحد,
+N-07-03,Two,ithnayn,اثنين,
+N-07-04,Three,thalaatha,ثلاثة,
+N-07-05,Four,arba’a,اربعة,
+N-07-06,Five,Khamsa,خمسة,
+N-07-07,Six,sita,ستة,
+N-07-08,Seven,sab’a,سبعة,
+N-07-09,Eight,thimaanya,ثمانية,
+N-07-10,Nine,tis’a,تسعة,
+N-07-11,Ten,‘ashra,عشرة,
+N-07-12,Eleven,iHda’ish,حدعش,
+N-07-13,Twelve,ithna’ish,اثنعش,
+N-07-14,Thirteen,thalatTa’ish,ثلاتطعش,
+N-07-15,Fourteen,arba’Ta’ish,اربعطعش,
+N-07-16,Twenty,‘ishreen,عشرين,
+N-07-17,Thirty,thalaatheen,ثلاثين,
+N-07-18,Forty,arbi’een,اربعين,
+N-07-19,Twenty one,waaHid wu ‘ishreen,واحد و عشرين,
+N-07-20,Twenty two,ithnayn wu ‘ishreen,اثنثن و عشرين,
+N-07-21,One hundred,meeya,مية,
+N-07-22,"One hundred and forty
+one","meeya wu waaHid wa
+arbi’een",مية و واحد و اربعين,
+N-07-23,Two hundred,meetayn,ميتين,
+N-07-24,Two hundred and fifty,meetayn wa Khamseen,ميتين و خمسين,
+N-07-25,One thousand,alf,الف,
+N-07-26,"One thousand four
+hundred",alf wu arba’meeya,الف و اربعمية,
+N-07-27,Two thousand,alfayn,الفين,
+N-07-28,"Two thousand and
+three",alfayn wu thalaatha,الفين و ثلاثة,
+N-07-29,A thousand rifles,alf bindigeeya,الف بندقية,
+N-07-30,A hundred pistols,meeyat musadas,مية مسدس,
+N-07-31,Twenty tanks,‘ishreen dabaaba,عشرين دبابة,
+N-07-32,Forty cars,arbi’een sayaara,اربعين سيارة,
+N-07-33,One thousand warriors,alf muHaarib,الف محارب,
+N-07-34,One hundred platoons,meeyat faSeel,مية فصيل,
+N-07-35,One hundred soldiers,meeyat jindee,مية جندي,
+N-07-36,Twenty policemen,‘ishreen shurTee,عشرين شرطي,
+N-07-37,Forty ships,arba’een safeena,اربعين سفينة,
+N-07-38,Less than,agal min,أقل من,
+N-07-39,More than,maa hoo akthar min,ما هو اكثر من,
+N-08-01,Traditional greeting.,as salaamu ‘alaykum,السلام عليكم,
+N-08-02,"Reply to traditional
+greeting.",wa ‘alaykum as salaam,و عليكم السلام,
+N-08-03,Welcome.,ahlan,اهلًا,
+N-08-04,Hello.,marHaba,مرحبا,
+N-08-05,How are you doing?,shlon umoorak?,شلون امورك؟,
+N-08-06,How are you?,shlonak?,شلونك؟,
+N-08-07,What’s up?,wish fee?,وش في؟,
+N-08-08,"Traditional reply to
+“How are you”?",al Hamd il laa,الحمد لله,
+N-08-09,I am fine.,anaa Tayib,أنا طيب,
+N-08-10,Thank you.,mashkoor,مشكور,
+N-08-11,Please.,law simaHt,لو سمحت,
+P-01-01,"Please wait for an
+interpreter.","law simaHt intaDhir
+Hata yejee al mutarjim","لو سمحت انتظر حتى يجي
+المترجم",
+P-01-02,"Please turn off your
+camera.","law simaHt sakir al
+kaameera",لو سمحت سكر الكاميرا,
+P-01-03,"Please turn off your
+recorder.","law simaHt Tafee al
+musajil",لو سمحت طفي المسجل,
+P-01-04,"Here is a copy of our
+ground rules.","haaThee nusKha ‘an
+al-ijraa-aat",هذي نسخة عن الاجراءات,
+P-01-05,"Sign here if you agree
+to follow the ground
+rules.","wagi’ hina iThaa kint
+tuwaafig ‘ala al-ijraa-
+aat","وقع هنا اذا كنت توافق على
+الاجراءات",
+P-01-06,"This is not the public
+affairs office.","haaTha maa hoo
+maktab ash shu-oon al
+‘aama","هذا ما هو مكتب الشئون
+العامة",
+P-01-07,"I am not an official
+spokesperson.","anaa maanee al
+mutaHadith ar rasmee",انا ما ني المتحدث الرسمي,
+P-01-08,"He does not wish to
+give an interview.","hoo maa yabee
+yisaawee muqaabala",هو ما يبي يسوي مقابلة,
+P-01-09,"She does not wish to
+give an interview.","hee maa tabee
+tsaawee muqaabala",هي ما تبي تسوي مقابلة,
+P-01-10,"Do not take photos
+here.",laa tSawir hina,لا تصور هنا,
+P-01-11,"Do not take videos
+here.",laa tSawir filim hina,لا تصور فلم هنا,
+P-01-12,"Do not take photos of
+this place.","laa taaKhiTh Suwar lee
+haaTha al makaan",لا تاخذ صور لهذا المكان,
+P-01-13,"Do not take videos of
+this place.","laa tSawir aflaam lee
+haaTha al makaan",لا تصور افلام لهذا المكان,
+P-01-14,"Do not take photos
+of this piece of
+equipment.","laa tSawir haaThee al
+mu’ida",لا تصور هذي المعدة,
+P-01-15,"Do not take videos
+of this piece of
+equipment.","laa tSawir filim lee
+haaThee al mu’ida",لا تصور فلم لهذي المعدة,
+P-01-16,"You cannot enter this
+area now.","maa tagdar tadKhil
+haaThee al manTiga
+al-aan","ما تقدر تدخل هذي المنطقة
+الان",
+P-01-17,"For security reasons,
+I cannot address this
+question.","lee-asbaab amneeya,
+maa agdar ajaawib ‘ala
+haaTha as soo-aal","لاسباب امنية، ما اقدر
+اجاوب على هذا السؤال",
+P-01-18,"I cannot address
+that question until
+the investigation is
+finished.","maa agdar ajaawib
+‘ala haaTha as soo-
+aal Hata yintihee at
+taHgeeg","ما اقدر اجاوب على هذا
+السؤال حتى ينتهي التحقيق",
+P-01-19,"We do not discuss
+personnel or equipment
+strength with the
+media.","maa nagdar in naagish
+guwat al-afraad aw al
+mu’idaat ma’ wasaayil
+al-i’laam","ما نقدر ناقش قوة الافراد أو
+المعدات مع وسايل الاعلام",
+P-01-20,"We do not discuss
+future operations with
+the media.","maa nagdar in naagish
+al ‘amaleeyaat al
+mustaqbaleeya ma’
+wasaayil al-i’laam","ما نقدر ناقش العمليات
+المستقبلية مع وسايل الاعلام",
+P-01-21,"We do not discuss
+nuclear operations with
+the media.","maa nagdar in naagish
+al ‘amaleeyaat an
+nawaweeya ma’
+wasaayil al-i’laam","ما نقدر ناقش العمليات
+النووية مع وسايل الاعلام",
+P-01-22,"We do not discuss
+chemical operations
+with the media.","maa nagdar in naagish
+al ‘amaleeyaat al
+keemaaweeya ma’
+wasaayil al-i’laam","ما نقدر ناقش العمليات
+الكيماوية مع وسايل الاعلام",
+P-01-23,"We do not discuss
+biological operations
+with the media.","maa nagdar in naagish
+al ‘amaleeyaat al
+bayoloojeeya ma’
+wasaayil al-i’laam","ما نقدر ناقش العمليات
+البيولوجية مع وسايل
+الاعلام",
+P-01-24,"We do not have
+information on this
+subject.","maa ‘indana
+ma’loomaat ‘an
+haaTha al mawDhoo’","ما عندنا معلومات عن هذا
+الموضوع",
+P-01-25,"Names cannot be
+released until victims’
+relatives are notified.","maa nagdar nanshur
+al-asmaa Hata
+nibaligh agaarib aDh
+DhaHaaya","ما نقدر ننشر الاسماء حتى
+نبلغ اقارب الضحايا",
+P-02-01,"This is the ___ public
+affairs office.","me’ik maktab ___ lil
+shu-oon al ‘aama","معك مكتب ___ للشئون
+العامة",
+P-02-02,"This is not the public
+affairs office.","haaTha maa hoo
+maktab ash shu-oon al
+‘aama","هذا ما هو مكتب الشئون
+العامة",
+P-02-03,What is your name?,wish ismik?,وش اسمك؟,
+P-02-04,"What media
+organization do you
+represent?","ay munaDhama
+i’laameeya timathil?",أي منظمة اعلامية تمثل؟,
+P-02-05,"Where is your
+organization based?","wayn mawqi’
+munaDhamatkum?",وين موقع منظمتكم؟,
+P-02-06,"What is your
+publication?","wish isim
+manshooratkum?",وش اسم منشورتكم؟,
+P-02-07,What is your program?,"wish hoo
+barnaamijkum?",وش هو برنامجكم؟,
+P-02-08,"What is the subject of
+this article?","wish hoo mawDhoo’
+haaTha al maqaal?","وش هو موضوع هذا
+المقال؟",
+P-02-09,What is your question?,wish hoo soo-aalik?,وش هو سؤالك؟,
+P-02-10,"Could you please
+ask the question in a
+different way?","mumkin tis-al as
+soo-aal bee Tareeqa
+muKhtalfa?","ممكن تسأل السؤال بطريقة
+مختلفة؟",
+P-02-11,"Could you please use
+simpler language?","mumkin tistaKhdim
+lugha mubasaTa?",ممكن تستخدم لغة مبسطة؟,
+P-02-12,What is your deadline?,mita aaKhir maw’id?,متى أخر موعد؟,
+P-02-13,Tomorrow,bukra,بكرة,
+P-02-14,In two days,fee yomayn,في يومين,
+P-02-15,In three days,fee thalath teeyaam,في ثلاثتيام,
+P-02-16,Next week,al-isboo’ al jaay,الاسبوع الجاي,
+P-02-17,Next month,ash shahir al jaay,الشهر الجاي,
+P-02-18,"What is your phone
+number?","wish hoo ragam
+taleefonik?",وش هو رقم تلفونك؟,
+P-02-19,"1, 2, 3, 4, 5, 6, 7, 8,
+9, 10","waaHid, ithnayn,
+thalaatha, arba’a,
+Khamsa, sita, sab’a,
+thamaanya, tis’a,
+‘ashara","واحد، اثنين، ثلاثة، اربعة ،
+خمسة، ستة، سبعة، ثمانية ،
+تسعة، عشرة",
+P-02-20,"Please say one number
+at a time.","law simaHt ‘id al-
+argaam waaHid
+waaHid","لو سمحت عد الارقام واحد
+واحد",
+P-02-21,"A press release on
+that subject is being
+prepared.","gaa’deen niHaDhir
+bayaan SaHafee
+biKhSooS al
+mawDhoo’ al Heen","قاعدين نحضر بيان صحفي
+بخصوص الموضوع الحين",
+P-02-22,"There will be a press
+conference on that
+subject.","raaH yukoon fee mo-
+tamar SaHafee Hawl al
+mawDhoo’","راح يكون في مؤتمر
+صحفي حول الموضوع",
+P-02-23,"The time for the press
+release has not been
+decided yet.","maa Hadadna ba’id
+maw’id nashir al
+bayaan aS SaHafee","ما حددنا بعد موعد نشر
+البيان الصحفي",
+P-03-01,"Wear this badge where
+it can be seen.","ilbas haaThee al
+biTaaga fee makaan
+yinshaaf","البس هذي البطاقة في مكان
+ينشاف",
+P-03-02,"Leave your camera
+with this person.","Khalee kaamirtik ma’
+haaTha ash shaKhiS","خلي كمرتك مع هذا
+الشخص",
+P-03-03,"Leave your cell phone
+with this person.","Khalee jawaalik ma’
+haaTha ash shaKhiS","خلي جوالك مع هذا
+الشخص",
+P-03-04,I am your escort.,"anaa raaH akoon
+muraafiqk",انا راح اكون مرافقك,
+P-03-05,He is your escort.,"hoo raaH yukoon
+muraafiqk",هو راح يكون مرافقك,
+P-03-06,She is your escort.,"hee raaH tukoon
+muraafiqtik",هي راح تكون مرافقتك,
+P-03-07,"Stay within ___ meters
+of me at all times.","Khalik ‘ala bu’id ___
+amtaar minee Tool al
+wagit","خلك على بعد ___ أمتار
+مني طول الوقت",
+P-03-08,Follow her.,itba’haa,اتبعها,
+P-03-09,Follow him.,itbi’ah,اتبعه,
+P-03-10,Follow me.,itba’nee,اتبعني,
+P-03-11,Follow them.,itba’hum,اتبعهم,
+P-03-12,"You will ride with me in
+that vehicle.","raaH tarkab me’ee
+beeTheek as sayaara","راح تركب معي بذيك
+السيارة",
+P-03-13,"You will ride with us in
+this vehicle.","raaH tarkab me’na
+beehaaThee as
+sayaara","راح تركب معنا بهذي
+السيارة",
+P-03-14,"You will ride with him in
+that vehicle.","raaH tarkab me’ah
+beehaaThee as
+sayaara","راح تركب معه بهذي
+السيارة",
+P-03-15,You will ride with her.,raaH tirkab ma’ha,راح تركب معها,
+P-03-16,You will ride with them.,raaH tirkab ma’hum,راح تركب معهم,
+P-03-17,Keep your helmet on.,"Khalik laabis al
+KhooTha",خلك لابس الخوذة,
+P-03-18,Keep your seat belt on.,"Khalik raabiT Hizaam
+al-amaan",خلك رابط حزام الامان,
+P-03-19,"Keep the window
+closed.","Khal ash shubaak
+misakar",خل الشبكاك مسكر,
+P-04-01,"I do not wish to give an
+interview.","maa areed asaawee
+muqaabala",ما اريد اسوي مقابلة,
+P-04-02,"He does not wish to
+give an interview.","maa yereed yesaawee
+muqaabala",ما يريد يسوي مقابلة,
+P-04-03,"She does not wish to
+give an interview.","maa treed tsaawee
+muqaabala",ما تريد تسوي مقابلة,
+P-04-04,"I am not qualified to
+answer that question.","maa ‘indee al gidra
+Hata ajaawib ‘ala soo-
+aalik","ما عندي القدرة حتى
+اجاوب على سؤالك",
+P-04-05,"She is not qualified to
+answer that question.","maa ‘indaha al gidra
+Hata tijaawib ‘ala soo-
+aalik","ما عندها القدرة حتى
+تجاوب على سؤالك",
+P-04-06,"He is not qualified to
+answer that question.","maa ‘indah al gidra
+Hata yijaawib ‘ala soo-
+aalik","ما عنده القدرة حتى يجاوب
+على سؤالك",
+P-04-07,"He does not want to
+answer that question.","hoo maa yabee
+yijaawib ‘ala soo-aalik","هو ما يبي يجاوب على
+سؤالك",
+P-04-08,"She does not want to
+answer that question.","hee maa tabee tijaawib
+‘ala soo-aalik","هي ما تبي تجاوب على
+سؤالك",
+P-04-09,"I will not answer this
+question.","maanee raaH ajaawib
+‘ala haaTha as soo-aal","ماني راح اجاوب على هذا
+السؤال",
+P-04-10,"I have no answer at
+this time.","maa ‘indee ijaaba fee
+al waqit al Haalee","ما عندي اجابة في الوقت
+الحالي",
+P-04-11,"I would like to stop this
+interview.","areed anhee al
+muqaabala alHeen",اريد انهي المقابلة الحين,
+P-04-12,"She would like to stop
+this interview.","hee tabee tiwagif al
+muqaabala alHeen","هي تبي توقف المقابلة
+الحين",
+P-04-13,"He would like to stop
+this interview.","hoo yabee yiwagif al
+muqaabala alHeen",هو يبي يوقف المقابلة الحين,
+P-04-14,No comment.,maa fee ta’leeq,ما في تعليق,
+P-04-15,"Can you please ask
+the question in simpler
+language?","mumkin tas-al as soo-
+aal bishakil mubasaT?","ممكن تسأل السؤال بشكل
+مبسط؟",
+P-04-16,This interview is over.,"haaThee al muqaabala
+intahat",هذي المقابلة انتهت,
+P-05-01,___ will be here soon.,"___ raaH yukoon hina
+Haalan",___ راح يكون هنا حالًا,
+P-05-02,"I will call on you to
+speak.","raaH aTlub mink
+titkalam",راح اطلب منك تتكلم,
+P-05-03,"He will call on you to
+speak.","hoo raaH yaTlub mink
+titkalam",هو راح يطلب منك تتكلم,
+P-05-04,"She will call on you to
+speak.","hee raaH taTlub mink
+titkalam",هي راح تتطلب منك تتكلم,
+P-05-05,"Please ask only one
+question each time you
+are called on.","law simaHt is-al soo-
+aal waaHid kul mara
+ni’Teek feeha ad dor","لو سمحت اسأل سؤال واحد
+كل مرة نعطيك فيها الدور",
+P-05-06,"You may ask one
+legitimate follow-up
+question per turn.","‘indik furSat TariH soo-
+aal mutaaba’a ba’id kul
+soo-aal","عندك فرصة طرح سؤال
+متابعة بعد كل سؤال",
+P-05-07,"Please wait for the
+interpreter to translate
+your question.","law simaHt a’iT furSa
+lil mutarjim Hata
+yitarjim soo-aalik","لو سمحت اعط فرصة
+للمترجم حتى يترجم سؤالك",
+P-05-08,"Please wait for the
+interpreter to translate
+your answer.","law simaHt a’iT furSa
+lil mutarjim Hata
+yitarjim ijaabatik","لو سمحت اعط فرصة
+للمترجم حتى يترجم اجابتك",
+P-05-09,"That is a separate
+question; there may be
+time to address it later.","haaTha soo-aal
+minfaSil, mumkin
+yukoon ‘indana wagit
+nijaawiba ba’dayn","هذا سؤال منفصل، ممكن
+يكون عندنا وقت نجاوبه
+بعدين",
+P-05-10,We ran out of time.,intaha wagtana,انتهى وقتنا,
+P-05-11,"If he promised you
+information, be sure
+to give your contact
+information to ____.","iThaa wa’adk
+bima’loomaat, ta-akad
+inik ti’Tee Tareega lil-
+itiSaal ‘alayk lee ___","اذا وعدك بمعلومات، تأكد
+انك تعطي طريقة للاتصال
+عليك لـ___",
+P-05-12,"If she promised you
+information, be sure
+to give your contact
+information to her.","iThaa wa’adtk inaha
+ti’Teek ma’loomaat,
+ta-akad inik ta’Teeha
+Tareega lil-iteeSaal
+‘alayk","اذا وعدتك انها تعطيك
+معلومات، تأكد انك تعطيها
+طريقة للاتصال عليك",
+P-05-13,"If I promised you
+information, be sure
+to give your contact
+information to me.","iThaa wa’adtik
+bima’loomaat, ta-akad
+inak ta’Teenee Tareega
+lil-iteeSaal ‘alayk","اذا وعدتك بمعلومات، تأكد
+انك تعطيني طريقة للاتصال
+عليك",
+P-05-14,"Another session will
+take place later today.","jalsa thaaneeya raaH
+tiSeer ba’dayn al yom","جلسة ثانية راح تصير بعدين
+اليوم",
+P-05-15,"Thanks for your
+cooperation.","mashkoor ‘ala
+ta’aawink",مشكور على تعاونك,
+P-05-16,"Thanks for your
+understanding.","mashkoor ‘ala
+tafahumk",مشكور على تفهمك,
+P-06-01,"I am not an official
+spokesperson.","anaa maa hoo al
+mutaHadith ar rasmee",أنا ما هو المتحدث الرسمي,
+P-06-02,"Please wait for
+the public affairs
+representative.","law simaHt intaDhir
+Hata yejee mandoob
+ash shu-oon al ‘aama","لو سمحت انتظر حتى يجي
+مندوب الشئون العامة",
+P-06-03,"I can only tell you what
+I know.","agdar agoolak bas al-
+ashyaa alee a’arifha","اقدر اقولك بس الاشياء اللي
+اعرفها",
+P-06-04,"The situation is under
+control.","haaTha al mawqif taHt
+as sayTara",هذا الموقف تحت السيطرة,
+P-06-05,"We are doing
+everything we can to
+restore order.","Hinaa na’mal kul
+shay Hata ni’eed an
+niDhaam al-amnee","حنا نعمل كل شي حتى نعيد
+النظام الامني",
+P-06-06,"We are doing
+everything we can to
+protect lives.","Hinaa nisaawee kul
+alee nagdar ‘alayh
+Hata niHmee Hayaat
+an naas","حنا نسوي كل اللي نقدر
+عليه حتى نحمي حياة الناس",
+P-06-07,"We are doing
+everything we can to
+save lives.","Hinaa nisaawee kul
+alee nagdar ‘alayh
+Hata ningiTh Hayaat
+an naas","حنا نسوي كل اللي نقدر
+عليه حتى ننقذ حياة الناس",
+P-06-08,There was an incident.,HSalat Haaditha,حصلت حادثة,
+P-06-09,"The incident is under
+investigation.","fitaHnaa taHgeeg fee
+al Haaditha",فتحنا تحقيق في الحادثة,
+P-06-10,"We are taking this
+matter very seriously.","Hinaa maaKhTheen
+al-amir beejideeya",حنا ماخذين الامر بجدية,
+P-06-11,"People have been
+injured.",fee naas inSaabaw,في ناس انصابو,
+P-06-12,"Civilians have been
+injured.","madaneeyeen
+injarHaw",مدنينين انجرحوا,
+P-06-13,"Police have been
+injured.",rijaal shurTa injarHaw,رجال شرطة انجرحوا,
+P-06-14,"Service members have
+been injured.",junood injarHaw,جنود انجرحوا,
+P-06-15,"Service members have
+been killed.",fee junood ingatlaw,في جنود انقتلوا,
+P-06-16,"People have been
+killed.",fee naas ingatlaw,في ناس انقتلوا,
+P-06-17,"Civilians have been
+killed.","fee madaneeyeen
+ingatlaw",في مدنيين انقتلوا,
+P-06-18,"Names cannot be
+released until victims’
+relatives are notified.","maa nagdar nanshur
+asmaa aDh DhaHaaya
+Hata nibaligh
+aqaribhum","ما نقدر ننشر اسماء الضحايا
+حتى نبلغ اقاربهم",
+P-06-19,"The official spokesman
+is expected here soon.","al mutaHadith ar
+rasmee raaH yukoon
+hina Haalan","المتحدث الرسمي راح يكون
+هنا حالًا",
+P-06-20,"Appropriate action will
+be taken.","raaH nitiKhiTh al-ijraa-
+aat al laazima Haalan","راح نتخذ الاجراءات الازمة
+حالًا",
+P-06-21,"We take every report
+of wrongdoing very
+seriously.","raaH ni’aamil ay
+tagaareer muKhaalifa
+bijideeya kaamila","راح نعامل اي تقارير مخالفة
+بجدية كاملة",
+P-06-22,"We have secured the
+area where the incident
+occurred.","gumna beeta-meen
+manTiqat al Haaditha",قمنا بتأمين منطقة الحادثة,
+P-06-23,"I am sorry but you have
+to wait for the report.","anaa mut-asif, laakin
+laazim nintiDhir at
+tagreer","أنا متأسف، لكن لازم ننتظر
+التقرير",
