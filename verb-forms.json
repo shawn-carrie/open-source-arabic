@@ -1,0 +1,62 @@
+[
+ {
+   "roman": "I",
+   "digit": 1,
+   "arabic": "فَعَلَ",
+   "description": "description of فَعَلَ"
+ },
+ {
+   "roman": "II",
+   "digit": 2,
+   "arabic": "فَعَّلَ",
+   "description": "description of فَعَّلَ"
+ },
+ {
+   "roman": "III",
+   "digit": 3,
+   "arabic": "فاعَلَ",
+   "description": "description of فاعَلَ"
+ },
+ {
+   "roman": "IV",
+   "digit": 4,
+   "arabic": "أَفْعَلَ",
+   "description": "description of أَفْعَلَ"
+ },
+ {
+   "roman": "V",
+   "digit": 5,
+   "arabic": "تَفَعَّلَ",
+   "description": "description of تَفَعَّلَ"
+ },
+ {
+   "roman": "VI",
+   "digit": 6,
+   "arabic": "تَفاعَلَ",
+   "description": "description of تَفاعَلَ"
+ },
+ {
+   "roman": "VII",
+   "digit": 7,
+   "arabic": "اِنْفَعَلَ",
+   "description": "description of اِنْفَعَلَ"
+ },
+ {
+   "roman": "VIII",
+   "digit": 8,
+   "arabic": "اِفْتَعَلَ",
+   "description": "description of اِفْتَعَلَ"
+ },
+ {
+   "roman": "IX",
+   "digit": 9,
+   "arabic": "اِفْعَلَّ",
+   "description": "description of اِفْعَلَّ"
+ },
+ {
+   "roman": "X",
+   "digit": 10,
+   "arabic": "اِسْتَفْعَلَ",
+   "description": "description of اِسْتَفْعَلَ"
+ }
+]
